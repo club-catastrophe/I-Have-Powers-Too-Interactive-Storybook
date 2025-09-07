@@ -1,0 +1,802 @@
+{
+  "chapter": 1,
+  "title": "Lukas' Lightbulb",
+  "titlePage": {
+    "backgroundImage": "Thumbnails Chapter Select/Lukas.png",
+    "title": "Chapter 1: Lukas' Lightbulb"
+  },
+  "musicRanges": [
+    {
+      "startPage": 0,
+      "endPage": 8,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 9,
+      "endPage": 11,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 12,
+      "endPage": 18,
+      "music": "MUSIC/scary.mp3"
+    },
+    {
+      "startPage": 19,
+      "endPage": 21,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 22,
+      "endPage": 29,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 30,
+      "endPage": 33,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 34,
+      "endPage": 37,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 38,
+      "endPage": 42,
+      "music": "MUSIC/sincere.mp3"
+    },
+    {
+      "startPage": 43,
+      "endPage": 53,
+      "music": "MUSIC/happy.mp3"
+    }
+  ],
+  "pages": [
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 1.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.png",
+      "dialogue": [
+        "Lukas is a nine-year-old boy who loves math. Numbers and shapes are all he could think about. His passion for math is so strong that he wants his classmates to like it too."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.wav",
+      "comment": "0"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE-1-1.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.1.png",
+      "dialogue": [
+        "Lukas didn't just like math. He also likes his teacher, Sir Gino. He is the coolest teacher in their grade, and he has a charming smile that all the kids love. Most of all, Sir Gino has this special badge, one reserved for the smartest and friendliest kid in his class."
+      ],
+      "styleClass": "ADJ2NW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.1.wav",
+      "comment": "1"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 2.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 2.png",
+      "dialogue": [
+        "Lukas is smart, but there's one problem. He is also too shy. Even though he wants to share his love for learning, he finds it hard to talk to his classmates during recess. Whenever the kids run and chase each other, he just sits by the side and watches them play."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 2.wav",
+      "comment": "2"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 3.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 3.png",
+      "dialogue": [
+        "One day, Sir Gino sees Lukas all alone at the lunch table. \"Hey, Lukas.\" Sir Gino says with his charming smile. \"Why aren't you playing with the others?\" Lukas looks at Sir Gino with a meek look before he lowers his head. \"I don't know how to talk to them. I feel too shy.\""
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 3.wav",
+      "comment": "3"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 4.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 4.png",
+      "dialogue": [
+        "Sir Gino smiles and sits next to him. \"That's okay. If you want, I can be your friend.\" He says, putting a hand on Lukas's shoulder. His frown transforms to a bright smile. Finally, a friend!"
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 4.wav",
+      "comment": "4"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 5.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 5.png",
+      "dialogue": [
+        "\"Would you like some of my food?\" Sir Gino says. He offers Lukas half of his sandwich. The hungry Lukas accepts his small gift and eats it with delight. As they eat together, Lukas finds himself being more relaxed in Sir Gino's presence."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 5.wav",
+      "comment": "5"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 6.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 6.png",
+      "dialogue": [
+        "They begin to talk about a lot of things related to math, like fractions and division. Lukas shares with Sir Gino how he had been studying in advance for his subject. Sir Gino flashes his signature smile and compliments him on how smart and talented he is. Lukas's eyes shine with excitement. He had never felt this kind of joy from being connected to someone before."
+      ],
+      "styleClass": "EE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 6.wav",
+      "comment": "6"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 7.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 7.png",
+      "dialogue": [
+        "Lukas' lonely days soon became brighter. Now he has something to look forward to during recess! Sir Gino continues to bring him food from the school canteen while showering him with praise and attention. The snacks and the talks make Lukas's days better."
+      ],
+      "styleClass": "ADJ3SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 7.wav",
+      "comment": "7"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 8.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 8.png",
+      "dialogue": [
+        "During classes, Lukas feels even more special. Sir Gino often calls on him to answer tough questions. His other classmates could not figure them out, but Lukas recites the answers proudly and easily. As a reward, Sir Gino gave him little stamps for his efforts. It was clear that Sir Gino liked him, which made Lukas trust his teacher more and more."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 8.wav",
+      "comment": "8"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 9.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 9.png",
+      "dialogue": [
+        "During recess, Sir Gino approaches Lukas at their usual table, friendly as ever. \"Lukas, I just want to say, you're a very special boy,\" Sir Gino says with a smile. \"Since we're best friends, how about you play with me later?\" Lukas looks at him with a confused look. \"Play what? Where?\""
+      ],
+      "styleClass": "WW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 9.wav",
+      "comment": "9"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 10.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 10.png",
+      "choiceQuestion": "Should Lukas go with Sir Gino?",
+      "choiceStyle": "NW",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 11,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral":true
+        },
+        {
+          "text": "No - Tell Sir Gino how that's wrong",
+          "jumpTo": 19,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isNeutral":true
+        }
+      ],
+      "dialogue": [
+        "Sir Gino grins. \"I'll teach you advanced techniques…alone. Come with me later, I'll give you a special badge! What do you think?\" Sir Gino offers, smiling at Lukas. \"It will be our little secret.\" Lukas hesitates. \"That's not right. Why is this a secret?\" He thinks to himself."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 10.wav",
+      "comment": "10"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 11.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 11.png",
+      "dialogue": [
+        "\"This is it…the special badge!\" Lukas is excited, but… he finds this weird. His tummy suddenly churns inside him, but the special badge makes it hard to say no. \"Okay,\" Lukas says in a quiet voice. There is still a feeling of unease around him."
+      ],
+      "styleClass": "ADJWW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 11.wav",
+      "comment": "11"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 12.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 12.png",
+      "dialogue": [
+        "Sir Gino leads Lukas to a quiet part of the school. The corridors are eerily empty and dark. \"Why are we here in this part of the school? This is weird.\" Lukas thinks to himself again. It feels strange to walk in these parts alone with his teacher. Lukas is starting to suspect that Sir Gino is going to do something bad."
+      ],
+      "styleClass": "ADJEE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 12.wav",
+      "comment": "12"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 13.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 13.png",
+      "dialogue": [
+        "Sir Gino turns the knob open to an empty classroom. He reaches into his bag and hands Lukas the special badge. Lukas beams for a moment, but his smile quickly fades when he feels that something is not right. The entire room is empty. None of his other classmates are there. It's just him and Sir Gino in the dark."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 13.wav",
+      "comment": "13"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 14.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 14.png",
+      "choiceQuestion": "Should Lukas have been alone with Sir Gino in the classroom?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 14,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        },
+        {
+          "text": "No",
+          "jumpTo": 15,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        }
+      ],
+      "dialogue": [
+        "Lukas does not like the creepy classroom. For a moment, he sees Sir Gino's shadow move fiercely. He sees its long fingers creeping through the walls. Sir Gino's smile turns into an unsettling grin. \"Sit down, Lukas,\" he says, putting a hand on Lukas's shoulders."
+      ],
+      "styleClass": "ADJ2NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 14.wav",
+      "comment": "14"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 15.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 15.png",
+      "dialogue": [
+        "Lukas did not like Sir Gino's words. He feels confused with what's happening. Sir Gino steps closer, starting to invade his personal space. His shadow distorts into something monstrous and vile as it looms over them. Lukas glances up, his heart pounding within his chest."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 15.wav",
+      "comment": "15"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 16.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 16.png",
+      "choiceQuestion": "Lukas thought about what he should do. Was this a dangerous situation?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 17,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "No",
+          "jumpTo": 16,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "dialogue": [
+        "The shadow’s hand stretches out and creeps onto the floor, onto the ceiling, then near his shoulder. The sharp, dark fingers inch closer to Lukas, trying to touch his pants. He is frightened, and wants to get out of here, now!<br><br> “Do you want to learn with me, Lukas? I promise that you’ll enjoy it.” Sir Gino asks, his voice sweet and gentle. But Lukas feels confused. 'Sir Gino is not being honest!' He thinks to himself."
+      ],
+      "styleClass": "ADJ2WW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 16.wav",
+      "comment": "16"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 17.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 17.png",
+      "dialogue": [
+        "Lukas thinks quickly. He steps back, gathering all his courage, then yells a loud \"NO!\" at Sir Gino and the shadow. A lightbulb appears, hovering above his head. Its light shone upon the shadow monster, which hisses at Lukas before it shrunk away."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 17.wav",
+      "comment": "17"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 18.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 18.png",
+      "dialogue": [
+        "With Sir Gino distracted, Lukas bolts out of the classroom, feeling fear."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 18.wav",
+      "comment": "18"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 19.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 19.png",
+      "choiceQuestion": "Should Lukas stay in school or go home?",
+      "choiceStyle": "SE",
+      "choices": [
+        {
+          "text": "Stay",
+          "jumpTo": 20,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "Go home",
+          "jumpTo": 22,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        }
+      ],
+      "dialogue": [
+        "Lukas stops in the middle of the hall. He's thinking he should stay in school or go home."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 19.wav",
+      "comment": "19"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 20.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 20.png",
+      "dialogue": [
+        "Lukas decides to sit by the lunch tables by himself. A classmate notices that Sir Gino is not with him. \"Hi, Lukas!\" His classmate greets him. \"Where's Sir Gino? Don't you always hang out with him?\" \"Not anymore. He's a bad person.\" Lukas says sadly. \"Why? What happened?\" His classmate asks."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 20.wav",
+      "comment": "20"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 21.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 21.png",
+      "dialogue": [
+        "\"He told me to come with him so I can get a reward, but he was being weird and scary.\" \"But why would he do that? You're his favorite.\" This hurt Lukas deep inside. He doesn't like what his classmate said, but he doesn't know what to reply. Instead, he just puts his head low. Shortly, his classmate left to play with her friends, leaving Lukas all alone. Lukas went home."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 21.wav",
+      "comment": "21"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 22.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 22.png",
+      "choiceQuestion": "Should Lukas tell his parents about what Sir Gino did?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 23,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "No",
+          "jumpTo": 34,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "dialogue": [
+        "Back at home, his dad greets him with open arms, ready for a hug. \"How's my little bright boy doing?\" His dad exclaims with a cheery smile."
+      ],
+      "styleClass": "ADJ5NW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 22.wav",
+      "comment": "22"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 23.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 23.png",
+      "choiceQuestion": "Did Sir Gino make Lukas feel uncomfortable?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 24,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "No",
+          "jumpTo": 23,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "dialogue": [
+        "\"Hey, Lukas. Are you okay? What happened at school?\" His dad asks gently. His mom walks in shortly. \"You can tell us. We'll listen.\" She says as she sits next to him. Lukas looks at his parents and starts tearing up."
+      ],
+      "styleClass": "ADJ3NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 23.wav",
+      "comment": "23"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 24.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 24.png",
+      "dialogue": [
+        "“Sir Gino told me to follow him so he could give me a special badge. Then he started acting really weird and began to touch my pants. I had to run away!”"
+      ],
+      "styleClass": "SE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 24.wav",
+      "comment": "24"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 25.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 25.png",
+      "choiceQuestion": "Did Sir Gino give Lukas food and attention?",
+      "choiceStyle": "SE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 26,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "No",
+          "jumpTo": 25,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "dialogue": [
+        "\"Did Sir Gino do anything else? Was he doing other strange things to you?\" His mother asks with a gentle but firm voice. Lukas thinks for a bit, then tells his parents about what he remembers."
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 25.wav",
+      "comment": "25"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 26.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 26.png",
+      "dialogue": [
+        "\"Sir Gino would always sit next to me and give me food during recess. He'd always tell me how smart and talented I am. He also calls me a lot during class. I really thought we were friends.\" Lukas turns his head to his parents, tears still in his eyes."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 26.wav",
+      "comment": "26"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 27.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 27.png",
+      "choiceQuestion": "Was Sir Gino a good friend to Lukas?",
+      "choiceStyle": "ADJSW",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 27,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        },
+        {
+          "text": "No",
+          "jumpTo": 28,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        }
+      ],
+      "dialogue": [
+        "His dad put a gentle hand on his shoulder. \"Lukas, what Sir Gino was doing is called 'grooming'.\" \"What does that mean, dad?\" \"Sir Gino is a bad person. He was trying to gain your trust and make you feel special to force his bad intentions on you.\""
+      ],
+      "styleClass": "ADJ6NW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 27.wav",
+      "comment": "27"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 28.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 28.png",
+      "dialogue": [
+        "\"So, he wasn't being a real friend?\" Lukas says with a sigh. \"Sir Gino isn't a good friend if it ends with you feeling bad. Good friends would not ask you to do something that isn't right. Real friends will respect you and listen to you.\" His dad explains."
+      ],
+      "styleClass": "NW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 28.wav",
+      "comment": "28"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 29.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 29.png",
+      "dialogue": [
+        "\"I'm very proud that you recognized what was wrong, my brave boy.\" His mom says with comfort. \"It should be a teacher's job to make you feel safe. What Sir Gino did was against the law.\""
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 29.wav",
+      "comment": "29"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 30.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 30.png",
+      "dialogue": [
+        "\"We love you, son. You did the right thing by telling us.\" His dad says and pulls him into a loving hug. Lukas smiles and hugs his parents. Their accepting warmth made his fearful feelings disappear. Instead, he now feels safe, happy, and loved."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 30.wav",
+      "comment": "30"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 31.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 31.png",
+      "dialogue": [
+        "His parents take him to school the next day. The nervous feeling in Lukas' stomach returns. \"Mom, Dad, what should I do when I see Sir Gino again? I don't want him to go near me.\""
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 31.wav",
+      "comment": "31"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 32.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 32.png",
+      "dialogue": [
+        "His mom smiles gently. \"I reported him to the school yesterday. They gave him a suspension. He won't be your teacher in math class anymore.\" His dad kneels to his level and places a hand on his shoulder. \"And remember, Lukas. If someone tries to make you feel unsafe again, you can always tell us. We will always protect you, my little bright boy.\""
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 32.wav",
+      "comment": "32"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 33.mp4",
+  "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 33.png",
+  "dialogue": [
+    "Lukas nods with enthusiasm before waving goodbye to his mom and dad. He enters the school with a bright smile. He is safe, knowing that his parents will always have his back. Having loved ones listen and protect helps fear turn into courage."
+  ],
+  "styleClass": "ADJ2SW",
+  "bgAudio": "lukas_lightbulb/Audio/English/PAGE 33 END 1.wav",
+  "comment": "33",
+  "choiceStyle": "ADJSE",
+  "choiceQuestion": "Let's Reflect on Lukas's Journey!",
+  "choices": [
+    {
+      "text": "Try The Mini Lessons",
+      "jumpTo": 44,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+    },
+    {
+      "text": "Go To Reflection",
+      "jumpTo": 43,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+    },
+    {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+  ]
+},
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 34.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 34.png",
+      "dialogue": [
+        "Lukas doesn't reply. He runs into the living room and huddles up into a ball on the sofa. He is still bothered about what happened earlier. \"Did anything happen, Lukas?\" His dad says with concern. Lukas just shakes his head and slumps on the couch."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 34.wav",
+      "comment": "34"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 35.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 35.png",
+      "dialogue": [
+        "From that day, Lukas became quieter and more distant than ever. He stopped raising his hand in math class and didn't go to the canteen to eat lunch. He sulked alone at home and refused to tell his parents every time they asked."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 35.wav",
+      "comment": "35"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 36.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 36.png",
+      "dialogue": [
+        "The school's guidance counselor approaches him one day, while he is alone. \"Hello, Lukas.\" She greets him gently. \"Your parents requested that I talk to you.\" Lukas looks at her with a timid expression. \"What did I do?\" He asks. \"You're not in trouble. I just wanted to check up on you. Can you come with me to my office, please?\""
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 36.wav",
+      "comment": "36"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 37.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 37.png",
+      "dialogue": [
+        "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling well recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 37.wav",
+      "comment": "37"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 38.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 38.png",
+      "dialogue": [
+        "\"It's okay, Lukas. This is a place where you can open up. I will listen and help you.\" Lukas took a deep breath and gathered all the courage he can. \"Sir Gino was being weird to me.\" He admits. The guidance counselor gives him an empathetic look. \"What did Sir Gino do?\" \"He took me to a classroom and said he'll give me a special badge, but he was trying to touch me instead.\" The guidance counselor nods. \"Did you tell anyone what happened afterwards?\""
+      ],
+      "styleClass": "ADJ4SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 38.wav",
+      "comment": "38"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 39.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 39.png",
+      "dialogueBoxes": [
+        {
+          "text": "\"I told a classmate what happened, but they didn't believe me. They said I was Sir Gino's favorite.\" Lukas says, holding back his tears.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"I believe you, Lukas. What Sir Gino did is not appropriate for this school.\"",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 39a.wav",
+      "comment": "39"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 40.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 40.png",
+      "dialogue": [
+        "Lukas went back home to his mom and dad after the counseling. They learn what happened and immediately demand an investigation into Sir Gino."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 40.wav",
+      "comment": "40"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 41.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 41.png",
+      "dialogue": [
+        "Lukas slowly goes back to his smart, bright self. He realizes that his fear disappears when there are people to protect him, like the guidance counselor and his parents. Frequent visits with the guidance counselor and being more open to his parents had made him stronger. He is no longer a shy boy, but a courageous, smart kid with a shining, brave heart."
+      ],
+      "styleClass": "ADJ5NE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 41.wav",
+      "comment": "41"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 42.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 42.png",
+      "dialogue": [
+        "In the end, Lukas realized that he should always listen to what he's feeling, and that even the darkest fears can be faced with love and help from others."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 42.wav",
+      "comment": "42",
+      "choiceStyle": "ADJSW",
+      "choiceQuestion": "Let's Reflect on Lukas's Journey!",
+      "choices": [
+      {
+        "text": "Try The Mini Lessons",
+        "jumpTo": 44,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+      },
+      {
+        "text": "Go To Reflection",
+        "jumpTo": 43,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+      },
+      {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+    ]
+    },
+
+    {
+      "image": "Cover_Thumbnails/Reflection/Lukas Questions.png",
+      "styleClass": "ADJSE",
+      "comment": "43",
+      "choiceQuestion": "Where To Next?",
+      "choiceStyle": "refl",
+      "choices": [
+      {
+      "text": "Try The Mini Lessons!",
+      "jumpTo": 44,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true
+      },
+       {
+      "text": "Start Next Chapter",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 2 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+      },
+      {
+        "text": "Back Home",
+        "specialPage": "home",
+        "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+        "isTranslucent": true
+      },
+    {
+      "text": "Chapter Select",
+      "specialPage": "chapterSelect",
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    },
+    {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+        
+      ]
+
+      
+    },
+
+
+
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 1.png",
+      "comment": "43"
+    },
+
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 2.png",
+      "comment": "43"
+    },
+
+    {
+    "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 3.png",
+    "comment": "44"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 4.png",
+      "comment": "45"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 5.png",
+      "comment": "46"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 6.png",
+      "comment": "47"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 7.png",
+      "comment": "48"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 8.png",
+      "comment": "49"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 9.png",
+      "comment": "50"
+     },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 10.png",
+      "comment": "51"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 11.png",
+      "comment": "52"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 12.png",
+      "comment": "53"
+    },
+
+    {
+      "image": "MINI LESSONS/LUKAS ML/ENGLISH LUKAS ML/Lukas ML en 13.png",
+      "styleClass": "ADJSE",
+      "comment": "53"
+    },
+
+    {
+      "image": "Cover_Thumbnails/Reflection/hotline.png"
+    },
+
+    {
+      "image": "Cover_Thumbnails/CoverPage/Credits BG.png",
+      "choiceQuestion": "Where To Next?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+       {
+      "text": "Start Next Chapter",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 2 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true
+      },
+
+      {
+      "text": "Back To Reflection",
+      "jumpTo": 43,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true,
+      "isTranslucent": true
+      }
+      
+        
+      ]
+
+      
+    }
+
+    
+
+  ]
+}

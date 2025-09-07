@@ -1,0 +1,44 @@
+{
+  "name": "I Have Powers Too!",
+  "version": "1.0.0",
+  "description": "I Have Powers Too is a digital non-linear interactive storybook following the stories of three child protagonists with superpowers, helping to teach children about safe touch and self-protection strategies.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . ihpt --platform=win32 --arch=x64 --icon=icon.ico --out=dist --overwrite",
+    "make": "electron-builder"
+  },
+  "build": {
+    "appId": "com.clubcatastrophe.interactive-storybook-ihpt",
+    "productName": "I Have Powers Too",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*",
+      "!node_modules",
+      "!dist"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  },
+  "devDependencies": {
+    "electron": "^37.4.0",
+    "electron-packager": "^17.1.1",
+    "electron-builder": "^25.0.5"
+  }
+}

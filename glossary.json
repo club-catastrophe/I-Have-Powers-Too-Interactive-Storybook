@@ -1,0 +1,191 @@
+{
+  "Lukas": {
+    "definition": "A young boy who loves learning and studying science and numbers.",
+    "type": "character"
+  },
+   "Bea": {
+    "definition": "A young girl with a big imagination.",
+    "type": "character"
+  },
+   "Sarah": {
+    "definition": "A cheerful and gentle  young girl",
+    "type": "character"
+  },
+  "badge": {
+    "definition": "A reward received as a mark of doing something great!",
+    "type": "concept"
+  },
+  "grooming": {
+    "definition": "An act of getting a child’s or a young person’s trust through gift giving or doing favors with the intention of forcing them to do an illegal act like having sex, selling drugs or joining a terrorist organization.",
+    "type": "concept"
+  },
+  "groom": {
+    "definition": "An act of getting a child’s or a young person’s trust through gift giving or doing favors with the intention of forcing them to do an illegal act like having sex, selling drugs or joining a terrorist organization.",
+    "type": "concept"
+  },
+  "ick": {
+    "definition": "An expression of disgust",
+    "type": "concept"
+  },
+  "icky": {
+    "definition": "An expression of disgust",
+    "type": "concept"
+  },
+  "goop": {
+    "definition": "A very dirty, sticky slime.",
+    "type": "concept"
+  },
+  "secret": {
+    "definition": "Something that is not meant to be shared or told to others.",
+    "type": "concept"
+  },
+  "captain": {
+    "definition": "The leader of a baranggay or town.",
+    "type": "concept"
+  },
+  "kissing": {
+    "definition": "A kiss is a way of showing love and affection to someone through a light touch of your lips.",
+    "type": "concept"
+  },
+  "genitals": {
+    "definition": "Genitalia, are sensitive parts of the human body responsible for reproduction.",
+    "type": "concept"
+  },
+  "genitalia": {
+    "definition": "Genitalia, are sensitive parts of the human body responsible for reproduction.",
+    "type": "concept"
+  },
+  "private parts": {
+    "definition": "These are sensitive parts of the human body responsible for reproduction. These parts are called 'private' because they are usually covered by clothes to protect it from harm and injury.",
+    "type": "concept"
+  },
+  "butt": {
+    "definition": "The buttocks, also known as butt, are the two, round soft parts found at the back of the hips. It acts like a cushion whenever you try to sit.",
+    "type": "concept"
+  },
+  "buttocks": {
+    "definition": "The buttocks, also known as butt, are the two, round soft parts found at the back of the hips. It acts like a cushion whenever you try to sit.",
+    "type": "concept"
+  },
+  "breasts": {
+    "definition": "The breast is either of the two soft protruding body parts located at the chest of the female body. These release milk needed to feed babies.",
+    "type": "concept"
+  },
+  "vagina": {
+    "definition": "The vagina is an opening found in between the legs of the female body. It leads to the opening of the womb.",
+    "type": "concept"
+  },
+  "boundaries": {
+    "definition": "A boundary is a personal rule a person establishes on how they wanted to be treated physically, emotionally, and socially. Establishing boundaries helps in deciding what is comfortable on how you want people to treat you. Everyone has the right to say about their personal boundaries. It is how we stay safe and feel good about ourselves.",
+    "type": "concept"
+  },
+  "pornography": {
+    "definition": "Pornography is an explicit visual material (picture or video) exclusively made for adults. Such media are not meant to be seen by children because it shows adults' other body parts in a way that is not appropriate for children",
+    "type": "concept"
+  },
+  "math": {
+    "definition": "Also known as mathematics, it is the science of numbers, shapes, and patterns where logical reasoning is used to solve problems.",
+    "type": "concept"
+  },
+  "mathematics": {
+    "definition": "Also known as mathematics, it is the science of numbers, shapes, and patterns where logical reasoning is used to solve problems.",
+    "type": "concept"
+  },
+  "charming": {
+    "definition": "Having an attractive personality that makes people like you.",
+    "type": "concept"
+  },
+  "shy": {
+    "definition": "Being nervous or timid in the company of other people.",
+    "type": "concept"
+  },
+  "meek": {
+    "definition": "Being quiet, gentle, and easily imposed on; submissive.",
+    "type": "concept"
+  },
+  "transforms": {
+    "definition": "To change in form, appearance, or structure.",
+    "type": "concept"
+  },
+  "delight": {
+    "definition": "Great pleasure or joy.",
+    "type": "concept"
+  },
+  "relaxed": {
+    "definition": "Free from tension and anxiety; at ease.",
+    "type": "concept"
+  },
+  "compliments": {
+    "definition": "An expression of admiration.",
+    "type": "concept"
+  },
+  "signature": {
+    "definition": "A person's distinct, noticeable characteristic that serves as a form of identity.",
+    "type": "concept"
+  },
+  "lonely": {
+    "definition": "A form of sadness expressed because one has no friends or company.",
+    "type": "concept"
+  },
+  "praise": {
+    "definition": "The expression of approval or admiration for someone or something.",
+    "type": "concept"
+  },
+  "attention": {
+    "definition": "The act of focusing the mind on something or someone.",
+    "type": "concept"
+  },
+  "confused": {
+    "definition": "Unable to think clearly.",
+    "type": "concept"
+  },
+  "advanced": {
+    "definition": "To increase ones level of knowledge or skill compared to others.",
+    "type": "concept"
+  },
+  "techniques": {
+    "definition": "A way of carrying out a particular task.",
+    "type": "concept"
+  },
+  "churns": {
+    "definition": "To move about vigorously and painfully.",
+    "type": "concept"
+  },
+  "unease": {
+    "definition": "A feeling of anxiety or discomfort.",
+    "type": "concept"
+  },
+  "eerily": {
+    "definition": "In a strange and frightening manner.",
+    "type": "concept"
+  },
+  "suspect": {
+    "definition": "To have suspicion or doubt about something or someone.",
+    "type": "concept"
+  },
+  "beams": {
+    "definition": "To smile radiantly.",
+    "type": "concept"
+  },
+  "fiercely": {
+    "definition": "In a violent or aggressive manner.",
+    "type": "concept"
+  },
+  "distorts": {
+    "definition": "To create a misleading or false impression of something.",
+    "type": "concept"
+  },
+  "vile": {
+    "definition": "Extremely unpleasant.",
+    "type": "concept"
+  },
+  "distracted": {
+    "definition": "Inability to concentrate or focus because one's mind is preoccupied.",
+    "type": "concept"
+  },
+  "guidance counselor": {
+    "definition": "A professional who helps students with their academic, career, social, and emotional development.",
+    "type": "concept"
+  }
+
+}

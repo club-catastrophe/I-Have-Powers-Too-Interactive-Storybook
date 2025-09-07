@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>I Have Powers, Too!</title>
+  <link rel="stylesheet" href="ihptmainstyle.css">
+  <link rel="stylesheet" href="pagesstyles.css">
+
+</head>
+<body>
+  
+  <div id="opening-screen">
+    
+    <img id="bg-gif" src="Cover_Thumbnails\CoverPage\Cover-Page-Motion.gif" alt="Background Animation">
+    
+    
+    <div class="logo-bar">
+      
+      <img src="logos\logo1.jpg" alt="Logo 1">
+      <img src="logos\logo2.png" alt="Logo 2">
+      <img src="logos\logo3.png" alt="Logo 3">
+      <img src="logos\logo4.png" alt="Logo 4">
+
+      <div class="opening-bookmark-selector">
+        <div class="nav-icon" onclick="openBookmarksPopup()" title="Bookmark This Page">
+          <img src="ICONS/bookmark icon.png" alt="Bookmark">
+        </div>
+      </div>
+      
+      <div class="opening-language-selector">
+        <select id="openingLanguageSelect" class="opening-language-dropdown">
+          <option value="tl">Tagalog</option>
+          <option value="en">English</option>
+        </select>
+      </div>
+    </div>
+    
+    
+    <div class="title-section">
+      <img id="title-image" src="Cover_Thumbnails\CoverPage\ENG Title.png" alt="I Have Powers Too!" class="title-image">
+      
+      <h1 class="main-title" style="display: none;">I Have Powers Too!</h1>
+      <div class="main-buttons">
+        <button class="main-button" onclick="showIntro()" id="start-now-btn">Start Now</button>
+        <button class="main-button" onclick="showChapterSelect()" id="chapter-select-btn">Chapter Select</button>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="tutorial-screen">
+    <div class="tutorial-container">
+      <h2 class="tutorial-title" id="tutorial-title">Learn How to Use the Story</h2>
+      
+      <div class="tutorial-instruction">
+        <p id="tutorial-instruction-text">Hover over highlighted words to learn their meanings!</p>
+      </div>
+      
+      
+      <div class="tutorial-dialogue-box">
+        <p id="tutorial-sample-text">Welcome to the magical interactive story book: I Have Powers Too! Here we'll get to meet amazing characters and explore their incredibly rich stories.<br></br>To guide you on your journey, you can hover over the highlighted words to learn and understand <span class="glossary-word-highlight type-character" data-word="characters" data-definition="The people you'll encounter throughout your journey, each with their own unique personalities.">characters</span>, <span class="glossary-word-highlight type-location" data-word="locations" data-definition="The settings and places your characters will see and go.">locations</span>, and <span class="glossary-word-highlight type-concept" data-word="concepts" data-definition="Tricky words that young readers might need a little help understanding.">concepts</span>! Let these markers guide you as you embark on your journey!</p>
+      </div>
+      
+      <div class="tutorial-hint">
+        <p id="tutorial-hint-text">✨ Try hovering over the colored words above! ✨</p>
+      </div>
+
+      
+      <br><br>
+      <h2 class="tutorial-title" id="navigation-title">Story Navigation</h2>
+      <div class="tutorial-instruction">
+        <p id="navigation-instruction-text">Hover over the icons to learn what they do!</p>
+      </div>
+        
+  
+      <div class="tutorial-nav-icons">
+
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/home icon.png" alt="Home">
+          <div class="tutorial-nav-tooltip" id="tooltip-home">Home - Return to the main menu</div>
+        </div>
+      
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/chapter icon.png" alt="Chapter Select">
+          <div class="tutorial-nav-tooltip" id="tooltip-chapter">Chapter Select - Choose a different chapter</div>
+        </div>
+        
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/replay icon.png" alt="Replay">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-replay">Replay - Replay the Page Narration</div>
+        </div>
+
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/bookmark icon.png" alt="Bookmark">
+          <div class="tutorial-nav-tooltip" id="tooltip-bookmark">Bookmark - Save your current page</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/info icon.png" alt="Information">
+          <div class="tutorial-nav-tooltip" id="tooltip-info">Information - Tutorial and Help details</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/setting icon.png" alt="Settings">
+          <div class="tutorial-nav-tooltip" id="tooltip-settings">Settings - Adjust volume, font size, and more</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/sound icon.png" alt="Toggle Mute">
+          <div class="tutorial-nav-tooltip" id="tooltip-audio">Audio Toggle - Turn sound on/off</div>
+        </div>
+      </div>
+
+      <div class="tutorial-hint">
+        <p id="tutorial-icons-hint">✨ Try hovering over the icons above! ✨</p>
+      </div>
+      <button class="main-button tutorial-continue-btn" onclick="proceedToStory()" id="tutorial-continue">Let's Go!</button>
+    </div>
+  </div>
+
+    <div id="chapter-title-screen">
+    <div class="chapter-title-container">
+      <div class="chapter-title-background" id="chapter-title-bg">
+        <img src="Cover_Thumbnails/CoverPage/Credits BG.png"class="chapter-image">
+      </div>
+      <div class="chapter-title-content">
+        <h1 class="chapter-title-text" id="chapter-title-text">Chapter 1: Lukas's Lightbulb</h1>
+        <button class="main-button chapter-begin-btn" onclick="beginChapterStory()" id="begin-journey-btn">Begin Your Journey</button>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="intro-screen">
+    <h2 id="intro-title">To the little ones,</h2>
+    <p id="intro-subtitle">seek your power and wield it,</p><br><br>
+    <button class="main-button" onclick="showDedication()" id="ded-button">Dedication</button>
+  </div>
+
+  <div id="dedication-screen">
+
+    <h2 id="ded-title">Hello there, dear reader!,</h2>
+    <p id="ded-subtitle">We courteously invite you to walk with us through the winding streets of the city, where three different children with hidden powers lived. Their strengths kept secret to themselves, unbeknownst to them. Read and choose how they go about their journeys, discovering their incredible abilities along the way and see how their stories intertwine. Who knows? Maybe in the end... You will find your superpowers too.</p>
+    <button class="main-button" onclick="startStory()" id="begin-story-btn">Begin Story</button>
+  </div>
+
+  
+  <div id="chapter-select">
+    
+    <div class="chapter-select-blue-bar"></div>
+    
+    <h2 id="chapter-select-title">Chapter Select</h2>
+    <p class="chapter-subtitle" id="chapter-select-subtitle">Select a chapter to begin your adventure</p>
+    
+    <div class="chapters-container">
+      
+      <div class="chapter-card chapter-1" onclick="loadChapter(1)">
+        <div class="chapter-image-container">
+          <img src="Thumbnails Chapter Select/Lukas.png" alt="Chapter 1 Preview" class="chapter-image">
+        </div>
+        <div class="chapter-title" id="chapter-1-title">Chapter 1:</div>
+        <div class="chapter-subtitle-card" id="chapter-1-subtitle">Lukas' Lightbulb</div>
+      </div>
+
+      
+      <div class="chapter-card chapter-2" onclick="loadChapter(2)">
+        <div class="chapter-image-container">
+          
+          <img src="Thumbnails Chapter Select/Bea.png" alt="Chapter 2 Preview" class="chapter-image">
+        </div>
+        <div class="chapter-title" id="chapter-2-title">Chapter 2:</div>
+        <div class="chapter-subtitle-card" id="chapter-2-subtitle">Bea's Bubbles</div>
+      </div>
+
+      
+      <div class="chapter-card chapter-3" onclick="loadChapter(3)">
+        <div class="chapter-image-container">
+          
+          <img src="Thumbnails Chapter Select/Sarah.png" alt="Chapter 2 Preview" class="chapter-image">
+        </div>
+        <div class="chapter-title" id="chapter-3-title">Chapter 3:</div>
+        <div class="chapter-subtitle-card" id="chapter-3-subtitle">Sarah's Super Strength</div>
+      </div>
+    </div>
+
+    <button class="back-button" onclick="showOpening()" id="back-to-main-btn">Back to Main Menu</button>
+  </div>
+
+  
+  <div class="page-container" id="story-page">
+    
+    <div class="top-nav-bar" id="top-nav">
+
+      <div class="nav-icon" onclick="goHome()" title="Home">
+        <img src="ICONS/home icon.png" alt="Home">
+      </div>
+      
+      <div class="nav-icon" onclick="showChapterSelectFromStory()" title="Chapter Select">
+        <img src="ICONS/chapter icon.png" alt="Chapter Select">
+      </div>
+      
+      <div class="nav-icon" onclick="repeatPageNarration()" title="Repeat Narration">
+        <img src="ICONS/replay icon.png" alt="Chapter Select">
+      </div>
+      
+
+      <div class="nav-icon" onclick="bookmarkCurrentPage()" title="Bookmark This Page">
+        <img src="ICONS/bookmark icon.png" alt="Bookmark">
+      </div>
+
+      <div class="nav-icon" onclick="openInformation()" title="Information">
+        <img src="ICONS/info icon.png" alt="Information">
+      </div>
+
+      <div class="nav-icon" onclick="openSettings()" title="Settings">
+        <img src="ICONS/setting icon.png" alt="Settings">
+      </div>
+
+      <div class="nav-icon" onclick="toggleAllAudio()" title="Toggle Audio" id="audio-toggle">
+        <img src="ICONS/sound icon.png" alt="Toggle Audio">
+      </div>
+    </div>
+
+    <div id="background">
+      <img id="page-image" style="display: none;" />
+    </div>
+    <div id="story-container"></div>
+    
+    
+    <button id="prev" class="nav-btn">
+      <img src="ICONS/left.png" alt="Previous" class="nav-btn-icon">
+    </button>
+    <button id="next" class="nav-btn">
+      <img src="ICONS/right.png" alt="Next" class="nav-btn-icon">
+    </button>
+  </div>
+
+  
+  <div id="settings-overlay" onclick="closeSettingsOnOverlay(event)">
+    <div class="settings-modal">
+      <div class="settings-header">
+        <h2 class="settings-title" id="settings-title">Settings</h2>
+        <button class="close-settings" onclick="closeSettings()">✕</button>
+      </div>
+
+      
+      <div class="settings-group">
+        <div class="setting-label">
+          <span id="bg-music-label">Background Music Volume</span>
+          <span class="setting-percentage" id="bg-music-display">(20%)</span>
+        </div>
+        <div class="setting-control">
+          <input id="bgMusicSlider" type="range" min="0" max="1.0" step="0.01" value="0.2" class="professional-slider">
+        </div>
+      </div>
+
+      
+      <div class="settings-group">
+        <div class="setting-label">
+          <span id="narration-label">Narration Volume</span>
+          <span class="setting-percentage" id="narration-display">(100%)</span>
+        </div>
+        <div class="setting-control">
+          <input id="narrationSlider" type="range" min="0" max="1.0" step="0.01" value="0.9" class="professional-slider">
+        </div>
+      </div>
+
+      
+      <div class="settings-group">
+        <div class="setting-label">
+          <span id="sfx-label">Sound Effects Volume</span>
+          <span class="setting-percentage" id="sfx-display">(20%)</span>
+        </div>
+        <div class="setting-control">
+          <input id="sfxSlider" type="range" min="0" max="1.0" step="0.01" value="0.9" class="professional-slider">
+        </div>
+      </div>
+
+      
+      <div class="settings-group">
+        <div class="setting-label">
+          <span id="font-size-label">Font Size</span>
+          <span class="setting-percentage" id="font-size-display">(120%)</span>
+        </div>
+        <div class="setting-control">
+          <input id="fontSizeSlider" type="range" min="0.8" max="2.5" step="0.1" value="1.2" class="professional-slider font-size-slider">
+        </div>
+      </div>
+
+      
+      <div class="settings-row">
+        <div class="settings-group">
+          <div class="setting-label">
+            <span id="autoplay-label">Autoplay Content</span>
+          </div>
+          <div class="setting-control">
+            <div class="checkbox-container">
+              <input type="checkbox" id="autoplayCheckbox" class="custom-checkbox" checked>
+            </div>
+          </div>
+        </div>
+
+        <div class="settings-group">
+          <div class="setting-label">
+            <span id="narration-speed-label">Narration Speed</span>
+          </div>
+          <div class="setting-control">
+            <select id="narrationSpeedSelect" class="language-dropdown">
+              <option value="0.5">0.5x</option>
+              <option value="0.75">0.75x</option>
+              <option value="1" selected>1x</option>
+              <option value="1.25">1.25x</option>
+              <option value="1.5">1.5x</option>
+              <option value="1.75">1.75x</option>
+              <option value="2">2x</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      
+      <div class="settings-group">
+        <div class="setting-label">
+          <span id="language-label">Language</span>
+        </div>
+        <div class="setting-control">
+          <select id="languageSelect" class="language-dropdown">
+            <option value="tl">Tagalog</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+
+      
+      <button class="clear-bookmark-btn" onclick="clearAllBookmarks()" id="clear-bookmarks-btn">Clear All Bookmarks</button>
+      <button class="see-credits-btn" onclick="showCredits()" id="credits-btn">See Credits</button>
+    </div>
+  </div>
+
+  <div id="information-overlay" onclick="closeInformationOnOverlay(event)">
+    <div class="information-modal">
+      <div class="settings-header">
+        <h2 class="settings-title" id="information-title">Information</h2>
+        <button class="close-settings" onclick="closeInformation()">✕</button>
+      </div>
+      <h2 class="tutorial-title" id="info-tutorial-title">Learn How to Use the Story</h2>
+      
+      <div class="tutorial-instruction">
+        <p id="info-tutorial-instruction">Hover over highlighted words to learn their meanings!</p>
+      </div>
+      
+      
+      <div class="tutorial-dialogue-box">
+        <p id="info-tutorial-sample">Welcome to the magical interactive story book: I Have Powers Too! Here we'll get to meet amazing characters and explore their incredibly rich stories.<br></br>To guide you on your journey, you can hover over the highlighted words to learn and understand <span class="glossary-word-highlight type-character" data-word="characters" data-definition="The people you'll encounter throughout your journey, each with their own unique personalities.">characters</span>, <span class="glossary-word-highlight type-location" data-word="locations" data-definition="The settings and places your characters will see and go.">locations</span>, and <span class="glossary-word-highlight type-concept" data-word="concepts" data-definition="Tricky words that young readers might need a little help understanding.">concepts</span>! Let these markers guide you as you embark on your journey!</p>
+      </div>
+      
+      <div class="tutorial-hint">
+        <p id="info-tutorial-hint">✨ Try hovering over the colored words above! ✨</p>
+      </div>
+
+      
+      <br><br>
+      <h2 class="tutorial-title" id="info-navigation-title">Story Navigation</h2>
+      <div class="tutorial-instruction">
+        <p id="info-navigation-instruction">Hover over the icons to learn what they do!</p>
+      </div>
+        
+      <div class="tutorial-nav-icons">
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/home icon.png" alt="Home">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-home">Home - Return to the main menu</div>
+        </div>
+
+      
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/chapter icon.png" alt="Chapter Select">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-chapter">Chapter Select - Choose a different chapter</div>
+        </div>
+        
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/replay icon.png" alt="Chapter Select">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-replay">Replay - Replay the Page Narration</div>
+        </div>
+
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/bookmark icon.png" alt="Bookmark">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-bookmark">Bookmark - Save your current page</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/info icon.png" alt="Information">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-info">Information - Tutorial and Help details</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/setting icon.png" alt="Settings">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-settings">Settings - Adjust volume, font size, and more</div>
+        </div>
+        <div class="tutorial-nav-icon">
+          <img src="ICONS/sound icon.png" alt="Toggle Mute">
+          <div class="tutorial-nav-tooltip" id="info-tooltip-audio">Audio Toggle - Turn sound on/off</div>
+        </div>
+      </div>
+
+      <div class="tutorial-hint">
+        <p id="info-tutorial-icons-hint">✨ Try hovering over the icons above! ✨</p>
+      </div>        
+    </div>
+  </div>
+
+  
+  <div id="glossary-popup" class="glossary-popup" style="display: none;">
+    <div class="glossary-content">
+      <div class="glossary-word"></div>
+      <div class="glossary-definition"></div>
+    </div>
+  </div>
+
+  
+  <div id="bookmarks-overlay" onclick="closeBookmarksOnOverlay(event)">
+    <div class="settings-modal">
+      <div class="settings-header">
+        <h2 class="settings-title" id="bookmarks-title">My Bookmarks</h2>
+        <button class="close-settings" onclick="closeBookmarksPopup()">✕</button>
+      </div>
+
+      <div class="bookmarks-content">
+        
+        <div class="settings-group">
+          <button class="clear-bookmark-btn" onclick="addBookmark()" id="add-bookmark-btn" style="background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%); margin-bottom: 0.5rem;">
+            Add Current Page
+          </button>
+        </div>
+
+        
+        <div id="bookmarks-list">
+          
+        </div>
+      </div>
+
+      
+      <div class="bookmarks-footer">
+        <button class="clear-bookmark-btn" onclick="clearAllBookmarks()" id="clear-all-bookmarks-btn">
+          Clear All Bookmarks
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="test-controls">
+    <h3>Credits Test Controls</h3>
+    <button onclick="startCreditsAnimation()">Start Credits Animation</button>
+    <button onclick="showHomeButton()">Show Home Button</button>
+    <button onclick="resetCredits()">Reset Credits</button>
+    <button onclick="testScrollSpeed()">Test Scroll Speed</button>
+  </div>
+
+  
+  <div class="debug-info">
+    <div id="debug-status"></div>
+    <div id="debug-timer"></div>
+  </div>
+
+  
+  <div id="credits-screen">
+  <div class="credits-container">
+    <div class="credits-background"></div>
+    <div class="credits-content" id="credits-content">
+      <div class="credits-spacer"></div>
+
+      <h1 class="credits-main-title">
+        <img id="title-image" src="Cover_Thumbnails\CoverPage\ENG Title.png" alt="I Have Powers Too!" class="title-image">
+      </h1>
+
+      
+
+      
+      <div class="credits-section">
+        <h2>Voice Actors</h2>
+
+        <h3>Narrators</h3>
+        <p><strong>Chapter 1</strong></p>
+        <p>English: <a href="https://m.youtube.com/@sir.skeltonskullsaplenty6055">A.P Boulay (Sir Skelton Skullsaplenty)</a></p>
+        <p>Filipino: Marcus Iñigo Abuel</p>
+
+        <p><strong>Chapter 2</strong></p>
+        <p>English: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+        <p>Filipino: Marcus Iñigo Abuel</p>
+
+        <p><strong>Chapter 3</strong></p>
+        <p>English: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+        <p>Filipino: Marcus Iñigo Abuel</p>
+
+        <h3>Bea</h3>
+        <p>English: <a href="https://www.instagram.com/celerysticksofficial?igsh=MWV2YmhsYmR5c3R2cg%3D%3D">CelerySticks (@celerysticksofficial)</a></p>
+        <p>Filipino: <a href="https://bsky.app/profile/kamikosiopao-arts.bsky.social">Krissie Kae Cunanan</a></p>
+
+        <h3>Lukas</h3>
+        <p>English: <a href="https://x.com/D_Fergs">Danielle Ferguson</a></p>
+        <p>Filipino: Zhang Guerrero</p>
+        <p>Filipino: <a href="https://bsky.app/profile/kamikosiopao-arts.bsky.social">Krissie Kae Cunanan</a></p>
+
+        <h3>Sarah</h3>
+        <p>English: <a href="https://bsky.app/profile/kamikosiopao-arts.bsky.social">Krissie Kae Cunanan</a></p>
+        <p>Filipino: <a href="https://bsky.app/profile/kamikosiopao-arts.bsky.social">Krissie Kae Cunanan</a></p>
+
+        <h3>Sir Gino</h3>
+        <p>English: <a href="https://motchi.carrd.co/">Timothy Carlos</a></p>
+        <p>Filipino: <a href="https://motchi.carrd.co/">Timothy Carlos</a></p>
+
+        <h3>Bea’s Dad</h3>
+        <p>English: <a href="https://jeremiahcoleva.carrd.co/">Jeremiah Cole</a></p>
+        <p>Filipino: Denzel Eian Ramos</p>
+
+        <h3>Pearl</h3>
+        <p>English: <a href="https://www.instagram.com/jellatinnz/">Anjella Arada</a></p>
+        <p>Filipino: <a href="https://www.instagram.com/jellatinnz/">Anjella Arada</a></p>
+
+        <h3>Bea’s Grandma</h3>
+        <p>English: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+        <p>Filipino: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+
+        <h3>Captain Frank</h3>
+        <p>English: Denzel Eian Ramos</p>
+        <p>Filipino: Denzel Eian Ramos</p>
+
+        <h3>Bea’s Mom</h3>
+        <p>English: <a href="https://x.com/D_Fergs">Danielle Ferguson</a></p>
+        <p>Filipino: <a href="https://www.instagram.com/jellatinnz/">Anjella Arada</a></p>
+
+        <h3>Lukas’ Dad</h3>
+        <p>English: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+        <p>Filipino: <a href="https://tomo-va.carrd.co/">Elijah James (TOMO VA)</a></p>
+
+        <h3>Lukas’ Mom</h3>
+        <p>English: <a href="https://arati.carrd.co/">Artzy Arty (Arati)</a></p>
+        <p>Filipino: <a href="https://www.castingcall.club/emiii-wemii">Emerald Hernandez</a></p>
+
+        <h3>Lukas’ Classmate</h3>
+        <p>English: <a href="https://x.com/D_Fergs">Danielle Ferguson</a></p>
+        <p>Filipino: Francine Guevarra</p>
+
+        <h3>Guidance Counselor</h3>
+        <p>English: <a href="https://delbellzva.carrd.co/">Dela (@delbellzva)</a></p>
+        <p>Filipino: <a href="https://www.castingcall.club/yashnie">Yashnie</a></p>
+
+        <h3>Aling Inday</h3>
+        <p>English: <a href="https://x.com/D_Fergs">Danielle Ferguson</a></p>
+        <p>Filipino: <a href="https://www.instagram.com/jellatinnz/">Anjella Arada</a></p>
+
+        <h3>Teacher Lydia</h3>
+        <p>English: Rona Rana</p>
+        <p>Filipino: Rona Rana</p>
+
+        <h3>Sarah’s Mom</h3>
+        <p>English: <a href="https://www.castingcall.club/larhonbq">Larizza Quiambao</a></p>
+        <p>Filipino: <a href="https://www.instagram.com/jellatinnz/">Anjella Arada</a></p>
+
+        <h3>Ashley and Yani</h3>
+        <p>English: <a href="https://x.com/D_Fergs">Danielle Ferguson</a></p>
+        <p>Filipino: <a href="https://bsky.app/profile/kamikosiopao-arts.bsky.social">Krissie Kae Cunanan</a></p>
+      </div>
+
+      
+      <div class="credits-section">
+        <h2>Project Designers and Creators</h2>
+        <p><strong>Project Lead:</strong> Zhang Guerrero</p>
+        <p><strong>Asst. Project Lead:</strong> Rona Rana</p>
+        <p><strong>Project Members:</strong> Krissie Kae Cunanan, Sweetheart Salas</p>
+        <p><strong>Game Developer / Web Designer & Engineer:</strong> Sweetheart Salas</p>
+        <p><strong>Character Concept & Design:</strong> Zhang Guerrero, Rona Rana, Krissie Kae Cunanan</p>
+        <p><strong>Storyboard Artist:</strong> Krissie Kae Cunanan, Zhang Guerrero, Rona Rana</p>
+        <p><strong>Illustrators:</strong> Zhang Guerrero, Rona Rana, Krissie Kae Cunanan</p>
+        <p><strong>Concept and Story:</strong> Zhang Guerrero</p>
+        <p><strong>Writers:</strong> Zhang Guerrero, Rona Rana</p>
+        <p><strong>Translators:</strong> Sweetheart Salas, Rona Rana, Krissie Kae Cunanan</p>
+        <p><strong>Idle Animations:</strong> Rona Rana</p>
+      </div>
+
+      
+      <div class="credits-section">
+        <h2>In Collaboration With Related Organizations</h2>
+        <img src="logos\logo2.png" alt="Logo 2" width="150" >
+        <img src="logos\logo1.jpg" alt="Logo 1" width="150">
+      </div>
+
+      
+      
+      
+
+      <div class="credits-section">
+        <h2>Experts</h2>
+        <p><strong>My Children’s House of Hope (Bahay Bata 127)</strong></p>
+        <p>Ms. Minette Dizon — Social Worker</p>
+        <p>Ms. Neng Maneja — Social Worker</p>
+        <p>Pastor Joseph McGourn — Founder</p>
+
+        <p><strong>Center for the Prevention and Treatment of Child Sexual Abuse (CPTCSA)</strong></p>
+        <p>Dr. Lois Engelbrecht — Co-Founder; Psychologist</p>
+        <p>Anne Tiongco — Social Worker and Life Coach</p>
+
+        <p><strong>Authors</strong></p>
+        <p>Ms. Isay Dizon — Comic Book Author (No Secrets/Huwag Magsikreto Comic Book)</p>
+        <p>Jericho Cabahug — Grade School Teacher; Professor</p>
+        <p>Eleanor Oberio — Author</p>
+
+        <p><strong>Game Development</strong></p>
+        <p>Sabrina J. Bautista — Developer</p>
+
+        <p><strong>Digital Campaign</strong></p>
+        <p>Jennifer Santander-Gucor — Social Media Specialist</p>
+
+        <p><strong>Project</strong></p>
+        <p>Michael Camacho — Mentor</p>
+        <p>Heland Ortega — Project Adviser</p>
+      </div>
+
+      <div class="credits-section">
+        <h2>Special Thanks To Honorary Mentions</h2>
+        <p>Benj Salvador</p>
+        <p>Larizza Quiambao</p>
+        <p>Denzel Eian Ramos</p>
+        <p>Elijah James Cabinian</p>
+        <p>Loveanne Patungan</p>
+        <p>Ann Danielle Belarmino</p>
+        <p>Zoee Traveros</p>
+        <p>Iona Beatrix Rana</p>
+        <p>Jessie Anne Rivera</p>
+        <p>and The Girliepops</p>
+      </div>
+
+      <div class="credits-section final-section">
+        <h2>Honorary Mentions</h2>
+        <p>Rebecca Angeles</p>
+        <p>Jane and Jhunz Guerrero</p>
+        <p>Lea Castillo</p>
+        <p>Michael Camacho (our dear mentor)</p>
+      </div>
+
+      <img src="logos\logo3.png" alt="Logo 3" width="300">
+      <img src="logos\logo4.png" alt="Logo 4" width="300">
+
+      <div class="credits-spacer"></div>
+    </div>
+
+    <button id="credits-home-btn" class="credits-home-button" onclick="goHome()">
+      <span id="credits-home-text">Back to Home</span>
+    </button>
+  </div>
+</div>
+
+  
+  <script src="script.js"></script>
+</body>
+</html>

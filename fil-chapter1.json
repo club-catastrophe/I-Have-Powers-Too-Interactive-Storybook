@@ -1,0 +1,812 @@
+{
+  "chapter": 1,
+  "title": "Ang Bumbilya ni Lukas",
+  "titlePage": {
+    "backgroundImage": "chapter_titles/chapter1_title_bg.png",
+    "title": "Kabanata 1: Ang Bumbilya ni Lukas"
+  },
+  "musicRanges": [
+    {
+      "startPage": 0,
+      "endPage": 8,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 9,
+      "endPage": 11,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 12,
+      "endPage": 18,
+      "music": "MUSIC/scary.mp3"
+    },
+    {
+      "startPage": 19,
+      "endPage": 21,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 22,
+      "endPage": 29,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 30,
+      "endPage": 33,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 34,
+      "endPage": 37,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 38,
+      "endPage": 43,
+      "music": "MUSIC/sincere.mp3"
+    },
+    {
+      "startPage": 44,
+      "endPage": 54,
+      "music": "MUSIC/happy.mp3"
+    }
+  ],
+  "pages": [
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 1.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.png",
+      "dialogue": [
+        "Si Lukas ay isang siyam na taong gulang na lalaki na mahilig sa matematika. Puro numero at hugis lang ang lagi niyang naiisip. Sobrang gusto niya ang math na gusto niyang magustuhan ito ng kanyang mga kaklase."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 1.wav",
+      "comment": "0"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE-1-1.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.1.png",
+      "dialogue": [
+        "Hindi lang mahilig si Lukas sa math. Gusto niya rin ang kanyang guro, si Sir Gino. Siya ay ang pinaka-astig na guro sa kanilang baitang, at may nakakaakit siyang ngiti na gustong-gusto ng mga bata. Pero higit sa lahat, si Sir Gino ay may isang espesyal na badge, na para lang sa pinakamatalino at pinakamabait na bata sa kanyang klase."
+      ],
+      "styleClass": "ADJ2NW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 1.1.wav",
+      "comment": "1"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 2.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 2.png",
+      "dialogue": [
+        "Matalino si Lukas, pero may isang problema lang. Masyado rin siyang mahiyain. Kahit na gusto niyang ipakita ang pagmamahal niya sa pag-aaral, nahihirapan siyang makipag-usap sa mga kaklase niya tuwing recess. Tuwing tumatakbo at naghahabulan ang mga bata, uupo lang si Lukas at papanoorin sila sa may gilid."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 2.wav",
+      "comment": "2"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 3.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 3.png",
+      "dialogue": [
+        "Isang araw, nakita siya ni Sir Gino na nakaupo ng mag-isa sa kanyang mesa. “Uy, Lukas,” sabi ni Sir Gino na may kaakit-akit na ngiti. “Bat’ di ka nakikipaglaro sa iba?” Tumingin si Lukas kay Sir Gino na parang nahihiya bago niya binaba ang kanyang ulo. “Hindi ko po alam kung paano ko po sila kakausapin. Masyado po akong nahihiya.”"
+      ],
+      "styleClass": "ADJ5NE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 3.wav",
+      "comment": "3"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 4.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 4.png",
+      "dialogue": [
+        "Ngumiti si Sir Gino at umupo siya sa tabi ni Lukas. “Okay lang yan. Kung gusto mo, pwede ako ang maging kaibigan mo.” sabi niya, sabay hawak sa balikat ni Lukas. Mula sa simangot, ngumiti si Lukas. Sa wakas — may kaibigan na siya!"
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 4.wav",
+      "comment": "4"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 5.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 5.png",
+      "dialogue": [
+        "“Gusto mo ba ng meryenda?” sabi ni Sir Gino. Inalok niya kay Lukas ang kalahati ng kanyang sandwich. Tinanggap ni Lukas ang munting regalo at masayang kinain ito. Habang sila ay kumakain, nararamdaman ni Lukas na mas komportable siya sa presensya ni Sir Gino."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 5.wav",
+      "comment": "5"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 6.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 6.png",
+      "dialogue": [
+        "Nagsimula silang mag-usap tungkol sa math, gaya ng mga fractions at division. Ikwinento ni Lukas kay Sir Gino kung paano siya nag-aaral nang maaga sa math. Ngumiti si Sir Gino at pinuri siya sa kanyang talino at galing. Kuminang ang mga mata ni Lukas sa tuwa. Hindi pa niya nararamdaman ang ganitong klaseng saya sa pagkakaibigan noon."
+      ],
+      "styleClass": "EE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 6.wav",
+      "comment": "6"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 7.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 7.png",
+      "dialogue": [
+        "Lumiwanag ang mga malulungkot na araw ni Lukas. Ngayon, madalas na niyang inaabangan ang oras ng recess! Laging nagdadala ng pagkain si Sir Gino mula sa canteen habang nagpapaulan ng papuri at atensyon. Gustong-gusto ni Lukas ang mga meryenda at pag-uusap nila ni Sir Gino."
+      ],
+      "styleClass": "ADJ3SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 7.wav",
+      "comment": "7"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 8.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 8.png",
+      "dialogue": [
+        "Tuwing may klase, nararamdaman ni Lukas na espesyal siya. Madalas siyang tinatawag ni Sir Gino para sagutin ang mga mahihirap na tanong. Hindi nasasagot ng kanyang mga kaklase, pero madali niyang nasasagot ang mga ito. Bilang gantimpala, binibigyan siya ni Sir Gino ng mga maliliit na stamp para sa kanyang pagsisikap. Kitang-kita na nagugustuhan siya ni Sir Gino, kaya mas lalong tumataas ang tiwala ni Lukas sa kanya."
+      ],
+      "styleClass": "ADJ2SE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 8.wav",
+      "comment": "8"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 9.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 9.png",
+      "dialogue": [
+        "Nung recess, lumapit si Sir Gino kay Lukas sa madalas nilang tambayan, palabati tulad ng dati: “Lukas, gusto ko lang sabihin, isa ka talagang espesyal na bata,” sabi ni Sir Gino na may ngiti. “Dahil magkaibigan tayo, gusto mo bang maglaro tayo mamaya?” Tinignan siya ni Lukas na parang naguguluhan. “Maglaro ng alin? Saan po?”"
+      ],
+      "styleClass": "WW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 9.wav",
+      "comment": "9"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 10.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 10.png",
+      "choiceQuestion": "Dapat bang sumama si Lukas kay Sir Gino?",
+      "choiceStyle": "NW",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 11,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "Hindi – Sabihan siya kung bakit mali iyan",
+          "jumpTo": 19,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isNeutral": true
+        }
+      ],
+      "dialogue": [
+        "Ngumiti si Sir Gino. “Tuturuan kita ng mas advanced na teknik… mag-isa. Sama ka sa akin mamaya, bibigyan kita ng espesyal na badge! Ano sa tingin mo?” alok ni Sir Gino, na ngumingiti kay Lukas. “Magiging munting sikreto natin ‘to.” Naging maalinlangan si Lukas. “Hindi ‘to tama. Bakit sikreto ‘to?” iniisip niya sa sarili niya."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE-10-UPDATED.wav",
+      "comment": "10"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 11.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 11.png",
+      "dialogue": [
+        "“Ito na… ang espesyal na badge!” Nasasabik na si Lukas, pero… may nararamdaman siyang kakaiba. Bigla siyang nakaramdam ng kaba sa tiyan, pero dahil sa espesyal na badge, nahihirapan siyang tumanggi. “Okay po,” sabi ni Lukas ng mahinhin. Mayroon pa ring pakiramdam ng pagkabahala sa paligid niya."
+      ],
+      "styleClass": "ADJWW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE-11-UPDATED.wav",
+      "comment": "11"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 12.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 12.png",
+      "dialogue": [
+        "Dinala ni Sir Gino si Lukas sa isang tahimik na lugar sa paaralan. Nakakatakot ang mga madilim na pasilyo na walang katao-tao. “Bakit nandito kami sa parte ng school na ‘to? Parang kakaiba ‘to,” isip niya sa sarili niya. Nakakangambang maglakad nang mag-isa sa koridor kasama ang kanyang guro. Nagsisimula nang mag-alinlangan si Lukas na may masamang gagawin si Sir Gino."
+      ],
+      "styleClass": "ADJEE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 12.wav",
+      "comment": "12"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 13.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 13.png",
+      "dialogue": [
+        "Binuksan ni Sir Gino ang pinto ng silid-aralan na walang tao. Kinuha niya ang kanyang bag at inabot kay Lukas ang espesyal na badge. Napangiti ng saglit si Lukas, ngunit mabilis na nawala ito nang nararamdaman niyang may mali. Walang laman ang buong silid. Wala roon ang kanyang mga kaklase. Siya lang at si Sir Gino sa dilim."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 13.wav",
+      "comment": "13"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 14.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 14.png",
+      "dialogue": [
+        "Hindi gusto ni Lukas ang nakakatakot na silid-aralan. Sandaling nakita niyang gumalaw ng mabagsik ang anino ni Sir Gino. Nakikita niya ang mga mahabang daliri na gumagapang sa mga dingding. Ang ngiti ni Sir Gino ay biglang naging nakakabahala. “Umupo ka, Lukas,” sabi niya, at inilagay ang kamay sa balikat ni Lukas."
+      ],
+      "styleClass": "ADJ5NE",
+      "choiceQuestion": "Dapat bang mag-isa si Lukas kasama si Sir Gino sa silid-aralan?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 14,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 15,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 14.wav",
+      "comment": "14"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 15.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 15.png",
+      "dialogue": [
+        "Hindi nagustuhan ni Lukas ang mga sinabi ni Sir Gino. Nalilito siya sa nangyayari. Lalong lumalapit si Sir Gino, na halos sakupin ang kanyang personal na espasyo. Ang anino niya ay nagbago at nagiging nakakatakot at masama habang ito ay nakatungod sa kanila. Tumingala si Lukas, na may mabilis na tibok ng puso sa kanyang dibdib."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 15.wav",
+      "comment": "15"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 16.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 16.png",
+      "dialogue": [
+        "Humaba ang kamay ng anino at gumapang sa sahig, sa kisame, at papalapit sa kanyang balikat. Unti-unting lumalapit ang mga matutulis at maitim na mga daliri kay Lukas, sinusubukang hawakan ang pantalon niya. Natatakot siya, at gusto na niyang makaalis dito, ngayon na! “Gusto mo bang matuto kasama ako, Lukas? Pramis ko na magugustuhan mo ‘to.” tanong ni Sir Gino, na may matamis at banayad na boses. Ngunit nalilito si Lukas. 'Hindi totoo ang sinasabi ni Sir Gino!' Isip niya sa sarili."
+      ],
+      "styleClass": "ADJ2WW",
+      "choiceQuestion": "Inisip ni Lukas kung ano ang dapat niyang gawin. Ito ba ay isang mapanganib na sitwasyon?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 17,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 16,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 16.wav",
+      "comment": "16"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 17.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 17.png",
+      "dialogue": [
+        "Nag-isip nang mabilis si Lukas. Umurong siya, at nilikom ang lahat ng kanyang lakas ng loob, pagkatapos ay sumigaw ng malakas na “HINDI!” kay Sir Gino at sa kanyang anino. Isang bumbilya ang lumitaw, na lumulutang sa itaas ng kanyang ulo. Ang ilaw nito ay tumama sa anino ng halimaw, na nag-ngangal kay Lukas bago ito lumiit."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 17.wav",
+      "comment": "17"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 18.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 18.png",
+      "dialogue": [
+        "Habang naaabala si Sir Gino, dali-daling tumakbo si Lukas palabas ng silid-aralan, puno ng takot."
+      ],
+      "styleClass": "ADJ2SE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 18.wav",
+      "comment": "18"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 19.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 19.png",
+      "dialogue": [
+        "Huminto si Lukas sa gitna ng pasilyo. Nag-iisip siya kung dapat siyang manatili sa paaralan o umuwi."
+      ],
+      "styleClass": "SW",
+      "choiceQuestion": "Dapat ba siyang manatili sa paaralan o umuwi?",
+      "choiceStyle": "SE",
+      "choices": [
+        {
+          "text": "Manatili",
+          "jumpTo": 20,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "Umalis",
+          "jumpTo": 22,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 19.wav",
+      "comment": "19"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 20.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 20.png",
+      "dialogue": [
+        "Nagpasya si Lukas na umupo mag-isa sa lamesa. Napansin ng kaklase niya na hindi na kasama si Sir Gino. “Hi, Lukas!” bati ng kanyang kaklase. “Nasaan si Sir Gino? Hindi ba lagi kayong magkasama?”\n“Hindi na. Ayoko na sa kanya,” malungkot na sabi ni Lukas.\n“Bakit? Ano ang nangyari?” tanong ng kanyang kaklase."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 20.wav",
+      "comment": "20"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 21.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 21.png",
+      "dialogue": [
+        "“Sinabihan niya akong sumama sa kanya para makakuha ako ng STAR, pero naging kakaiba at nakakatakot siya. Tapos, sinubukan niya kong hawakan”\n“Pero bakit niya gagawin ‘yan? Paborito ka niya.”\nNasaktan ng malubha si Lukas. Hindi niya gusto ang sinabi ng kanyang kaklase, ngunit hindi niya alam kung ano ang sasabihin. Sa halip, ibinaba niya ang kanyang ulo. Hindi nagtagal, umalis ang kanyang kaklase upang makipaglaro sa kanyang mga kaibigan habang iniwan niya si Lukas mag-isa."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 21.wav",
+      "comment": "21"
+    },
+    {
+      "video": "lukas_lightbulb/Pages/PAGE 22.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 22.png",
+      "dialogue": [
+        "Pagdating sa bahay, sinalubong siya ng kanyang tatay na nakabukas ang mga braso—handang magbigay ng yakap.\n“Kamusta ang aking munti at matalinong anak?” masayang sabi ng kanyang tatay."
+      ],
+      "styleClass": "ADJ7NW",
+      "choiceQuestion": "Dapat bang sabihin ni Lukas sa kanyang mga magulang ang ginawa ni Sir Gino?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 23,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 34,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 22.wav",
+      "comment": "22"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 23.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 23.png",
+      "dialogue": [
+        "“Uy, Lukas. Okay ka lang ba? Anong nangyari sa paaralan?” mahinahong tanong ng kanyang tatay. Dumating ang kanyang nanay at umupo sa tabi niya. “Kung may problema ka, pwede mo kaming sabihan. Makikinig kami.” sabi niya. Tumingin si Lukas sa kanyang mga magulang at nagsimulang umiyak."
+      ],
+      "styleClass": "ADJ6NE",
+      "choiceQuestion": "Naging hindi komprtable ba si Lukas sa ginawa ni Sir Gino?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 24,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 23,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isNeutral": true
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 23.wav",
+      "comment": "23"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 24.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 24.png",
+      "dialogue": [
+        "“Sinabihan niya ako na sumama ako sa kanya para makakuha ako ng STAR. Pero naging kakaiba at nakaktakot siya, tapos, sinubukan niya akong hawakan, sa pantalon ko!”"
+      ],
+      "styleClass": "SE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 24.wav",
+      "comment": "24"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 25.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 25.png",
+      "dialogue": [
+        "“May iba pa bang ginawa si Sir Gino? May iba pa ba siyang ginagawang kakaiba sa iyo?” tanong ng kanyang ina na may banayad ngunit matatag na boses. Nag-isip ng saglit si Lukas, pagkatapos ay sinabi niya sa kanyang mga magulang ang naaalala niya."
+      ],
+      "styleClass": "NE",
+      "choiceQuestion": "Binigyan ba ni Sir Gino si Lukas ng pagkain at atensyon?",
+      "choiceStyle": "SE",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 26,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 25,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 25.wav",
+      "comment": "25"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 26.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 26.png",
+      "dialogue": [
+        "“Lagi pong umuupo sa tabi ko at binibigyan ako si Sir Gino ng pagkain tuwing recess. Lagi niya rin sinasabi na matalino at magaling ako. Madalas din niya akong tinatawag sa klase. Akala ko magkaibigan kami.” tumingin si Lukas sa kanyang mga magulang, na may luha pa rin sa mga mata."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 26.wav",
+      "comment": "26"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 27.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 27.png",
+      "dialogue": [
+        "Inilagay ng kanyang tatay ang isang banayad na kamay sa kanyang balikat. “Lukas, ang ginawa ni Sir Gino ay tinatawag na ‘grooming’.”\n“Ano po ibig sabihin niyan, ‘tay?”\n“Masamang tao si Sir Gino. Sinusubukan niyang makuha ang tiwala mo at gawing kang espesyal para puwersahin ang masasamang intensyon niya sa iyo.”"
+      ],
+      "styleClass": "ADJ6NW",
+      "choiceQuestion": "Si Sir Gino ba ay isang mabuting kaibigan kay Lukas?",
+      "choiceStyle": "ADJSW",
+      "choices": [
+        {
+          "text": "Oo",
+          "jumpTo": 27,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        },
+        {
+          "text": "Hindi",
+          "jumpTo": 28,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 27.wav",
+      "comment": "27"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 28.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 28.png",
+      "dialogue": [
+        "“Kung ganoon, hindi pala siya totoong kaibigan?” sabi ni Lukas na may paghinga. “Hindi mabuting kaibigan si Sir Gino kung hindi ka magiging masaya sa huli. Ang tunay na kaibigan ay hindi ka pipilitin na gawin ang mali. Ang totoong kaibigan ay rerespetuhin ka at makikinig sa iyo.” paliwanag ng kanyang tatay."
+      ],
+      "styleClass": "ADJ2NW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 28.wav",
+      "comment": "28"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 29.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 29.png",
+      "dialogue": [
+        "“Hangang-hanga ako na naunawaan mo na may nangyayaring mali, aking matapang na anak.” sabi ng kanyang nanay na may ginhawa. “Trabaho ng isang guro na gawin kang ligtas. Ang ginawa ni Sir Gino ay labag sa batas.”"
+      ],
+      "styleClass": "NE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 29.wav",
+      "comment": "29"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 30.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 30.png",
+      "dialogue": [
+        "“Mahal ka namin, anak. Ginawa mo ang tama sa pagsabi sa amin.” sabi ng kanyang tatay at niyakap siya nang buong pagmamahal. Ngumiti si Lukas at niyakap ang kanyang mga magulang. Ang kanilang pagtanggap ay nagpaalis sa kanyang lungkot. Sa halip, ngayon ay nakakaramdam siya ng kaligtasan, kaligayahan, at pagmamahal."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 30.wav",
+      "comment": "30"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 31.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 31.png",
+      "dialogue": [
+        "Dinala siya ng kanyang mga magulang sa paaralan kinabukasan. Bumalik ang kaba sa tiyan ni Lukas. “Ma, Pa, ano po ang dapat kong gawin kapag nakita ko ulit si Sir Gino? Ayaw ko pong lumapit siya sa akin.”"
+      ],
+      "styleClass": "ADJ2WW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 31.wav",
+      "comment": "31"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 32.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 32.png",
+      "dialogue": [
+        "Ngumiti nang banayad ang kanyang nanay. “Sinumbong ko siya sa paaralan kahapon. Binigyan nila ng suspension. Hindi na siya ang magiging guro mo sa matematika.” Lumuhod ang kanyang tatay sa kanyang antas at inilagay ang kamay sa kanyang balikat. “At tandaan mo, Lukas. Kung may susubok na gawin kang hindi ligtas ulit, puwede kang magsabi sa amin. Lagi ka naming protektahan, aking munti at matalinong anak.”"
+      ],
+      "styleClass": "ADJ5SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 32.wav",
+      "comment": "32"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 33.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 33.png",
+      "dialogue": [
+        "Tumango si Lukas nang masigla bago kumaway ng paalam sa kanyang nanay at tatay. Pumasok siya sa paaralan na may masiglang ngiti. Ligtas siya, dahil alam niyang laging nasa likod niya lamang ang kanyang mga magulang. Ang pagkakaroon ng mga mahal sa buhay na nakikinig at nagpoprotekta ay tumutulong sa takot na maging lakas ng loob."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 33 Ending 1.wav",
+      "comment": "33",
+      "choiceStyle": "ADJSE",
+      "choiceQuestion": "Pagisipan natin ang kwento ni Lukas!",
+      "choices": [
+        {
+      "text": "Tumungo sa Leksyong Pangproteksyon!",
+      "jumpTo": 44, 
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+        },
+        {
+        "text": "Tumungo sa Mga Katanungan!",
+        "jumpTo": 43,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+        },
+        {
+        "text": "Bumalik at subukan ang ibang pinagpipilian",
+        "jumpTo": 0,
+        "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+        "isTranslucent": true
+        }
+    ]
+
+    },
+    
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 34.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 34.png",
+      "dialogue": [
+        "Hindi sumagot si Lukas. Tumakbo siya papunta sa sala at yumuko sa sofa. Nababagabag pa rin siya sa nangyari kanina. “May nangyari ba, Lukas?” tanong ng kanyang tatay na may pag-aalala. Umiling lang si Lukas at sumimangot sa sopa."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 34.wav",
+      "comment": "34"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 35.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 35.png",
+      "dialogue": [
+        "Mula sa araw na iyon, naging mas tahimik at mas malayo si Lukas kaysa dati. Tumigil siya sa pagtaas ng kanyang kamay sa math class at hindi na pumunta sa canteen para kumain ng tanghalian. Nag-iisa siyang sumasama sa bahay at tumanggi na sabihin sa kanyang mga magulang tuwing tinatanong siya."
+      ],
+      "styleClass": "ADJ5SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 35.wav",
+      "comment": "35"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 36.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 36.png",
+      "dialogue": [
+        "Lumapit ang school guidance counselor sa kanya isang araw, habang siya ay nag-iisa. “Hello, Lukas.” mahinahong bati niya. “Hiniling ng iyong mga magulang na kausapin kita.” Tiningnan siya ni Lukas na may mahiyain na ekspresyon. “Ano po ang nagawa ko?” tanong niya. “Wala kang ginawang masama. Gusto ko lang kitang kamustahin. Puwede ka bang sumama sa akin sa aking opisina?”"
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 36.wav",
+      "comment": "36"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 37.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 37.png",
+      "dialogue": [
+        "Nag-aalinlangan muna si Lukas, pero sa huli ay pumayag siyang sumunod sa kanya. Sinabi sa kanya ng guidance counselor ang mga alalahanin ng kanyang mga magulang nang nasa loob na sila ng opisina. “Sinabi sa akin ng iyong mga magulang na hindi maayos ang pakiramdam mo. May nangyari ba sa paaralan?” tanong niya. Nanatiling tahimik si Lukas, na natatakot na mahusgahan."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 37.wav",
+      "comment": "37"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 38.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 38.png",
+      "dialogue": [
+        "“Okay lang, Lukas. Ito ay isang lugar kung saan maaari kang magsabi. Makikinig ako at tutulungan ka.” Huminga nang malalim si Lukas at nilikom ang lahat ng lakas niyang loob. “Naging kakaiba po si Sir Gino sa akin.” aminado niya. Binigyan siya ng guidance counselor ng isang maunawaing tingin. “Ano ang ginawa ni Sir Gino?” “Dinala po niya ako sa isang classroom. Sabi niya bibigyan niya ako ng STAR, pero sinusubukan niya akong hawakan.” Tumango ang guidance counselor. \"Sinabi mo ba sa iba kung anong nangyari sayo?\""
+      ],
+      "styleClass": "ADJ4SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 38.wav",
+      "comment": "38"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 39.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 39.png",
+      "dialogueBoxes": [
+        {
+          "text": "“Sinabi ko po sa isang kaklase kung ano ang nangyari, pero hindi po siya naniwala sa akin. Sabi niya po paborito ako ni Sir Gino.” sabi ni Lukas, na pinipigilan ang kanyang mga luha.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "“Naniniwala ako sa iyo, Lukas. Ang ginawa ni Sir Gino ay hindi angkop para sa paaralan na ito.”",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 39.wav",
+      "comment": "39"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 40.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 40.png",
+      "dialogue": [
+        "Bumalik si Lukas sa kanyang nanay at tatay pagkatapos ng counseling. Nalaman nila ang nangyari at agad na nagdemanda ng imbestigasyon laban kay Sir Gino."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 40.wav",
+      "comment": "40"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 41.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 41.png",
+
+      "dialogueBoxes": [
+        {
+          "text": "Dahan-dahang bumalik si Lukas sa kanyang matalino at matalas na sarili. Nadama niya na nawawala ang kanyang takot kapag may mga taong nagpoprotekta sa kanya, tulad nalang ng guidance niya counselor at kanyang mga magulang.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "Ang madalas na pagbisita sa guidance counselor at ang pagiging mas bukas sa kanyang mga magulang ay nagbigay ng lakas sa kanya. Hindi na siya isang mahiyain na bata, kundi isang matapang at matalinong bata na may nagniningning at matatag na puso.",
+          "styleClass": "ADJ2SW"
+        }
+      ],
+      "styleClass": "ADJ5NE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 41.wav",
+      "comment": "41"
+    },
+    {
+       "video": "lukas_lightbulb/Pages/PAGE 42.mp4",
+      "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 42.png",
+      "dialogue": [
+        "Sa huli, napagtanto ni Lukas na dapat siyang laging makinig sa kanyang nararamdaman, at kahit ang pinakamatinding takot ay maaaring harapin sa tulong ng pagmamahal at tulong mula sa iba."
+      ],
+      "styleClass": "ADJSE",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 42.wav",
+      "comment": "42",
+      "choiceStyle": "ADJSW",
+      "choiceQuestion": "Pagisipan natin ang kwento ni Lukas!",
+      "choices": [
+        {
+      "text": "Tumungo sa Leksyong Pangproteksyon!",
+      "jumpTo": 44, 
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+        },
+        {
+        "text": "Tumungo sa Mga Katanungan",
+        "jumpTo": 43,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+      },
+      {
+        "text": "Bumalik at subukan ang ibang pinagpipilian",
+        "jumpTo": 0,
+        "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+        "isTranslucent": true
+        }
+    ]
+
+    },
+
+    {
+      "image": "Cover_Thumbnails/Reflection/Lukas Questions Tag.png",
+      "styleClass": "ADJSE",
+      "comment": "43",
+      "choiceQuestion": "Saan Tayo Susunod?",
+      "choiceStyle": "refl",
+      "choices": [
+       {
+      "text": "Tumungo sa Leksyong Pangproteksyon!",
+      "jumpTo": 44,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral": true
+    },
+    {
+      "text": "Simulan ang Susunod na Kabanata",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 2 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+    },
+      {
+        "text": "Bumalik sa Main Menu",
+        "specialPage": "home",
+        "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+        "isTranslucent": true
+      },
+    {
+      "text": "Pumili ng Kabanata",
+      "specialPage": "chapterSelect",
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    },
+    {
+      "text": "Bumalik at subukan ang ibang pinagpipilian",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+        
+      ]
+
+      
+    },
+
+        {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 1.png",
+      "comment": "44"
+    },
+
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 2.png",
+      "comment": "43"
+    },
+
+    {
+    "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 3.png",
+    "comment": "44"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 4.png",
+      "comment": "45"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 5.png",
+      "comment": "46"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 6.png",
+      "comment": "47"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 7.png",
+      "comment": "48"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 8.png",
+      "comment": "49"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 9.png",
+      "comment": "50"
+     },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 10.png",
+      "comment": "51"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 11.png",
+      "comment": "52"
+    },
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 12.png",
+      "comment": "53"
+    },
+
+    {
+      "image": "MINI LESSONS/LUKAS ML/TAGALOG Lukas ML/Lukas ML tag 13.png",
+      "styleClass": "ADJSE",
+      "comment": "53"
+    },
+
+    {
+      "image": "Cover_Thumbnails/Reflection/hotline.png"
+    },
+
+    {
+      "image": "Cover_Thumbnails/CoverPage/Credits BG.png",
+      "choiceQuestion": "Saan tayo susunod?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+       {
+      "text": "Simulan ang Susunod na Kabanata",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 2 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true
+
+      
+      },
+
+      {
+      "text": "Bumalik sa mga Katanungan",
+      "jumpTo": 43,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true,
+      "isTranslucent": true
+      }
+      
+        
+      ]
+
+      
+    }
+
+
+  ]
+}
