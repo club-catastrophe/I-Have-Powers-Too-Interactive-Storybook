@@ -20,7 +20,7 @@ let isChapterSelectMusicPlaying = false;
 let pageViewCount = 0;
 let volumeDebugLog = [];
 
-const bgMusic = new Audio("MUSIC/NEUTRAL/storytelling.mp3");
+const bgMusic = new Audio("MUSIC/happy.mp3");
 bgMusic.loop = true;
 bgMusic.volume = 0.1;
 pageAudio.volume = 1;
@@ -2781,4 +2781,5 @@ function getCurrentSfxVolume() {
           testScrollSpeed();
           break;
       }
+
     });
