@@ -1,0 +1,1356 @@
+{
+  "chapter": 2,
+  "title": "Bea's Bubbles",
+    "titlePage": {
+    "backgroundImage": "Thumbnails Chapter Select/Bea.png",
+    "title": "Chapter 2:  Bea's Bubbles"
+  },
+  "musicRanges": [
+    {
+      "startPage": 0,
+      "endPage": 1,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 2,
+      "endPage": 5,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 6,
+      "endPage": 13,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 14,
+      "endPage": 17,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 18,
+      "endPage": 29,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 30,
+      "endPage": 31,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 32,
+      "endPage": 36,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 37,
+      "endPage": 47,
+      "music": "MUSIC/sincere.mp3"
+    },
+    {
+      "startPage": 48,
+      "endPage": 49,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 54,
+      "endPage": 56,
+      "music": "MUSIC/sad.mp3"
+    },
+    {
+      "startPage": 57,
+      "endPage": 64,
+      "music": "MUSIC/neutral.mp3"
+    },
+    {
+      "startPage": 65,
+      "endPage": 71,
+      "music": "MUSIC/sincere.mp3"
+    },
+    {
+      "startPage": 72,
+      "endPage": 76,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 72,
+      "endPage": 76,
+      "music": "MUSIC/happy.mp3"
+    },
+    {
+      "startPage": 78,
+      "endPage": 81,
+      "music": "MUSIC/happy.mp3"
+    }
+  ],
+  "pages": [
+    {
+      "video": "beas_bubbles/Pages/pg 1 (FLATTENED).mp4",
+      "dialogue": [
+        "Bea was just twelve when she and her parents moved to her grandma's neighborhood. When she first saw her new home, she was excited! \"Here in the sala is my giant castle, and a fierce dragon will be guarding our home…\" she said with much joy"
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 1.wav",
+      "comment": "0"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/pg 2 (FLATTENED).mp4",
+      "dialogueBoxes": [
+        {
+          "text": "Bea spends a lot of time at home. Bea's mom works late at a call center, so Bea spends most nights with her Dad. She loves the house for sure! Well, except for their bedroom.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "She calls it \"the most icky room ever!\" Every time she steps inside, she imagines goop on the floors, on the walls, and her bed! Those made her feel sticky and dirty! This is where he touches her private parts while her mom is busy at work.",
+          "styleClass": "ADJ4SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 2.wav",
+      "comment": "1"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 3.mp4",
+      "image": "beas_bubbles/Pages/pg 3 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Dad made her promise to keep it a secret. \"Don't tell Mom or anyone about this, because if you do, we won't be a happy family anymore,\" he said.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "Since then, her mind has always been full of questions. She had always felt alone and confused. She wants him to stop, but she couldn't say no to him because...",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 3.wav",
+      "comment": "2"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 4.mp4",
+      "image": "beas_bubbles/Pages/pg 4 (FLATTENED).png",
+      "styleClass": "SE",
+      "comment": "3",
+      "choiceQuestion": "Why can't Bea say no?",
+      "choiceStyle": "SW",
+      "choices": [
+        {
+          "text": "She feels scared.",
+          "jumpTo": 4,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        }
+      ]
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 4.mp4",
+      "image": "beas_bubbles/Pages/pg 4 (FLATTENED).png",
+      "dialogue": [
+        "\"...I'm worried we won't be a happy family anymore. I am scared to say \"No\" to him, too. He is my dad. It's hard to disobey him.\" So, Bea just keeps quiet and lets her dad do what he wants."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 4.wav",
+      "comment": "4"
+    },
+
+    { "video": "beas_bubbles/Pages/PAGE 5.mp4",
+      "image": "beas_bubbles/Pages/pg 5 (FLATTENED).png",
+      "dialogue": [
+        "As days pass by, the goop starts spreading all over the house! The couch, the refrigerator, the table, everywhere! It even started sticking to Bea! \"I feel so icky, I don't want to be in this house anymore…\" Bea thinks to herself. This is the saddest she's ever been."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 5.wav",
+      "comment": "5"
+    },
+
+    { "video": "beas_bubbles/Pages/PAGE 6.mp4",
+      "image": "beas_bubbles/Pages/pg 6 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Then someone knocks on Bea's door. It's Grandma! \"I missed you, my sweetiepie! How are you?\" Grandma asks.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "Bea is about to tell Grandma about the things her dad is doing to her, but when she sees her dad in the living room, she remembers what he said. \"Don't tell Mom or anyone about this, because if you do, we won't be a happy family anymore.\"",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 6.wav",
+      "comment": "6"
+    },
+
+    { 
+      "video": "beas_bubbles/Pages/Page 8.mp4",
+      "image": "beas_bubbles/Pages/pg 8 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea frowns, and Grandma sees it. \"Are you okay, Bea?\" she asks, worried. Bea smiles, \"I'm all okay, Grandma. I just missed you, too!\"",
+          "styleClass": "ADJ2NE"
+        },
+        {
+          "text": "From the way Bea reacted, Grandma suspected Bea was hiding something, but she didn't want to push Bea until she was ready to tell her what was going on. Instead, Grandma told her something very important.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 8.wav",
+      "comment": "7"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 9.mp4",
+      "image": "beas_bubbles/Pages/pg 9 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Before I go, I need you to hear what I'm going to say. This is something I also told your mom when she was little. It's a must to learn this, so listen up.\"",
+          "styleClass": "NW"
+        },
+        {
+          "text": "\"What is it, Grandma?\" Bea asks.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 9.wav",
+      "comment": "8"
+    },
+
+    { "video": "beas_bubbles/Pages/PAGE 10.mp4",
+      "image": "beas_bubbles/Pages/pg 10 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"If you ever feel like you're in danger or if someone is hurting you, always remember to tell people, no matter what. Okay?\" Grandma said. Bea looks nervous, but Grandma holds her hands.",
+          "styleClass": "ADJ4NE"
+        },
+        {
+          "text": "\"It's like fighting a big, scary dragon. When you're small, you can't fight it alone. But you can ask for help! There are warriors willing to help, with bigger shields and stronger hands.\" Grandma holds Bea's face.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 10.wav",
+      "comment": "9"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 11.mp4",
+      "image": "beas_bubbles/Pages/pg 11 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"What if I'm too scared, Grandma?\" Bea whispers. Grandma hugs her tightly.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "\"You have to be brave, because that's the only way you'll be safe again. People will always help you. I will always want to help you. And when you're ready, I'll be here to hold your hand and listen.\"",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 11.wav",
+      "comment": "10"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 12.mp4",
+      "image": "beas_bubbles/Pages/pg 12 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"But if someone thinks I'm lying? What do I do then?\" Bea asks.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"There will be people who won't believe you, some might discourage you from saying something, but you have to keep trying until someone does.\"",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 12.wav",
+      "comment": "11"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 13.mp4",
+      "image": "beas_bubbles/Pages/pg 13 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Alright, Grandma. I will remember that. I will try to be brave!\" Bea tells Grandma. They hug each other tightly before she leaves.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "Bea remembers that there are people who are like warriors, people who can help her and protect her.",
+          "styleClass": "NE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 13.wav",
+      "comment": "12"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 14.mp4",
+      "image": "beas_bubbles/Pages/pg 14 (FLATTENED).png",
+      "dialogue": [
+        "\"Grandma said when I'm in danger, I could tell a big person. Maybe I could tell Grandma when she comes back… or maybe I could tell Mom? Oh! Maybe I could tell my neighbor, Aling Inday!\" She whispers to herself."
+      ],
+      "styleClass": "WW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 14.wav",
+      "comment": "13"
+    },
+
+    {
+      "image": "beas_bubbles/Pages/pg 15 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "One day, Bea's dad calls her again into the bedroom. \"Bea, come here, sit on my lap. Let me hug you.\" Her dad says.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "Bea really doesn't want to go to him. She is trying to speak up, but it feels as if goop is filling her mouth, and she can't say no!",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 15.wav",
+      "comment": "14"
+    },
+
+    { 
+      "video": "beas_bubbles/Pages/PAGE 16.mp4",
+      "image": "beas_bubbles/Pages/pg 16 (FLATTENED).png",
+      "dialogue": [
+        "She can't say anything…so she ends up just giving in to what her dad wants."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 16.wav",
+      "comment": "15",
+      "choiceQuestion": "Does Bea feel trapped?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 16,
+          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "No",
+          "jumpTo": 15,
+          "soundEffect": "MUSIC/SOUND EFFECTS/WRONG.mp3",
+          "isWrong": true
+        }
+      ]
+    },
+
+    {
+       "video": "beas_bubbles/Pages/PAGE 17.mp4",
+      "image": "beas_bubbles/Pages/pg 17 (FLATTENED).png",
+      "dialogue": [
+        "\"How can this be? My dad says he loves and cares for me. If he loves me, I shouldn't feel icky when I'm with him. I shouldn't feel all these bad feelings…\" Bea thinks to herself."
+      ],
+      "styleClass": "ADJSW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 17.wav",
+      "comment": "16"
+    },
+
+    {
+       "video": "beas_bubbles/Pages/PAGE 18.mp4",
+      "image": "beas_bubbles/Pages/pg 18 (FLATTENED).png",
+      "dialogue": [
+        "The goop starts to take over the house more, and that makes her feel even more icky. \"I can't take this anymore,\" she tells herself. Still, she worries about their \"secret.\" Again, she thinks about telling someone what is happening."
+      ],
+      "styleClass": "ADJ4SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 18.wav",
+      "comment": "17"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 18.1.mp4",
+      "image": "beas_bubbles/Pages/pg 18.1 (FLATTENED).png",
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 18 Question 2.wav",
+      "comment": "18",
+      "choiceQuestion": "Does Bea tell someone?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+        {
+          "text": "Yes",
+          "jumpTo": 19,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "No",
+          "jumpTo": 55,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral":true
+        }
+      ]
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 19.mp4",
+      "image": "beas_bubbles/Pages/pg 19 (FLATTENED).png",
+      "dialogue": [
+        "Bea is now finally determined to tell someone what is happening. She is starting to have a moment of boldness, and suddenly…"
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 19.wav",
+      "comment": "19"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 20.mp4",
+      "image": "beas_bubbles/Pages/pg 20 (FLATTENED).png",
+      "dialogue": [
+        "…Bubbles begin to form! With their bright, glass-like look, she feels empowered. She takes a deep breath and…it starts multiplying! \"I can…make bubbles?\" She says with surprise."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 20.wav",
+      "comment": "20"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 21.mp4",
+      "image": "beas_bubbles/Pages/pg 21 (FLATTENED).png",
+      "dialogue": [
+        "She then tries to create more bubbles, but as soon as she hears her dad's footsteps, she feels nervous, closing her fists and hiding the bubbles behind her."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 21.wav",
+      "comment": "21"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 21.mp4",
+      "image": "beas_bubbles/Pages/pg 21 (FLATTENED).png",
+      "dialogue": [
+        "\"Bea? There you are. I need to get groceries, so you stay here with your mom. You know what to do.\" Bea's dad orders her. Her dad goes to their door and gets out of the house."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 22.wav",
+      "comment": "22"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 23.mp4",
+      "image": "beas_bubbles/Pages/pg 23 (FLATTENED).png",
+      "dialogue": [
+        "This is it! She can finally tell someone about everything! She thinks about whom she could tell before her dad comes back home. She tells…"
+      ],
+      "styleClass": "NE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.wav",
+      "comment": "23",
+      "choiceQuestion": "Who should Bea tell?",
+      "choiceStyle": "ADJ3SE",
+      "choices": [
+        {
+          "text": "Mom",
+          "jumpTo": 24,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        }
+      ]
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 23.1.mp4",
+      "image": "beas_bubbles/Pages/pg 23 (FLATTENED).png",
+      "dialogue": [
+        "\"That's right! I could tell my mom!\""
+      ],
+      "styleClass": "EE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.1.wav",
+      "comment": "24"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 24.mp4",
+      "image": "beas_bubbles/Pages/pg 24 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea's mom just got home from work. She is resting on the couch, sleepy. \"Mom, I have to tell you something important. Dad is…\" Bea says.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "\"I'm sorry, love. Can it wait until tomorrow? I need to sleep. Go tell Dad instead, okay?\" Mom says as she closes her tired eyes. Frustrated and alone, Bea stood still, feeling a heavy weight on her chest. She understood that Mom wasn't ready to listen because she was tired, so she let her mom rest instead.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 24.wav",
+      "comment": "25"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 25.mp4",
+      "image": "beas_bubbles/Pages/pg 25 (FLATTENED).png",
+      "dialogue": [
+        "She thinks of whom else to talk to, but then she remembers, \"Dad said I have to stay here…but I can't take this anymore…What do I do?\""
+      ],
+      "styleClass": "NW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 25.wav",
+      "comment": "26",
+      "choiceQuestion": "What should Bea do?",
+      "choiceStyle": "SW",
+      "choices": [
+        {
+          "text": "Stay at Home",
+          "jumpTo": 55,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        },
+        {
+          "text": "Tell someone",
+          "jumpTo": 27,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isNeutral": true
+        }
+      ]
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 26.mp4",
+      "image": "beas_bubbles/Pages/pg 26 (FLATTENED).png",
+      "dialogue": [
+        "\"I gotta tell someone again!\" Bea says to herself. With more courage, her bubbles doubled in size!"
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26.wav",
+      "comment": "27"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 23.mp4",
+      "image": "beas_bubbles/Pages/pg 26.1 (FLATTENED).png",
+      "dialogue": [
+        "Who does Bea tell next?"
+      ],
+      "styleClass": "NE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26 Question 4.wav",
+      "comment": "28",
+      "choiceQuestion": "Who does Bea tell next?",
+      "choiceStyle": "ADJ3SE",
+      "choices": [
+        {
+          "text": "Her Neighbor",
+          "jumpTo": 29,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isWrong": false
+        },
+        {
+          "text": "The nearest person she could find",
+          "jumpTo": 35,
+          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+          "isWrong": false
+        }
+      ]
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 27.mp4",
+      "image": "beas_bubbles/Pages/pg 27 (FLATTENED).png",
+      "dialogue": [
+        "\"Ah! My neighbor is just right around the corner!\" Bea says. So, she goes to… \"Okay! I'll go to my neighbor, Aling Inday!\""
+      ],
+      "styleClass": "EE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 27.wav",
+      "comment": "29"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 28.mp4",
+      "image": "beas_bubbles/Pages/pg 28 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea goes outside and walks next door to Aling Inday's house. She is busy doing laundry when Bea comes to talk to her.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"Aling Inday! I have to tell you something important!\" Aling Inday stops doing her laundry. \"What is it, Bea? Are you okay?\" she asks. Bea felt joyous! Finally, someone is going to listen!",
+          "styleClass": "ADJSW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 28.wav",
+      "comment": "30"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 29.mp4",
+      "image": "beas_bubbles/Pages/pg 29 (FLATTENED).png",
+      "dialogue": [
+        "Bea tells her everything that her dad is doing to her, but just as she thought Aling Inday would help her, Aling Inday says, \"You don't say things like that, Bea! You should always listen to your dad because he is your father. Our neighbors will gossip about your family when they find out! Go home, now!\""
+      ],
+      "styleClass": "ADJ4NW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 29.wav",
+      "comment": "31"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 30.mp4",
+      "image": "beas_bubbles/Pages/pg 30 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea did not expect that. As she walks back home in disbelief, she replays their conversation in her head over and over again.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "She wonders why Aling Inday didn't help her, then she remembers what her grandma said.",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 30.wav",
+      "comment": "32"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 31.mp4",
+      "image": "beas_bubbles/Pages/pg 31 (FLATTENED).png",
+      "dialogue": [
+        "\"There will be people who won't believe you, people who will tell you that you shouldn't tell anyone. But, you keep on telling until someone does.\""
+      ],
+      "styleClass": "NN",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 31.wav",
+      "comment": "33"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 32.mp4",
+      "image": "beas_bubbles/Pages/pg 32 (FLATTENED).png",
+      "dialogue": [
+        "\"Maybe Aling Inday isn't a warrior. Maybe she doesn't have a brave heart and strong hands… and that's okay. I know more people will help me. I just need to keep on telling!\""
+      ],
+      "styleClass": "EE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 32.wav",
+      "comment": "34"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 33.mp4",
+      "image": "beas_bubbles/Pages/pg 33 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea feels stronger than ever, and with a deep breath, her bubbles burst out of her hands, dissolving the rest of the goop that is holding her back!",
+          "styleClass": "ADJ2SW"
+        },
+        {
+          "text": "She ran as fast as she could to the nearest adult she could find, and standing there, she saw a man with his bike, buying soda at the store.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 33.wav",
+      "comment": "35"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 34.mp4",
+      "image": "beas_bubbles/Pages/pg 34 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Mister, mister!\" Bea shouts. He turns around, \"Hey, kid! What is it?\" He asks Bea.",
+          "styleClass": "ADJ3NE"
+        },
+        {
+          "text": "\"My dad touches my breasts and vagina when I sleep, and he makes me sit on his lap, too. I feel so icky and scared that I want to cry! Please help me!\" Bea said.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 34.wav",
+      "comment": "36"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 35.mp4",
+      "image": "beas_bubbles/Pages/pg 35 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "The mister frowns, but he tries his best not to look too sad for Bea. \"Don't worry. You're safe now, okay? I'm Captain Frank, the community's Barangay Captain. What's your name?\" He asks.",
+          "styleClass": "ADJ4NE"
+        },
+        {
+          "text": "\"I'm Bea, and I live near Aling Inday's house,\" Bea told the Captain. \"Ah, you're the grandchild of Grandma Belen…\" He says, remembering Grandma. \"Where is your dad?\" He asks her in a serious tone.",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 35.wav",
+      "comment": "37"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 36.mp4",
+      "image": "beas_bubbles/Pages/pg 36 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"I don't know where my dad is, but he's not at home.\" \"And your mom?\" Captain asks.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"She's sleeping right now. I tried to tell her, but she was so tired…\" Bea says. She then tells Captain Frank about everything that had happened to her.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 36.wav",
+      "comment": "38"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 37.mp4",
+      "image": "beas_bubbles/Pages/pg 37 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"You don't have to be afraid anymore, okay, Bea? I'll bring you to your grandma first, and then we'll tell her what happened to you. High-five?\" The captain asks.",
+          "styleClass": "ADJ3NE"
+        },
+        {
+          "text": "\"High-five!\" Bea says. Bubbles appeared around them as Bea and Captain Frank clapped their hands together, thanking him many times. Captain Frank then tightens his belt and puts his captain's vest on before they both ride off to Grandma's house.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 37.wav",
+      "comment": "39"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 38.mp4",
+      "image": "beas_bubbles/Pages/pg 38 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Captain Frank and Bea arrive at Grandma's home. Captain knocks on the door as Bea shouts, \"Grandma, grandma! Please help me!\"",
+          "styleClass": "ADJ3NE"
+        },
+        {
+          "text": "Grandma opens the door so fast, \"Bea? Captain Frank? What happened?\" Grandma asks, shocked. Bea hugs her worried Grandma and quickly tells her what happened. Captain Frank tells her how Bea asked him for help, too.",
+          "styleClass": "ADJ2SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 38.wav",
+      "comment": "40"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 39.mp4",
+      "image": "beas_bubbles/Pages/pg 39 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Grandma gives Bea a big hug back, \"Oh, my sweet grandchild,\" Grandma says. \"You're safe now, okay?\"",
+          "styleClass": "NW"
+        },
+        {
+          "text": "Bea cries to her grandma. They hug for a long while, and after that, Grandma thanks Captain Frank for bringing Bea to her house. \"It's no problem, but I must go to Bea's house. I need to let her mom know.\" Captain Frank says.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 39.wav",
+      "comment": "41"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 40.mp4",
+      "image": "beas_bubbles/Pages/pg 40 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "The captain is about to leave when Bea calls him. \"Thank you for being a warrior for me,\" Bea says, with the brightest smile on her face.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "\"You're welcome, Bea. You're a brave little girl.\" Captain tells her, before leaving.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 40.wav",
+      "comment": "42"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 41.mp4",
+      "image": "beas_bubbles/Pages/pg 41 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"He's right, Bea. You're a brave little girl.\" Grandma says as she holds Bea's face.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "\"What your dad did to you was wrong. Touches should only be for cleaning and health, Bea, and it often does not take too long.\"",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 41.wav",
+      "comment": "43"
+    },
+
+    {
+      "image": "beas_bubbles/Pages/pg 42 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Like when your mom bathes you, or when the doctor checks your body for wounds. Those are the only times your body parts should be touched, okay?\" Grandma teaches Bea.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"Your private parts are your breasts, butt, and vagina. You are right to feel icky, because no one should ever be touching or seeing your private parts like that.\" She explains.",
+          "styleClass": "ADJ2SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 42.wav",
+      "comment": "44"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 43.mp4",
+      "image": "beas_bubbles/Pages/pg 43 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Oh…\" Bea says quietly. \"Dad said if I told anyone, I would ruin our family…Did I ruin our family, Grandma?\" She asks Grandma more.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "\"No, you didn't. It won't be the same anymore, Bea, because your dad will be leaving soon, but you didn't ruin your family because your mom and I are still here for you. A true family takes care of each other. They don't hurt each other, they love each other.\" Grandma tells Bea.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 43.wav",
+      "comment": "45"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 44.mp4",
+      "image": "beas_bubbles/Pages/pg 44 (FLATTENED).png",
+      "dialogue": [
+        "\"Sometimes, even the people who say they love us can hurt us and make us feel bad. We might not know why, but what they did is still wrong, and we should remember that it's not okay.\""
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 44.wav",
+      "comment": "46"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 45.mp4",
+      "image": "beas_bubbles/Pages/pg 45 (FLATTENED).png",
+      "dialogue": [
+        "Bea thinks long and hard about everything that happened. \"I don't know if my Papa loves me, Grandma, because he's done many bad things to me. He says he does, but he still did those bad, scary, and icky things…\" Bea whispers, shaking."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 45.wav",
+      "comment": "47"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 46.mp4",
+      "image": "beas_bubbles/Pages/pg 46 (FLATTENED).png",
+      "dialogue": [
+        "\"He won't be near you anymore, okay? You will stay with me while your dad hasn't left the house yet. You are safe now. I love you, Bea. I will always be here.\""
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 46.wav",
+      "comment": "48"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 47.mp4",
+      "image": "beas_bubbles/Pages/pg 47 (FLATTENED).png",
+      "dialogue": [
+        "Bea smiles at her grandma. She is so happy, safe, and free! Her magical bubbles form around her again, keeping her clean and protected. She blows them all away, for the first time in a long time, she laughs."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 47.wav",
+      "comment": "49"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 48.mp4",
+      "image": "beas_bubbles/Pages/pg 48 (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "After a few days, Bea's mom arrives at her grandma's house to see her. She runs to Bea and hugs her tightly.",
+          "styleClass": "ADJ2NE"
+        },
+        {
+          "text": "\"I'm sorry, Bea,\" Mom says, apologizing for not listening to Bea when she needed her the most. \"I promise that I'll be a warrior for you, a warrior with the biggest shield you'll ever see and the strongest hands you'll ever hold,\" she says.",
+          "styleClass": "ADJ2SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 48.wav",
+      "comment": "50"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 49.mp4",
+      "image": "beas_bubbles/Pages/pg 49 (FLATTENED).png",
+      "dialogue": [
+        "\"It's okay, Mom. You're here now. I love you.\" Bea cries happy tears as she hugs her mom back."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.wav",
+      "comment": "51"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 49.1.mp4",
+      "image": "beas_bubbles/Pages/pg 49.1 (FLATTENED).png",
+      "dialogue": [
+        "Bea goes through a long journey of telling adults what happened to her. She is scared at first, but her mom and grandma are with her, making her feel safe. She is more confident when telling her story, and after all the hard moments, her dad is finally taken away by the police."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.1 GOOD ENDING.wav",
+      "comment": "52"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 50.mp4",
+      "image": "beas_bubbles/Pages/pg 50 (FLATTENED).png",
+      "dialogue": [
+        "Bea comes home, determined to make her home shiny again. With her bursting bubbles, she cleans the walls, the floors, and everything else with the help of her family, Mom, and Grandma, who love her very much."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 50.wav",
+      "comment": "53"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/Page 51.mp4",
+      "image": "beas_bubbles/Pages/pg 51 (FLATTENED).png",
+      "dialogue": [
+        "They laugh and play until the house is squeaky clean, free from all the sticky goop. Bea makes the biggest bubble she's ever made, and in the reflection, she sees herself as a warrior, a little girl who was brave enough to ask for help and tell others what had happened."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 51.wav",
+      "comment": "54",
+      "choiceStyle": "ADJSE",
+      "choiceQuestion": "Let's Reflect on Bea's Journey!",
+      "choices": [
+        {
+      "text": "Try The Mini Lessons!",
+      "jumpTo": 77,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+      },
+        {
+        "text": "Go To Reflection",
+        "jumpTo": 76,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+      },
+      {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+    ]
+    },
+
+    {
+      
+        "video": "beas_bubbles/Pages/PAGE 17.mp4",
+      "image": "beas_bubbles/Pages/pg 19B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea chooses not to tell anyone. And because she didn't, her dad continued to do bad things to her.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "The goop starts to grow thicker, and Bea feels even more trapped. Every day, she just closes her eyes and hopes that it will all stop.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 19B.wav",
+      "comment": "55"
+    },
+
+    {
+      
+        "video": "beas_bubbles/Pages/PAGE 20B.mp4",
+      "image": "beas_bubbles/Pages/pg 20b (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "One day, Mom comes home early. She has extra money from her job and decided to surprise Bea. She is excited to bring her gifts when she sees Bea in the icky room, covered in lots and lots of goop!",
+          "styleClass": "NE"
+        },
+        {
+          "text": "Hurriedly, she takes her out of the icky room. Dad is surprised at her mom's arrival, and he tries to explain what is happening. Mom ignores her dad. \"We'll go to Grandma's house, okay?\" She said as she held Bea's hands.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 20B.wav",
+      "comment": "56"
+    },
+
+    {
+      "image": "beas_bubbles/Pages/pg 21B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "They go to Grandma's house, and there, she asks Bea questions. Grandma lets Bea and Mom talk alone.",
+          "styleClass": "SW"
+        },
+        {
+          "text": "She is quiet at first, but after Mom hugs her, she cries and tells her everything that was happening.",
+          "styleClass": "SE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 21B.wav",
+      "comment": "57"
+    },
+
+    {
+      
+        "video": "beas_bubbles/Pages/PAGE 22B.mp4",
+      "image": "beas_bubbles/Pages/pg 22B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"I'm sorry, my love, I didn't know. This is my fault.\" Bea's mom says. \"Remember, if you're being hurt, confused, or uncomfortable, always tell Mom, okay? Don't stop until I listen.\"",
+          "styleClass": "ADJ2SW"
+        },
+        {
+          "text": "\"And if Mom isn't there, tell Grandma, your neighbors, anyone! Keep on telling until you're safe.\" She tells Bea.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 22B.wav",
+      "comment": "58"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 23B.mp4",
+      "image": "beas_bubbles/Pages/pg 23B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea hugs her mom. \"I'm sorry I did not tell anyone.\" Bea sobs.",
+          "styleClass": "ADJ2SW"
+        },
+        {
+          "text": "\"It's okay, my love. You're safe with us now.\" Bea's mom says. \"It's not your fault. You are just a child. You're confused and scared. I'm sorry, I should be the one protecting you.\" Bea's mom cried.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23B.wav",
+      "comment": "59"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 24B.mp4",
+      "image": "beas_bubbles/Pages/pg 24B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Always remember to tell someone, no matter what. You must keep telling, because you are important, and you deserve to be safe.\"",
+          "styleClass": "NW"
+        },
+        {
+          "text": "Bea cries in relief. \"I will, Mom, I love you.\" Her mom hugs her even tighter. \"I love you too, my Bea,\" her mom replies.",
+          "styleClass": "NE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 24B.wav",
+      "comment": "60"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 25B.mp4",
+      "image": "beas_bubbles/Pages/pg 25B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"I'm going to have a serious talk with your father.\" Bea's mom says. \"I'll leave you with Grandma for a bit, okay?\" Bea nods, and Grandma comes back to the living room.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "\"I'll leave Bea here for a while, Grandma. I'll be back once I've talked to her dad.\" Mom tells her before leaving them together.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 25B.wav",
+      "comment": "61"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 26B.mp4",
+      "image": "beas_bubbles/Pages/pg 26B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"I heard what happened.\" Grandma said as they sat down. \"You're safe now, okay? You're so brave,\" she whispers, as she holds Bea's face.",
+          "styleClass": "NW"
+        },
+        {
+          "text": "\"What your dad did to you was wrong. Touches should only be for cleaning and health, Bea, and it often does not take too long.\"",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26B.wav",
+      "comment": "62"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 27B.mp4",
+      "image": "beas_bubbles/Pages/pg 27B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Like when your mom bathes you, or when the doctor checks your body for wounds. Those are the only times your body parts should be touched, okay?\" Grandma tells Bea.",
+          "styleClass": "ADJNW"
+        },
+        {
+          "text": "\"Your private parts are your breasts, butt, and vagina. You are right to feel icky, because no one should ever be touching or seeing your private parts like that.\" She explains.",
+          "styleClass": "SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 27B.wav",
+      "comment": "63"
+    },
+
+    {
+      
+        "video": "beas_bubbles/Pages/PAGE 28B.mp4",
+      "image": "beas_bubbles/Pages/pg 28B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "\"Oh…\" Bea says quietly. \"Dad said if I told anyone, I would ruin our family…Did I ruin our family, Grandma?\" She asks Grandma more.",
+          "styleClass": "NE"
+        },
+        {
+          "text": "\"No, you didn't. It won't be the same anymore, Bea, because your dad will leave soon, but you didn't ruin your family, because I'm still here with you. Your mom's going to be here with us, too. A true family takes care of each other. They don't hurt each other, they love each other.\" Grandma tells Bea.",
+          "styleClass": "ADJSE"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 28B.wav",
+      "comment": "64"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 29B.mp4",
+      "image": "beas_bubbles/Pages/pg 29B (FLATTENED).png",
+      "dialogue": [
+        "\"Sometimes, even the people who say they love us can hurt us and make us feel bad. We might not know why, but what they did is still wrong, and we should remember that it's not okay,\" says Grandma."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 29B.wav",
+      "comment": "65"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 30B.mp4",
+      "image": "beas_bubbles/Pages/pg 30B (FLATTENED).png",
+      "dialogue": [
+        "Bea thinks long and hard about everything that happened. \"I don't know if my Papa loves me, Grandma, because he's done many bad things to me. He says he does, but he still did those bad, scary, and icky things…\" Bea whispers, shaking."
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 30B.wav",
+      "comment": "66"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 31B.mp4",
+      "image": "beas_bubbles/Pages/pg 31B (FLATTENED).png",
+      "dialogue": [
+        "\"He won't be near you anymore, okay? You will stay with me while your dad hasn't left the house yet. You are safe now. I love you, Bea. I will always be here.\""
+      ],
+      "styleClass": "SE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 31B.wav",
+      "comment": "67"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 32B.mp4",
+      "image": "beas_bubbles/Pages/pg 32B (FLATTENED).png",
+      "dialogue": [
+        "Bea smiles at her grandma. She feels so happy, safe, and free! Her magical bubbles form around her again, keeping her clean and protected. She blows them all away and laughs for the first time in a long time."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 32B.wav",
+      "comment": "68"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 33B.mp4",
+      "image": "beas_bubbles/Pages/pg 33B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "After a few days, Bea's mom comes back to Grandma's house. She runs to Bea and hugs her tightly. \"I'm sorry, Bea,\" she says, apologizing again for not listening to her when Bea needed her the most. I promise that I'll be a warrior for you, a warrior with the biggest shield you'll ever see and the strongest hands you'll ever hold.\" Bea's mom says.",
+          "styleClass": "ADJWW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 33B.wav",
+      "comment": "69"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 34B.mp4",
+      "image": "beas_bubbles/Pages/pg 34B (FLATTENED).png",
+      "dialogue": [
+        "\"It's okay, Mom. You're here now. I love you.\" Bea cries happy tears as she hugs her mom back."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 34B.wav",
+      "comment": "70"
+    },
+
+    {
+       "video": "beas_bubbles/Pages/Page 49.1.mp4",
+      "image": "beas_bubbles/Pages/pg 35B (FLATTENED).png",
+      "dialogue": [
+        "Bea goes through a long journey of telling adults what happened to her. She was scared at first, but her Mom and grandma were with her, making her feel safe. She feels better telling her story, and after all of the hard moments, her dad is finally taken away by the police."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 35B.wav",
+      "comment": "71"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 36B.mp4",
+      "image": "beas_bubbles/Pages/pg 36B (FLATTENED).png",
+      "dialogue": [
+        "Her home is still icky and full of bad memories. Every time Bea passes by the icky room, she still feels like her heart is being crunched. The bad memories haunt her, and she has nightmares sometimes."
+      ],
+      "styleClass": "SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 36B.wav",
+      "comment": "72"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 37B.mp4",
+      "image": "beas_bubbles/Pages/pg 37B (FLATTENED).png",
+      "dialogueBoxes": [
+        {
+          "text": "Bea's mom tells her that her dad will no longer be there, and she is going to raise her alone from now on. \"I care more about you than being with your dad.\" She tells Bea.",
+          "styleClass": "ADJ2NE"
+        },
+        {
+          "text": "Mom says that they will talk to a psychologist, too, so they can help lessen her bad memories and nightmares. \"I'll make sure that we'll be okay, even if it's just the two of us and Grandma. I love you, my sweet child,\" her mom reassures her.",
+          "styleClass": "ADJ2SW"
+        }
+      ],
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 37B.wav",
+      "comment": "73"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 38B.mp4",
+      "image": "beas_bubbles/Pages/pg 38B (FLATTENED).png",
+      "dialogue": [
+        "Grandma decides to visit Bea and her mom every now and then, and when neighbors ask Grandma questions, she defends Bea and her mom, telling the neighbors that if they didn't want to say anything about what happened, then they don't have to."
+      ],
+      "styleClass": "ADJ2SW",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 38B.wav",
+      "comment": "74"
+    },
+
+    {
+      "video": "beas_bubbles/Pages/PAGE 39B.mp4",
+      "image": "beas_bubbles/Pages/pg 39B (FLATTENED).png",
+      "dialogue": [
+        "Even when bad things have happened, Mom and Grandma are always there for her and are doing their best to make her feel okay again. \"It might be hard now, but soon, I'll be okay again.\" She tells herself."
+      ],
+      "styleClass": "ADJ2NE",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 39B.wav",
+      "comment": "75",
+      "choiceStyle": "ADJSE",
+      "choiceQuestion": "Let's Reflect on Bea's Journey!",
+      "choices": [
+        {
+      "text": "Try The Mini Lessons!",
+      "jumpTo": 77,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent":true
+      },
+        {
+        "text": "Go To Reflection",
+        "jumpTo": 76,
+        "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+        "isTranslucent": true
+      },
+      {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+    ]
+    },
+
+
+     {
+      "image": "Cover_Thumbnails/Reflection/Bea Questions.png",
+      "styleClass": "ADJSE",
+      "comment": "76",
+      "choiceQuestion": "Where To Next?",
+      "choiceStyle": "refl",
+      "choices": [
+        {
+      "text": "Try The Mini Lessons!",
+      "jumpTo": 77,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true
+      },
+       {
+      "text": "Start Next Chapter",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 3 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isTranslucent": true
+      },
+      {
+        "text": "Back Home",
+        "specialPage": "home",
+        "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+        "isTranslucent": true
+      },
+    {
+      "text": "Chapter Select",
+      "specialPage": "chapterSelect",
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    },
+    {
+      "text": "Go Back and Try Other Paths",
+      "jumpTo": 0,
+      "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
+      "isTranslucent": true
+    }
+        
+      ]
+
+      
+    },
+
+    {
+      "image": "MINI LESSONS/Bea ML/ENGLISH Bea ML/Bea ML en 1.png",
+      "comment": "78"
+    },
+
+    {
+      "image": "MINI LESSONS/Bea ML/ENGLISH Bea ML/Bea ML en 2.png",
+      "comment": "79"
+    },
+
+    {
+    "image": "MINI LESSONS/Bea ML/ENGLISH Bea ML/Bea ML en 3.png",
+    "comment": "80"
+    },
+    {
+      "image": "MINI LESSONS/Bea ML/ENGLISH Bea ML/Bea ML en 4.png",
+      "styleClass": "ADJSE",
+      "comment": "81"
+    },
+
+    {
+      "image": "Cover_Thumbnails/Reflection/hotline.png"
+    },
+
+    {
+      "image": "Cover_Thumbnails/CoverPage/Credits BG.png",
+      "choiceQuestion": "Where To Next?",
+      "choiceStyle": "ADJSE",
+      "choices": [
+       {
+      "text": "Start Next Chapter",
+      "specialPage": "chapter",
+      "specialData": { "chapterNumber": 3 },
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true
+      },
+
+      {
+      "text": "Back To Reflection",
+      "jumpTo": 43,
+      "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
+      "isNeutral":true,
+      "isTranslucent": true
+      }
+      
+        
+      ]
+
+      
+    }
+
+    
+
+  ]
+}
