@@ -20,7 +20,7 @@ let isChapterSelectMusicPlaying = false;
 let pageViewCount = 0;
 let volumeDebugLog = [];
 
-const bgMusic = new Audio("MUSIC/happy.mp3");
+const bgMusic = new Audio("MUSIC/NEUTRAL/storytelling.mp3");
 bgMusic.loop = true;
 bgMusic.volume = 0.1;
 pageAudio.volume = 1;
@@ -119,22 +119,22 @@ const translations = {
     chapter3Subtitle: "Ang Matinding Lakas ni Sarah",
     backToMain: "Bumalik sa Pangunahing Menu",
 
-    tutorialTitle: "Matutong Gamitin ang Kuwento",
-    tutorialInstruction: "I-hover ang mga naka-highlight na salita para malaman ang kahulugan!",
+    tutorialTitle: "Subukan Natin!",
+    tutorialInstruction: "Ilagay ang cursor o mouse sa mga nakakulay na salita para malaman ang ibigsabihin  nito!",
     tutorialSampleText: "Maligayang pagdating sa interaktibong aklat na nagngangalang 'May Kapangyarihan din Ako!'. Dito makakakilala tayo ng mga kahanga-hangang mga tauhan at matutuklasan natin ang kanilang napakagandang mga kuwento.<br></br>Upang gabayan kayo sa inyong pagbabasa, maaari ninyong i-hover ang mga may kulay na salita upang matuto at maintindihan ang<span class='glossary-word-highlight type-character' data-word='mga karakter' data-definition='Ang mga taong makikilala niyo sa mga storya ay may kaniya-kaniyang ugali. Dito mo malalaman ang kanilang personalidad'>mga karakter</span>, <span class='glossary-word-highlight type-location' data-word='mga lugar' data-definition='Ang mga lugar na makikita niyo sa mga storya ay may iba’t ibang itsura. Dito mo malalaman ang mga ito.'>mga lugar</span>, at <span class='glossary-word-highlight type-concept' data-word='mga konsepto' data-definition='May mga konsepto o salita kayong makikita sa mga storya ay may iba’t ibang kahulugan na maaaring mahirap intindihin. Dito mo malalaman kung ano ang kahulugan ng mga ito.'>mga konsepto</span>! Hayaan ang mga markang ito na gabayan kayo sa inyong pagbabasa!",
     tutorialHint: "✨ Subukang Itapat ang mouse sa mga salitang may kulay sa itaas!✨",
-    navigationTitle: "Pag gamit ng Aklat",
-    navigationInstruction: "Itapat ang mouse sa mga maliliit na button para malaman kung ano ginagawa nila!",
-    tutorialIconsHint: "✨ Subukang itapat ang mouse sa mga button sa itaas! ✨",
+    navigationTitle: "Paggamit ng Aklat",
+    navigationInstruction: "Ilaagay ang cursor o mouse sa mga icon para malaman ano ginagawa nila!",
+    tutorialIconsHint: "✨ Subukan itapat ang mouse sa mga button ✨",
     tutorialContinue: "Tara Na!",
 
-    tooltipChapter: "Kabanata - Piliin ang kabanata",
-    tooltipHome: "Main Menu - Bumalik sa pangunahing menu",
-    tooltipReplay: "Ulitin - Ulitin ang Pagbigkas ng Pahina",
+    tooltipChapter: "Kabanata - Pumili ng Kabanata",
+    tooltipHome: "Main Menu - Umuwi sa Main Menu",
+    tooltipReplay: "Ulitin - Ulitin ang Pahina",
     tooltipBookmark: "Bookmark - I-save ang kasalukuyang pahina",
-    tooltipInfo: "Impormasyon - Paano gamitin ang aklat",
-    tooltipSettings: "Settings - Lakas ng tunog, laki ng letra, at iba pa.",
-    tooltipAudio: "Tunog - Buksan at isara ng tunog",
+    tooltipInfo: "Impormasyon - Paano Gamitin ang Aklat",
+    tooltipSettings: "Settings - Volume, Laki ng Letra, at iba pa",
+    tooltipAudio: "Tunog - Pagbukas at Pag-alis ng Musika",
 
     settingsTitle: "Mga Settings",
     informationTitle: "Impormasyon",
@@ -2781,5 +2781,4 @@ function getCurrentSfxVolume() {
           testScrollSpeed();
           break;
       }
-
     });
