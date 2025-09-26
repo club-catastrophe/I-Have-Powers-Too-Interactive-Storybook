@@ -60,7 +60,7 @@
         "Lukas is a nine-year-old boy who loves Math. He really loves counting numbers and solving a lot of math problems."
       ],
       "styleClass": "SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.ogg",
       "comment": "0"
     },
     {
@@ -70,7 +70,7 @@
         "Lukas didn't just like math. He also likes his teacher, Sir Gino. He is the coolest teacher in their grade, and he has a charming smile that all the kids love. Most of all, Sir Gino has this special badge, one reserved for the smartest and friendliest kid in his class."
       ],
       "styleClass": "ADJ2NW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.1.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.1.ogg",
       "comment": "1"
     },
     {
@@ -80,7 +80,7 @@
         "Lukas is smart, but there's one problem. He is also too shy. Even though he wants to share his love for learning, he finds it hard to talk to his classmates during recess. Whenever the kids run and chase each other, he just sits by the side and watches them play."
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 2.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 2.ogg",
       "comment": "2"
     },
     {
@@ -90,7 +90,7 @@
         "One day, Sir Gino finds Lukas sitting alone at the lunch table. “Hey, Lukas.” Sir Gino says with his charming smile. <br><br>“Why aren’t you playing with the others?” <br><br>Lukas gives Sir Gino a meek look. “I don’t know how to talk to them, it feels scary…”"
       ],
       "styleClass": "NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 3.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 3.ogg",
       "comment": "3"
     },
     {
@@ -100,7 +100,7 @@
         "Sir Gino smiles and sits next to Lukas. “Is that so? If you want, I can be your friend.” He says while putting a hand on Lukas’ shoulder. Lukas’ eyes shine brightly as he smiles. Finally! He had found himself a good friend!"
       ],
       "styleClass": "NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 4.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 4.ogg",
       "comment": "4"
     },
     {
@@ -110,7 +110,7 @@
         "Would you like some food? I can give you half of my sandwich, if you like?” Sir Gino offered. Lukas accepted and ate the sandwich gleefully. He can’t help but feel accepted and comforted by Sir Gino’s presence."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 5.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 5.ogg",
       "comment": "5"
     },
     {
@@ -120,7 +120,7 @@
         "They begin to talk about a lot of things related to math, like fractions and division. Lukas shares with Sir Gino how he had been studying in advance for his subject. Sir Gino flashes his signature smile and compliments him on how smart and talented he is. Lukas's eyes shine with excitement. He had never felt this kind of joy from being connected to someone before."
       ],
       "styleClass": "EE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 6.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 6.ogg",
       "comment": "6"
     },
     {
@@ -130,7 +130,7 @@
         "Lukas' lonely days soon became brighter. Now he has something to look forward to during recess! Sir Gino continues to bring him food from the school canteen while showering him with praise and attention. The snacks and the talks make Lukas's days better."
       ],
       "styleClass": "ADJ3SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 7.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 7.ogg",
       "comment": "7"
     },
     {
@@ -140,7 +140,7 @@
         "During classes, Lukas feels even more special. Sir Gino often calls on him to answer tough questions. His other classmates could not figure them out, but Lukas recites the answers proudly and easily. As a reward, Sir Gino gave him little stamps for his efforts. It was clear that Sir Gino liked him, which made Lukas trust his teacher more and more."
       ],
       "styleClass": "SE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 8.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 8.ogg",
       "comment": "8"
     },
     {
@@ -150,7 +150,7 @@
         "Sir Gino approached Lukas on their usual table. They were laughing and happily telling stories to each other, when Sir Gino suddenly told Lukas, “Hey, Lukas, you are an incredibly bright student in Math! Since you’re special, would you like to join me later after class?” <br><br>Lukas gave a curious look and said, “Where are we going?”"
       ],
       "styleClass": "WW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 9.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 9.ogg",
       "comment": "9"
     },
     {
@@ -176,7 +176,7 @@
         "Sir Gino gave a gentle smile, “You should come and join me later. I will teach you a more advanced technique on Math. Besides that, I will give a special badge, just for you! What do you think?” <br><br>“Oh! Okay.” said Lukas. “However, I want you to promise me that this will be our little secret between the two of us.” <br><br><i>‘A secret?’</i> Lukas gave it much thought. <i>‘Why keep it a secret?’</i> Lukas wondered what Sir Gino said and it made him feel too uncomfortable to admit that this is not right."
       ],
       "styleClass": "SE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 10.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 10.ogg",
       "comment": "10"
     },
     {
@@ -186,7 +186,7 @@
         "“Here you go! Your special badge!” Lukas excitedly gazed upon the badge, but he felt nervous, his heart beating loudly within his chest. However, he keeps on ignoring it as he focuses on this special badge. <br><br>“Wow… It… looks cool…”Lukas said nervously."
       ],
       "styleClass": "ADJWW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 11.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 11.ogg",
       "comment": "11"
     },
     {
@@ -196,7 +196,7 @@
         "Sir Gino brings Lukas to a dark and quiet room where not a single person passes by. <i>'Why are we in this room? It feels weird…'</i> Lukas wondered. While walking to a nearby corner, Lukas felt fearful, his knees buckled and his heart began to race. He thinks that Sir Gino may do something terrible."
       ],
       "styleClass": "ADJEE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 12.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 12.ogg",
       "comment": "12"
     },
     {
@@ -206,7 +206,7 @@
         "Sir Gino turns the knob open to an empty classroom. He reaches into his bag and hands Lukas the special badge. Lukas beams for a moment, but his smile quickly fades when he feels that something is not right. The entire room is empty. None of his other classmates are there. It's just him and Sir Gino in the dark."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 13.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 13.ogg",
       "comment": "13"
     },
     {
@@ -232,7 +232,7 @@
         "Lukas does not like the creepy classroom. For a moment, he sees Sir Gino's shadow move fiercely. He sees its long fingers creeping through the walls. Sir Gino's smile turns into an unsettling grin. \"Sit down, Lukas,\" he says, putting a hand on Lukas's shoulders."
       ],
       "styleClass": "ADJ2NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 14.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 14.ogg",
       "comment": "14"
     },
     {
@@ -242,7 +242,7 @@
         "Lukas did not like Sir Gino's words. He feels confused with what's happening. Sir Gino steps closer, starting to invade his personal space. His shadow distorts into something monstrous and vile as it looms over them. Lukas glances up, his heart pounding within his chest."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 15.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 15.ogg",
       "comment": "15"
     },
     {
@@ -268,7 +268,7 @@
         "The shadow’s hand stretches out and creeps onto the floor, onto the ceiling, then near his shoulder. The sharp, dark fingers inch closer to Lukas, trying to touch his pants. He is frightened, and wants to get out of here, now!<br><br> “Do you want to learn with me, Lukas? I promise that you’ll enjoy it.” Sir Gino asks, his voice sweet and gentle. But Lukas feels confused. 'Sir Gino is not being honest!' He thinks to himself."
       ],
       "styleClass": "ADJ2WW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 16.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 16.ogg",
       "comment": "16"
     },
     {
@@ -278,7 +278,7 @@
         "Lukas thinks quickly. He steps back, gathering all his courage, then yells a loud \"NO!\" at Sir Gino and the shadow. A lightbulb appears, hovering above his head. Its light shone upon the shadow monster, which hisses at Lukas before it shrunk away."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 17.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 17.ogg",
       "comment": "17"
     },
     {
@@ -288,7 +288,7 @@
         "With Sir Gino distracted, Lukas bolts out of the classroom, feeling fear."
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 18.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 18.ogg",
       "comment": "18"
     },
     {
@@ -314,7 +314,7 @@
         "Lukas stops in the middle of the hall. He's thinking he should stay in school or go home."
       ],
       "styleClass": "SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 19.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 19.ogg",
       "comment": "19"
     },
     {
@@ -324,7 +324,7 @@
         "Lukas decides to sit by the lunch tables by himself. A classmate notices that Sir Gino is not with him. \"Hi, Lukas!\" His classmate greets him. \"Where's Sir Gino? Don't you always hang out with him?\" \"Not anymore. He's a bad person.\" Lukas says sadly. \"Why? What happened?\" His classmate asks."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 20.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 20.ogg",
       "comment": "20"
     },
     {
@@ -334,7 +334,7 @@
         "\"He told me to come with him so I can get a reward, but he was being weird and scary.\" \"But why would he do that? You're his favorite.\" This hurt Lukas deep inside. He doesn't like what his classmate said, but he doesn't know what to reply. Instead, he just puts his head low. Shortly, his classmate left to play with her friends, leaving Lukas all alone. Lukas went home."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 21.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 21.ogg",
       "comment": "21"
     },
     {
@@ -360,7 +360,7 @@
         "Back at home, his dad greets him with open arms, ready for a hug. \"How's my little bright boy doing?\" His dad exclaims with a cheery smile."
       ],
       "styleClass": "ADJ5NW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 22.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 22.ogg",
       "comment": "22"
     },
     {
@@ -386,7 +386,7 @@
         "\"Hey, Lukas. Are you okay? What happened at school?\" His dad asks gently. His mom walks in shortly. \"You can tell us. We'll listen.\" She says as she sits next to him. Lukas looks at his parents and starts tearing up."
       ],
       "styleClass": "ADJ3NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 23.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 23.ogg",
       "comment": "23"
     },
     {
@@ -396,7 +396,7 @@
         "“Sir Gino told me to follow him so he could give me a special badge. Then he started acting really weird and began to touch my pants. I had to run away!”"
       ],
       "styleClass": "SE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 24.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 24.ogg",
       "comment": "24"
     },
     {
@@ -422,7 +422,7 @@
         "\"Did Sir Gino do anything else? Was he doing other strange things to you?\" His mother asks with a gentle but firm voice. Lukas thinks for a bit, then tells his parents about what he remembers."
       ],
       "styleClass": "NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 25.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 25.ogg",
       "comment": "25"
     },
     {
@@ -432,7 +432,7 @@
         "\"Sir Gino would always sit next to me and give me food during recess. He'd always tell me how smart and talented I am. He also calls me a lot during class. I really thought we were friends.\" Lukas turns his head to his parents, tears still in his eyes."
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 26.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 26.ogg",
       "comment": "26"
     },
     {
@@ -458,7 +458,7 @@
         "His dad put a gentle hand on his shoulder. \"Lukas, what Sir Gino was doing is called 'grooming'.\" \"What does that mean, dad?\" \"Sir Gino is a bad person. He was trying to gain your trust and make you feel special to force his bad intentions on you.\""
       ],
       "styleClass": "ADJ6NW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 27.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 27.ogg",
       "comment": "27"
     },
     {
@@ -468,7 +468,7 @@
         "\"So, he wasn't being a real friend?\" Lukas says with a sigh. \"Sir Gino isn't a good friend if it ends with you feeling bad. Good friends would not ask you to do something that isn't right. Real friends will respect you and listen to you.\" His dad explains."
       ],
       "styleClass": "NW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 28.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 28.ogg",
       "comment": "28"
     },
     {
@@ -478,7 +478,7 @@
         "\"I'm very proud that you recognized what was wrong, my brave boy.\" His mom says with comfort. \"It should be a teacher's job to make you feel safe. What Sir Gino did was against the law.\""
       ],
       "styleClass": "NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 29.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 29.ogg",
       "comment": "29"
     },
     {
@@ -488,7 +488,7 @@
         "\"We love you, son. You did the right thing by telling us.\" His dad says and pulls him into a loving hug. Lukas smiles and hugs his parents. Their accepting warmth made his fearful feelings disappear. Instead, he now feels safe, happy, and loved."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 30.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 30.ogg",
       "comment": "30"
     },
     {
@@ -498,7 +498,7 @@
         "His parents take him to school the next day. The nervous feeling in Lukas' stomach returns. \"Mom, Dad, what should I do when I see Sir Gino again? I don't want him to go near me.\""
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 31.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 31.ogg",
       "comment": "31"
     },
     {
@@ -508,17 +508,17 @@
         "His mom smiles gently. \"I reported him to the school yesterday. They gave him a suspension. He won't be your teacher in math class anymore.\" His dad kneels to his level and places a hand on his shoulder. \"And remember, Lukas. If someone tries to make you feel unsafe again, you can always tell us. We will always protect you, my little bright boy.\""
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 32.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 32.ogg",
       "comment": "32"
     },
     {
        "video": "lukas_lightbulb/Pages/PAGE 33.mp4",
   "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 33.png",
   "dialogue": [
-    "Lukas nods with enthusiasm before waving goodbye to his mom and dad. He enters the school with a bright smile. He is safe, knowing that his parents will always have his back. Having loved ones listen and protect helps fear turn into courage."
+    "Lukas nods with enthusiasm before ogging goodbye to his mom and dad. He enters the school with a bright smile. He is safe, knowing that his parents will always have his back. Having loved ones listen and protect helps fear turn into courage."
   ],
   "styleClass": "ADJ2SW",
-  "bgAudio": "lukas_lightbulb/Audio/English/PAGE 33 END 1.wav",
+  "bgAudio": "lukas_lightbulb/Audio/English/PAGE 33 END 1.ogg",
   "comment": "33",
   "choiceStyle": "ADJSE",
   "choiceQuestion": "Let's Reflect on Lukas's Journey!",
@@ -550,7 +550,7 @@
         "Lukas doesn't reply. He runs into the living room and huddles up into a ball on the sofa. He is still bothered about what happened earlier. \"Did anything happen, Lukas?\" His dad says with concern. Lukas just shakes his head and slumps on the couch."
       ],
       "styleClass": "SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 34.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 34.ogg",
       "comment": "34"
     },
     {
@@ -560,7 +560,7 @@
         "From that day, Lukas became quieter and more distant than ever. He stopped raising his hand in math class and didn't go to the canteen to eat lunch. He sulked alone at home and refused to tell his parents every time they asked."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 35.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 35.ogg",
       "comment": "35"
     },
     {
@@ -570,7 +570,7 @@
         "The school's guidance counselor approaches him one day, while he is alone. \"Hello, Lukas.\" She greets him gently. \"Your parents requested that I talk to you.\" Lukas looks at her with a timid expression. \"What did I do?\" He asks. \"You're not in trouble. I just wanted to check up on you. Can you come with me to my office, please?\""
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 36.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 36.ogg",
       "comment": "36"
     },
     {
@@ -580,7 +580,7 @@
         "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling well recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 37.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 37.ogg",
       "comment": "37"
     },
     {
@@ -590,7 +590,7 @@
         "\"It's okay, Lukas. This is a place where you can open up. I will listen and help you.\" Lukas took a deep breath and gathered all the courage he can. \"Sir Gino was being weird to me.\" He admits. The guidance counselor gives him an empathetic look. \"What did Sir Gino do?\" \"He took me to a classroom and said he'll give me a special badge, but he was trying to touch me instead.\" The guidance counselor nods. \"Did you tell anyone what happened afterwards?\""
       ],
       "styleClass": "ADJ4SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 38.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 38.ogg",
       "comment": "38"
     },
     {
@@ -606,7 +606,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 39a.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 39a.ogg",
       "comment": "39"
     },
     {
@@ -616,7 +616,7 @@
         "Lukas went back home to his mom and dad after the counseling. They learn what happened and immediately demand an investigation into Sir Gino."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 40.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 40.ogg",
       "comment": "40"
     },
     {
@@ -626,7 +626,7 @@
         "Lukas slowly goes back to his smart, bright self. He realizes that his fear disappears when there are people to protect him, like the guidance counselor and his parents. Frequent visits with the guidance counselor and being more open to his parents had made him stronger. He is no longer a shy boy, but a courageous, smart kid with a shining, brave heart."
       ],
       "styleClass": "ADJ5NE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 41.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 41.ogg",
       "comment": "41"
     },
     {
@@ -636,7 +636,7 @@
         "In the end, Lukas realized that he should always listen to what he's feeling, and that even the darkest fears can be faced with love and help from others."
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 42.wav",
+      "bgAudio": "lukas_lightbulb/Audio/English/PAGE 42.ogg",
       "comment": "42",
       "choiceStyle": "ADJSW",
       "choiceQuestion": "Let's Reflect on Lukas's Journey!",

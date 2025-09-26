@@ -89,7 +89,7 @@
         "Bea was just twelve when she and her parents moved to her grandma's neighborhood. When she first saw her new home, she was excited! \"Here in the sala is my giant castle, and a fierce dragon will be guarding our home…\" she said with much joy"
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 1.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 1.ogg",
       "comment": "0"
     },
 
@@ -105,7 +105,7 @@
           "styleClass": "ADJ4SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 2.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 2.ogg",
       "comment": "1"
     },
 
@@ -116,7 +116,7 @@
        "From then on, Bea’s mind is filled with fear, sadness, and confusion. She wants her father to stop what he is doing but she finds it hard to say no because…"
       ],
       "styleClass": "NW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 3.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 3.ogg",
       "comment": "2"
     },
 
@@ -144,7 +144,7 @@
         "\"...I'm worried we won't be a happy family anymore. I am scared to say \"No\" to him, too. He is my dad. It's hard to disobey him.\""
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 4.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 4.ogg",
       "comment": "4"
     },
 
@@ -154,7 +154,7 @@
         "As days pass by, the goop starts spreading all over the house! The couch, the refrigerator, the table, everywhere! It even started sticking to Bea! \"I feel so icky, I don't want to be in this house anymore…\" Bea thinks to herself. This is the saddest she's ever been."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 5.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 5.ogg",
       "comment": "5"
     },
 
@@ -170,7 +170,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 6.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 6.ogg",
       "comment": "6"
     },
 
@@ -187,7 +187,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 8.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 8.ogg",
       "comment": "7"
     },
 
@@ -204,7 +204,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 9.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 9.ogg",
       "comment": "8"
     },
 
@@ -220,7 +220,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 10.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 10.ogg",
       "comment": "9"
     },
 
@@ -237,7 +237,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 11.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 11.ogg",
       "comment": "10"
     },
 
@@ -254,7 +254,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 12.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 12.ogg",
       "comment": "11"
     },
 
@@ -271,7 +271,7 @@
           "styleClass": "NE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 13.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 13.ogg",
       "comment": "12"
     },
 
@@ -282,7 +282,7 @@
         "\"Grandma said when I'm in danger, I could tell a big person. Maybe I could tell Grandma when she comes back… or maybe I could tell Mom? Oh! Maybe I could tell my neighbor, Aling Inday!\" She whispers to herself."
       ],
       "styleClass": "WW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 14.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 14.ogg",
       "comment": "13"
     },
 
@@ -298,7 +298,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 15.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 15.ogg",
       "comment": "14"
     },
 
@@ -309,7 +309,7 @@
         "She can't say anything…so she ends up just giving in to what her dad wants."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 16.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 16.ogg",
       "comment": "15",
       "choiceQuestion": "Does Bea feel trapped?",
       "choiceStyle": "ADJSE",
@@ -336,7 +336,7 @@
         "“How can this be? My dad says he loves and cares for me. If he loves me, I shouldn’t feel icky when I’m with him. I shouldn’t feel all these bad feelings…” Bea whispered to herself. “Why is there a sticky goop spreading around my body, it feels even more icky. Ughh… I can’t take this anymore!”"
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 17.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 17.ogg",
       "comment": "16"
     },
 
@@ -347,7 +347,7 @@
         "Bea wants to wipe the goop out from her body. Despite the words of her father saying not to tell anyone marked in her mind, she believes that she must tell someone about her situation."
       ],
       "styleClass": "ADJ4SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 18.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 18.ogg",
       "comment": "17"
     },
 
@@ -355,7 +355,7 @@
       "video": "beas_bubbles/Pages/Page 18.1.mp4",
       "image": "beas_bubbles/Pages/pg 18.1 (FLATTENED).png",
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 18 Question 2.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 18 Question 2.ogg",
       "comment": "18",
       "choiceQuestion": "Does Bea tell someone?",
       "choiceStyle": "ADJSE",
@@ -382,7 +382,7 @@
         "Bea is now finally determined to tell someone what is happening. She is starting to have a moment of boldness, and suddenly…"
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 19.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 19.ogg",
       "comment": "19"
     },
 
@@ -393,7 +393,7 @@
         "…Bubbles begin to form! With their bright, glass-like look, she feels empowered. She takes a deep breath and…it starts multiplying! \"I can…make bubbles?\" She says with surprise."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 20.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 20.ogg",
       "comment": "20"
     },
 
@@ -404,7 +404,7 @@
         "She then tries to create more bubbles, but as soon as she hears her dad's footsteps, she feels nervous, closing her fists and hiding the bubbles behind her."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 21.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 21.ogg",
       "comment": "21"
     },
 
@@ -415,7 +415,7 @@
         "\"Bea? There you are. I need to get groceries, so you stay here with your mom. You know what to do.\" Bea's dad orders her. Her dad goes to their door and gets out of the house."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 22.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 22.ogg",
       "comment": "22"
     },
 
@@ -426,7 +426,7 @@
         "This is it! She finally got the chance to tell someone about what happened. She decides to tell…"
       ],
       "styleClass": "NE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.ogg",
       "comment": "23",
       "choiceQuestion": "Who should Bea tell?",
       "choiceStyle": "ADJ3SE",
@@ -447,7 +447,7 @@
         "\"That's right! I could tell my mom!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.1.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23.1.ogg",
       "comment": "24"
     },
 
@@ -464,7 +464,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 24.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 24.ogg",
       "comment": "25"
     },
 
@@ -475,7 +475,7 @@
         "Bea believes that she needs to find a way to stop her father despite being told to remain in the house. She told herself, “I need to tell someone.”"
       ],
       "styleClass": "NW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 25.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 25.ogg",
       "comment": "26",
       "choiceQuestion": "Does Bea go out and tell someone, or does she listen to her dad and stay at home?",
       "choiceStyle": "SW",
@@ -502,7 +502,7 @@
         "“I must look for other people!” Bea said confidently. Her hands glowed and large bubbles came out from it."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 26.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26.ogg",
       "comment": "27"
     },
 
@@ -513,7 +513,7 @@
         "Who does Bea tell next?"
       ],
       "styleClass": "NE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 26 Question 4.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26 Question 4.ogg",
       "comment": "28",
       "choiceQuestion": "Who does Bea tell next?",
       "choiceStyle": "ADJ3SE",
@@ -540,7 +540,7 @@
         "\"Ah! My neighbor is just right around the corner!\" Bea says. So, she goes to… \"Okay! I'll go to my neighbor, Aling Inday!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 27.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 27.ogg",
       "comment": "29"
     },
 
@@ -557,7 +557,7 @@
           "styleC lass": "ADJSW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 28.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 28.ogg",
       "comment": "30"
     },
 
@@ -568,7 +568,7 @@
         "Bea tells her everything that her dad is doing to her, but just as she thought Aling Inday would help her, Aling Inday says, \"You don't say things like that, Bea! You should always listen to your dad because he is your father. Our neighbors will gossip about your family when they find out! Go home, now!\""
       ],
       "styleClass": "ADJ4NW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 29.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 29.ogg",
       "comment": "31"
     },
 
@@ -585,7 +585,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 30.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 30.ogg",
       "comment": "32"
     },
 
@@ -596,7 +596,7 @@
         "\"There will be people who won't believe you, people who will tell you that you shouldn't tell anyone. But, you keep on telling until someone does.\""
       ],
       "styleClass": "NN",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 31.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 31.ogg",
       "comment": "33"
     },
 
@@ -607,7 +607,7 @@
         "\"Maybe Aling Inday isn't a warrior. Maybe she doesn't have a brave heart and strong hands… and that's okay. I know more people will help me. I just need to keep on telling!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 32.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 32.ogg",
       "comment": "34"
     },
 
@@ -624,7 +624,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 33.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 33.ogg",
       "comment": "35"
     },
 
@@ -641,7 +641,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 34.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 34.ogg",
       "comment": "36"
     },
 
@@ -658,7 +658,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 35.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 35.ogg",
       "comment": "37"
     },
 
@@ -675,7 +675,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 36.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 36.ogg",
       "comment": "38"
     },
 
@@ -692,7 +692,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 37.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 37.ogg",
       "comment": "39"
     },
 
@@ -709,7 +709,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 38.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 38.ogg",
       "comment": "40"
     },
 
@@ -726,7 +726,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 39.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 39.ogg",
       "comment": "41"
     },
 
@@ -743,7 +743,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 40.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 40.ogg",
       "comment": "42"
     },
 
@@ -760,7 +760,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 41.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 41.ogg",
       "comment": "43"
     },
 
@@ -776,7 +776,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 42.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 42.ogg",
       "comment": "44"
     },
 
@@ -793,7 +793,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 43.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 43.ogg",
       "comment": "45"
     },
 
@@ -804,7 +804,7 @@
         "\"Sometimes, even the people who say they love us can hurt us and make us feel bad. We might not know why, but what they did is still wrong, and we should remember that it's not okay.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 44.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 44.ogg",
       "comment": "46"
     },
 
@@ -815,7 +815,7 @@
         "Bea thinks long and hard about everything that happened. \"I don't know if my Papa loves me, Grandma, because he's done many bad things to me. He says he does, but he still did those bad, scary, and icky things…\" Bea whispers, shaking."
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 45.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 45.ogg",
       "comment": "47"
     },
 
@@ -826,7 +826,7 @@
         "\"He won't be near you anymore, okay? You will stay with me while your dad hasn't left the house yet. You are safe now. I love you, Bea. I will always be here.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 46.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 46.ogg",
       "comment": "48"
     },
 
@@ -837,7 +837,7 @@
         "Bea smiles at her grandma. She is so happy, safe, and free! Her magical bubbles form around her again, keeping her clean and protected. She blows them all away, for the first time in a long time, she laughs."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 47.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 47.ogg",
       "comment": "49"
     },
 
@@ -854,7 +854,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 48.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 48.ogg",
       "comment": "50"
     },
 
@@ -865,7 +865,7 @@
         "\"It's okay, Mom. You're here now. I love you.\" Bea cries happy tears as she hugs her mom back."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.ogg",
       "comment": "51"
     },
 
@@ -876,7 +876,7 @@
         "Bea goes through a long journey of telling adults what happened to her. She is scared at first, but her mom and grandma are with her, making her feel safe. She is more confident when telling her story, and after all the hard moments, her dad is finally taken away by the police."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.1 GOOD ENDING.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 49.1 GOOD ENDING.ogg",
       "comment": "52"
     },
 
@@ -887,7 +887,7 @@
         "Bea comes home, determined to make her home shiny again. With her bursting bubbles, she cleans the walls, the floors, and everything else with the help of her family, Mom, and Grandma, who love her very much."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 50.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 50.ogg",
       "comment": "53"
     },
 
@@ -898,7 +898,7 @@
         "They laugh and play until the house is squeaky clean, free from all the sticky goop. Bea makes the biggest bubble she's ever made, and in the reflection, she sees herself as a warrior, a little girl who was brave enough to ask for help and tell others what had happened."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 51.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 51.ogg",
       "comment": "54",
       "choiceStyle": "ADJSE",
       "choiceQuestion": "Let's Reflect on Bea's Journey!",
@@ -938,7 +938,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 19B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 19B.ogg",
       "comment": "55"
     },
 
@@ -956,7 +956,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 20B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 20B.ogg",
       "comment": "56"
     },
 
@@ -972,7 +972,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 21B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 21B.ogg",
       "comment": "57"
     },
 
@@ -990,7 +990,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 22B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 22B.ogg",
       "comment": "58"
     },
 
@@ -1007,7 +1007,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 23B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 23B.ogg",
       "comment": "59"
     },
 
@@ -1024,7 +1024,7 @@
           "styleClass": "NE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 24B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 24B.ogg",
       "comment": "60"
     },
 
@@ -1041,7 +1041,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 25B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 25B.ogg",
       "comment": "61"
     },
 
@@ -1058,7 +1058,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 26B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 26B.ogg",
       "comment": "62"
     },
 
@@ -1075,7 +1075,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 27B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 27B.ogg",
       "comment": "63"
     },
 
@@ -1093,7 +1093,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 28B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 28B.ogg",
       "comment": "64"
     },
 
@@ -1104,7 +1104,7 @@
         "\"Sometimes, even the people who say they love us can hurt us and make us feel bad. We might not know why, but what they did is still wrong, and we should remember that it's not okay,\" says Grandma."
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 29B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 29B.ogg",
       "comment": "65"
     },
 
@@ -1115,7 +1115,7 @@
         "Bea thinks long and hard about everything that happened. \"I don't know if my Papa loves me, Grandma, because he's done many bad things to me. He says he does, but he still did those bad, scary, and icky things…\" Bea whispers, shaking."
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 30B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 30B.ogg",
       "comment": "66"
     },
 
@@ -1126,7 +1126,7 @@
         "\"He won't be near you anymore, okay? You will stay with me while your dad hasn't left the house yet. You are safe now. I love you, Bea. I will always be here.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 31B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 31B.ogg",
       "comment": "67"
     },
 
@@ -1137,7 +1137,7 @@
         "Bea smiles at her grandma. She feels so happy, safe, and free! Her magical bubbles form around her again, keeping her clean and protected. She blows them all away and laughs for the first time in a long time."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 32B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 32B.ogg",
       "comment": "68"
     },
 
@@ -1150,7 +1150,7 @@
           "styleClass": "ADJWW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 33B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 33B.ogg",
       "comment": "69"
     },
 
@@ -1161,7 +1161,7 @@
         "\"It's okay, Mom. You're here now. I love you.\" Bea cries happy tears as she hugs her mom back."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 34B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 34B.ogg",
       "comment": "70"
     },
 
@@ -1172,7 +1172,7 @@
         "Bea goes through a long journey of telling adults what happened to her. She was scared at first, but her Mom and grandma were with her, making her feel safe. She feels better telling her story, and after all of the hard moments, her dad is finally taken away by the police."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 35B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 35B.ogg",
       "comment": "71"
     },
 
@@ -1183,7 +1183,7 @@
         "Her home is still icky and full of bad memories. Every time Bea passes by the icky room, she still feels like her heart is being crunched. The bad memories haunt her, and she has nightmares sometimes."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 36B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 36B.ogg",
       "comment": "72"
     },
 
@@ -1200,7 +1200,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 37B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 37B.ogg",
       "comment": "73"
     },
 
@@ -1211,7 +1211,7 @@
         "Grandma decides to visit Bea and her mom every now and then, and when neighbors ask Grandma questions, she defends Bea and her mom, telling the neighbors that if they didn't want to say anything about what happened, then they don't have to."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 38B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 38B.ogg",
       "comment": "74"
     },
 
@@ -1222,7 +1222,7 @@
         "Even when bad things have happened, Mom and Grandma are always there for her and are doing their best to make her feel okay again. \"It might be hard now, but soon, I'll be okay again.\" She tells herself."
       ],
       "styleClass": "ADJ2NE",
-      "bgAudio": "beas_bubbles/Audio/English/PAGE 39B.wav",
+      "bgAudio": "beas_bubbles/Audio/English/PAGE 39B.ogg",
       "comment": "75",
       "choiceStyle": "ADJSE",
       "choiceQuestion": "Let's Reflect on Bea's Journey!",

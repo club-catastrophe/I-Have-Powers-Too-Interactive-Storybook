@@ -85,7 +85,7 @@
         "Lumipat si Bea at ang kanyang pamilya sa barangay ng lola niya noong siya ay 12 taong gulang pa lang. Nang makita niya ang bago nilang bahay, tuwang-tuwa siya! \"Sa sala, narito ang aking malaking palasyo, at isang mabangis na dragon ang magbabantay sa bahay natin,\" masaya niyang sabi."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 1.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 1.ogg",
       "comment": "0"
     },
 
@@ -101,7 +101,7 @@
           "styleClass": "ADJ4SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 2.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 2.ogg",
       "comment": "1"
     },
 
@@ -114,7 +114,7 @@
           "styleClass": "NW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 3.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 3.ogg",
       "comment": "2"
     },
 
@@ -142,7 +142,7 @@
         "\"Nag-aalala ako na hindi kami magiging masaya na pamilya. Natatakot din akong humindi. Tatay ko siya. Mahirap na hindi ako sumunod sa kanya…\" Kaya't nanahimik na lang si Bea at hinayaan niya na lang na gawin ng kanyang tatay ang gusto niyang gawin."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 4.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 4.ogg",
       "comment": "4"
     },
 
@@ -153,7 +153,7 @@
         "Habang lumilipas ang mga araw, kumalat na ang mala-uhog na likido sa buong bahay! Sa sopa, sa refrigerator, sa lamesa, sa lahat ng lugar! Nagsimula na rin itong dumikit kay Bea! \"Nandidiri ako, ayoko na tumira sa bahay na ito…\" bulong ni Bea sa sarili. Ito ang pinakamalungkot na nararamdaman niya sa buong buhay niya."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 5.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 5.ogg",
       "comment": "5"
     },
 
@@ -170,7 +170,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-6-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-6-UPDATED.ogg",
       "comment": "6"
     },
 
@@ -187,7 +187,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 8.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 8.ogg",
       "comment": "7"
     },
 
@@ -204,7 +204,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 9.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 9.ogg",
       "comment": "8"
     },
 
@@ -222,7 +222,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 10.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 10.ogg",
       "comment": "9"
     },
 
@@ -239,7 +239,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 11.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 11.ogg",
       "comment": "10"
     },
 
@@ -256,7 +256,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 12.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 12.ogg",
       "comment": "11"
     },
 
@@ -269,7 +269,7 @@
           "styleClass": "NW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 13.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 13.ogg",
       "comment": "12"
     },
 
@@ -280,7 +280,7 @@
         "Tanda ni Bea na mayroong mga tao na parang mandirigma; mga taong kaya siyang tulungan at protektahan.\"Sabi ni Lola, kapag nasa panganib ako, pwede akong magsabi sa isang nakakatanda. Siguro sasabihin ko kay Lola pagbalik niya... o kaya kay Nanay? Ay! Baka pwede kong sabihin kay Aling Inday na kapitbahay namin!\" bulong niya sa sarili niya."
       ],
       "styleClass": "WW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 14.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 14.ogg",
       "comment": "13"
     },
 
@@ -292,7 +292,7 @@
           "styleClass": "NE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 15.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 15.ogg",
       "comment": "14"
     },
 
@@ -304,7 +304,7 @@
         "Ayaw ni Bea pumunta sa kanya. Sinusubukan niyang magsalita ngunit, nararamdaman niya na parang napupuno ng likidong parang uhog ang kanyang bibig at hindi siya maka-hindi."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 16.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 16.ogg",
       "comment": "15",
       "choiceQuestion": "Nararamdaman ba ni Bea na parang siya'y nasa isang Bitag?",
       "choiceStyle": "ADJSE",
@@ -331,7 +331,7 @@
         "\"Bakit ganito? Sabi ni Papa mahal niya ako at nagmamalasakit siya sa akin. Kung mahal niya ako, hindi ko dapat maramdaman 'tong nakakadiring pakiramdam kapag kasama ko siya. Hindi ko dapat maramdaman ang lahat ng masamang damdamin na ito...\" bulong ni Bea sa sarili."
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 17.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 17.ogg",
       "comment": "16"
     },
 
@@ -342,7 +342,7 @@
         "Mas kumalat na ang likidong parang uhog sa bahay, at mas lalong nagiging kadiri. \"Di ko na kaya ito.\" sinabi niya sa kanyang sarili. Ngunit, inaalala niya pa din ang kanilang \"sikreto\". Iniisip niya uli na magsabi sa kahit kanino sa mga nangyayari."
       ],
       "styleClass": "ADJ4SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-UPDATED.ogg",
       "comment": "17"
     },
 
@@ -350,7 +350,7 @@
       "video": "beas_bubbles/Pages/Page 18.1.mp4",
       "image": "beas_bubbles/Pages/pg 18.1 (FLATTENED).png",
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-1-Q-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-1-Q-UPDATED.ogg",
       "comment": "18",
       "choiceQuestion": "Magsusumbong ba si Bea?",
       "choiceStyle": "ADJSE",
@@ -377,7 +377,7 @@
         "Si Bea ay determinado nang sabihin sa isang tao ang nangyayari. Nagsisimula na siyang magkaroon ng lakas ng loob nang biglang may dumikit na likidong mala-uhog sa kanyang mga kamay."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 19.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 19.ogg",
       "comment": "19"
     },
 
@@ -388,7 +388,7 @@
         "Si Bea, na determinado na pigilan ang pagkalat ng likido ay nagpasya na siya na ang bahala at naghugas ng kanyang mga kamay. Matapos banlawan, nagsimulang bumuo ang mga bula! Dahil sa maliwanag at parang salamin na itsura nito, nakaramdam siya ng lakas. Huminga siya ng malalim at... nagsimulang dumami ang mga ito! \"Kaya kong... gumawa ng mga bula?\" tanong niya na may pagkamangha."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 20.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 20.ogg",
       "comment": "20"
     },
 
@@ -399,7 +399,7 @@
         "Sinubukan pa niyang gumawa ng mas maraming bula, pero nang marinig niya ang mga yabag ng tatay niya, kinabahan siya. Sinara niya ang kanyang mga kamay at itinago ang mga bula sa likod niya."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 21.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 21.ogg",
       "comment": "21"
     },
 
@@ -410,7 +410,7 @@
         "\"Bea? Nariyan ka lang pala. Kailangan kong bumili ng pagkain, kaya manatili ka dito kasama ang nanay mo. Alam mo na ang gagawin.\" utos ng tatay ni Bea. Pumunta ang tatay niya sa pinto at lumabas ng bahay."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 22.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 22.ogg",
       "comment": "22"
     },
 
@@ -421,7 +421,7 @@
         "Ito na! Sa wakas, pwede na siyang mag kwento tungkol sa lahat! Naisip niya kung sino ang pwede niyang sabihan bago bumalik ang tatay niya. Sinabihan niya si..."
       ],
       "styleClass": "NE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.ogg",
       "comment": "23",
       "choiceQuestion": "Sino ang dapat sabihan ni Bea?",
       "choiceStyle": "ADJ3SE",
@@ -442,7 +442,7 @@
         "\"Tama! Pwede ko sabihin kay Nanay!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.1.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.1.ogg",
       "comment": "24"
     },
 
@@ -459,7 +459,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 24.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 24.ogg",
       "comment": "25"
     },
 
@@ -470,7 +470,7 @@
         "Naisip niya kung sino pa ang pwede niyang sabihan, pero naalala niya, \"Sabi ni Tatay kailangan kong manatili rito... pero hindi ko na kaya... Anong gagawin ko?\""
       ],
       "styleClass": "NW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 25.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 25.ogg",
       "comment": "26",
       "choiceQuestion": "Lalabas ba si Bea upang magsabi sa ibang tao o makikinig siya sa kanyang Tatay at mananatili sa bahay?",
       "choiceStyle": "ADJSW",
@@ -497,14 +497,14 @@
         "\"Kailangan ko ulit magsabi sa isang tao!\" sabi ni Bea sa sarili. Sa mas malaking lakas ng loob, dumoble ang laki ng kanyang mga bula!"
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-26-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-26-UPDATED.ogg",
       "comment": "27"
     },
 
     {
        "video": "beas_bubbles/Pages/Page 23.mp4",
       "image": "beas_bubbles/Pages/pg 26.1 (FLATTENED).png",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-26-1-Q-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-26-1-Q-UPDATED.ogg",
       "comment": "28",
       "choiceQuestion": "Kanino naman sasabihin ni Bea?",
       "choiceStyle": "ADJ3SE",
@@ -531,7 +531,7 @@
         "Umalis siya ng bahay at nag-isip pa kung sino ang pwede niyang kausapin. \"Ah! Ang kapitbahay namin nasa kanto lang!\" sabi ni Bea. Kaya pumunta siya kay... \"Sige! Pupunta ako sa aming kapitbahay kina Aling Inday!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 27.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 27.ogg",
       "comment": "29"
     },
 
@@ -548,7 +548,7 @@
           "styleClass": "ADJSW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 28.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 28.ogg",
       "comment": "30"
     },
 
@@ -559,7 +559,7 @@
         "Kinuwento ni Bea ang lahat ng ginagawa ng tatay niya sa kanya, pero sa inakala niyang tutulungan siya ni Aling Inday, ang sinabi nito, \"Ay! Hindi ka dapat nagsasalita ng ganyan, Bea! Dapat laging makinig sa tatay mo dahil siya ang ama mo. Pagtsitsismisan tayo ng mga kapitbahay kapag nalaman nila 'yan! Umuwi ka na ngayon!\""
       ],
       "styleClass": "ADJ4NW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 29.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 29.ogg",
       "comment": "31"
     },
 
@@ -572,7 +572,7 @@
           "styleClass": "NE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 30.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 30.ogg",
       "comment": "32"
     },
 
@@ -583,7 +583,7 @@
         "Nagtaka siya kung bakit hindi siya tinulungan ni Aling Inday, pagkatapos ay naalala niya ang mga sinabi ng kanyang lola, \"Magkakaroon ng mga taong hindi maniniwala sa'yo, ang iba ay maaring pipigilan ka sa pagsasalita, pero kailangan mong magpatuloy hanggang sa may isang taong maniwala.\""
       ],
       "styleClass": "NN",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31.ogg",
       "comment": "33"
     },
 
@@ -594,7 +594,7 @@
         "\"Baka hindi mandirigma si Aling Inday. Baka wala siyang matapang na puso at malakas na kamay… at ayos lang 'yon. Alam kong may marami pang taong tutulong sa akin. Kailangan ko lang magpatuloy sa pagsasabi!\""
       ],
       "styleClass": "EE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 32.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 32.ogg",
       "comment": "34"
     },
 
@@ -611,7 +611,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 33.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 33.ogg",
       "comment": "35"
     },
 
@@ -628,7 +628,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-34-UPDATE.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-34-UPDATE.ogg",
       "comment": "36"
     },
 
@@ -645,7 +645,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 35.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 35.ogg",
       "comment": "37"
     },
 
@@ -662,7 +662,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 36.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 36.ogg",
       "comment": "38"
     },
 
@@ -679,7 +679,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 37.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 37.ogg",
       "comment": "39"
     },
 
@@ -696,7 +696,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 38.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 38.ogg",
       "comment": "40"
     },
 
@@ -713,7 +713,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 39.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 39.ogg",
       "comment": "41"
     },
 
@@ -730,7 +730,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 40.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 40.ogg",
       "comment": "42"
     },
 
@@ -747,7 +747,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 41.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 41.ogg",
       "comment": "43"
     },
 
@@ -764,7 +764,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 42.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 42.ogg",
       "comment": "44"
     },
 
@@ -781,7 +781,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 43.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 43.ogg",
       "comment": "45"
     },
 
@@ -792,7 +792,7 @@
         "\"Minsan, kahit ang mga taong nagsasabing mahal nila tayo ay nakakasakit sa atin at nagpaparamdam sa atin ng masama. Maaaring hindi natin alam kung bakit, pero mali pa rin ang ginawa nila, at dapat nating tandaan na hindi iyon tama.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 44.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 44.ogg",
       "comment": "46"
     },
 
@@ -803,7 +803,7 @@
         "Mahabang nag-isip si Bea tungkol sa lahat ng nangyari. \"Hindi ko po alam kung mahal ako ni Papa, Lola, dahil marami na po siyang masasamang ginawa sa akin. Sabi niya mahal niya ako, pero ginawa pa rin niya 'yung masama, nakakatakot, at nakakadiring bagay...\" bulong ni Bea, habang nanginginig."
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 45.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 45.ogg",
       "comment": "47"
     },
 
@@ -814,7 +814,7 @@
         "\"Hindi na siya lalapit sa iyo, okay? Mananatili ka muna sa akin habang hindi pa umaalis si tatay sa bahay. Ligtas ka na ngayon. Mahal kita, Bea. Nandito lang ako palagi para sa iyo.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 46.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 46.ogg",
       "comment": "48"
     },
 
@@ -825,7 +825,7 @@
         "Ngumiti si Bea sa kanyang lola. Napakasaya, ligtas, at malaya niya na! Muling nabuo ang kanyang mga mahiwagang bula sa paligid niya, na nagpapanatili sa kanya na malinis at protektado. Hinipan niya ang mga ito palayo, at sa unang pagkakataon matapos ang mahabang panahon, tumawa siya."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 47.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 47.ogg",
       "comment": "49"
     },
 
@@ -842,7 +842,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 48.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 48.ogg",
       "comment": "50"
     },
 
@@ -853,7 +853,7 @@
         "\"Ayos lang po, nay. Nandito na po kayo. Mahal na mahal po kita,\" sabi ni Bea habang umiiyak ng masaya at niyayakap pabalik ang kanyang ina."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 49.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 49.ogg",
       "comment": "51"
     },
 
@@ -864,7 +864,7 @@
         "Isang mahabang paglalakbay ang pinagdaanan ni Bea sa pagsasabi sa mga nakatatanda kung ano ang nangyari sa kanya. Sa simula ay takot siya, ngunit kasama niya ang kanyang nanay at lola na nagpaparamdam sa kanya ng kaligtasan. Mas naging kumpiyansa siya sa pagkukuwento, at pagkatapos ng lahat ng matitinding sandali, tuluyan nang kinuha ng mga pulis ang kanyang tatay."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 50.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 50.ogg",
       "comment": "52"
     },
 
@@ -875,7 +875,7 @@
         "Umuwi si Bea na determinado na ibalik ang kinang ng kanilang tahanan. Sa tulong ng kanyang pamilya, ang kanyang nanay at lola na labiis siyang mahal, buong sigla niyang nilinis ang mga dingding, sahig, at lahat ng iba pang bahagi ng bahay nila."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 51.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 51.ogg",
       "comment": "53"
     },
 
@@ -886,7 +886,7 @@
         "Tumawa at naglaro sila hanggang sa maging napakalinis ng bahay, at wala nang malagkit na dumi. Gumawa si Bea ng pinakamalaking bula na nagawa niya, at sa repleksiyon nito, nakita niya ang kanyang sarli bilang isang mandirigma, isang batang babae na naging matapang na humingi ng tulong at magkwento sa iba ng nangyari sa kanya."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 52.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 52.ogg",
       "comment": "54",
       "choiceStyle": "ADJSE",
       "choiceQuestion": "Pagisipan natin ang storya ni Bea!",
@@ -927,7 +927,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 19B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 19B.ogg",
       "comment": "55"
     },
 
@@ -944,7 +944,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 20B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 20B.ogg",
       "comment": "56"
     },
 
@@ -961,7 +961,7 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 21B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 21B.ogg",
       "comment": "57"
     },
 
@@ -979,7 +979,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 22B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 22B.ogg",
       "comment": "58"
     },
 
@@ -996,7 +996,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23B.ogg",
       "comment": "59"
     },
 
@@ -1013,7 +1013,7 @@
           "styleClass": "NE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 24B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 24B.ogg",
       "comment": "60"
     },
 
@@ -1030,7 +1030,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 25B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 25B.ogg",
       "comment": "61"
     },
 
@@ -1048,7 +1048,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 26B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 26B.ogg",
       "comment": "62"
     },
 
@@ -1065,7 +1065,7 @@
           "styleClass": "SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 27B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 27B.ogg",
       "comment": "63"
     },
 
@@ -1082,7 +1082,7 @@
           "styleClass": "ADJSE"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 28B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 28B.ogg",
       "comment": "64"
     },
 
@@ -1093,7 +1093,7 @@
         "\"Minsan, kahit ang mga taong nagsasabing mahal nila tayo ay nakakasakit sa atin at nagpaparamdam sa atin ng masama. Maaaring hindi natin alam kung bakit, pero mali pa rin ang ginawa nila, at dapat nating tandaan na hindi iyon tama.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 29B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 29B.ogg",
       "comment": "65"
     },
 
@@ -1104,7 +1104,7 @@
         "Mahabang nag-isip si Bea tungkol sa lahat ng nangyari. \"Hindi ko po alam kung mahal ako ni Papa, Lola, dahil marami po siyang masasamang ginawa sa akin. Sabi niya mahal niya ako, pero ginawa pa rin niya 'yung masama, nakakatakot, at nakakadiring bagay...\" bulong ni Bea, habang nanginginig."
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 30B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 30B.ogg",
       "comment": "66"
     },
 
@@ -1115,7 +1115,7 @@
         "\"Hindi na siya lalapit sa iyo, okay? Mananatili ka muna sa akin habang hindi pa umaalis si tatay sa bahay. Ligtas ka na ngayon. Mahal kita, Bea. Nandito lang ako palagi para sa iyo.\""
       ],
       "styleClass": "SE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31B.ogg",
       "comment": "67"
     },
 
@@ -1126,7 +1126,7 @@
         "Ngumiti si Bea sa kanyang lola. Napakasaya, ligtas, at malaya niya na! Muling nabuo ang kanyang mga mahiwagang bula sa paligid niya, na nagpapanatili sa kanya na malinis at protektado. Hinipan niya ang mga ito palayo, at sa unang pagkakataon matapos ang mahabang panahon, tumawa siya."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 32B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 32B.ogg",
       "comment": "68"
     },
 
@@ -1139,7 +1139,7 @@
           "styleClass": "ADJWW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 33B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 33B.ogg",
       "comment": "69"
     },
 
@@ -1150,7 +1150,7 @@
         "“Ayos lang po, nay. Nandito na po kayo. Mahal na mahal po kita,\" sabi ni Bea habang umiiyak ng masaya at niyayakap pabalik ang kanyang ina."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 34B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 34B.ogg",
       "comment": "70"
     },
 
@@ -1161,7 +1161,7 @@
         "Isang mahabang paglalakbay ang pinagdaanan ni Bea sa pagsasabi sa mga nakatatanda kung ano ang nangyari sa kanya. Sa simula ay takot siya, ngunit kasama niya ang kanyang nanay at lola na nagpaparamdam sa kanya ng kaligtasan. Mas naging kumpiyansa siya pagku-kuwento, at pagkatapos ng lahat ng matitinding sandali, tuluyan nang kinuha ng mga pulis ang kanyang tatay."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 35B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 35B.ogg",
       "comment": "71"
     },
 
@@ -1172,7 +1172,7 @@
         "Ang kanilang bahay ay nanatiling madumi at puno ng masasamang alaala. Sa tuwing dumadaan si Bea sa maruming silid, pakiramdam niya ay dinudurog pa rin ang kanyang puso. Binabagabag siya ng masasamang alaala, at minsan ay nananaginip siya ng masama."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 36B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 36B.ogg",
       "comment": "72"
     },
 
@@ -1189,7 +1189,7 @@
           "styleClass": "ADJ2SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 37B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 37B.ogg",
       "comment": "73"
     },
 
@@ -1200,7 +1200,7 @@
         "Nagpasya si Lola na bumibisita kina Bea at sa nanay niya paminsan-minsan, at kapag nagtatanong ang mga kapitbahay kay Lola, ipinagtatanggol niya sina Bea at ang nanay niya, sinasabi sa mga kapitbahay na kung ayaw nilang magsalita tungkol sa nangyari, ayos lang iyon."
       ],
       "styleClass": "ADJ2SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 38B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 38B.ogg",
       "comment": "74"
     },
 
@@ -1211,7 +1211,7 @@
         "Kahit na may masasamang bagay na nangyari, ang kanyang nanay at lola ay laging nariyan para sa kanya at ginagawa ang lahat para gumaan muli ang kanyang pakiramdam. \"Maaaring mahirap ngayon, ngunit sa lalong madaling panahon, magiging ayos din ako muli.\" sabi niya sa sarili."
       ],
       "styleClass": "ADJ4NE",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 39B.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 39B.ogg",
       "comment": "75",
       "choiceStyle": "ADJSE",
       "choiceQuestion": "Pagisipan natin ang storya ni Bea!",
