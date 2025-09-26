@@ -158,7 +158,7 @@
     {
       "video": "sarahs_super_strength/Pages/PAGE 4 IDLE.mp4",
       "dialogue": [
-        "Dahil naalala ni Sarah ang turo ng kanyang magulang, sumigaw siya ng \"Ayoko!\" At Nagsimulang yumanig ang lupa. Sinabi ni Sarah kay Pearl na gusto niyang maglaro at hindi gawin ang kung ano mang gustong gawin ni Pearl gawin. Pero nagalit si Pearl at binantaan siya na kung hindi siya papayag, hindi na sila magiging magkaibigan. Napipilitan si Sarah, mabigat ang kanyang pakiramdam!"
+        "Dahil naalala ni Sarah ang turo ng kanyang magulang, sumigaw siya ng \"Ayoko!\" At Nagsimulang yumanig ang lupa. Sinabi ni Sarah kay Pearl na gusto niyang maglaro at hindi gawin ang kung ano mang gustong gawin ni Pearl gawin. Pero nagalit si Pearl at binantaan siya na kung hindi siya papayag, hindi na sila magiging magkaibigan. Napipilitan si Sarah, mabigat ang kanyang pakiramdam..."
       ],
       "styleClass": "SW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 4.wav", 
@@ -244,10 +244,10 @@
       "video": "sarahs_super_strength/Pages/PAGE 9.mp4",
       "image": "sarahs_super_strength/Pages/Page 9.png",
       "dialogue": [
-        "Naging matapang si Sarah. \"HINDI!\" ang sigaw ni Sarah sa kanila. Muling yumanig ang lupa ng napakalakas, natumba sila Pearl at sila'y natakot. \"Ang KJ mo! Ayoko na sa'yo! Tara, iwan na natin siya!\" sigaw ni Pearl kay Sarah."
+        "Naging matapang si Sarah. \"AYOKO!\" ang sigaw ni Sarah sa kanila. Muling yumanig ang lupa ng napakalakas, natumba sila Pearl at sila'y natakot. \"Ang KJ mo! Ayoko na sa'yo! Tara, iwan na natin siya!\" sigaw ni Pearl kay Sarah."
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 9.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 9-2.wav", 
       "comment": "11"
     },
 
@@ -353,7 +353,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 19.mp4",
       "image": "sarahs_super_strength/Pages/pg 19.png",
       "dialogue": [
-        "Narinig ni Teacher Lydia ang gulo at tinanong kung ano nangyari. Inamin ni Pearl ang totoo. Humingi ng tawad ang tatlong bata. Kahit medyo galit siya, naintindihan ni Teacher Lydia ang mga dahilan ng mga bata."
+        "Narinig ni Teacher Lydia ang gulo at tinanong kung ano nangyari. Inamin ni Pearl ang totoo. Humingi ng tawad ang tatlong bata. Kahit medyo galit siya, naintindihan ni Teacher Lydia ang mga dahilan ng mga bata. “Kailangan niyo pa rin kausapin ang principal at guidance counselor dahil mali ang ginawa niyo kay Sarah.” Sabi ni Teacher Lydia"
       ],
       "styleClass": "ADJ2NW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19.wav", 
@@ -367,7 +367,7 @@
         "Nalungkot at natakot sila ng bahagya, pero alam nilang kailangan nilang itama ang kanilang mga mali."
       ],
       "styleClass": "ADJ3NW",
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19.2.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19-2.wav", 
       "comment": "22"
     },
 
@@ -377,10 +377,10 @@
       "dialogue": [
         "Bumalik si Sarah sa palaruan at kinuwento niya kay Ate Bea at Kuya Lukas ang mga nangyari. Tuwang-tuwa sila at pinuri nila ang tapang ni Sarah. Nagtawanan sila, nagkwentuhan, at pinakita ang kani-kanilang mga kapangyarihan sa isat-isa. Mula noon, nagsama-sama ang tatlong batang may kapangyarihan, at iyon na ang simula ng kanilang pagkakaibigan na may tapang na harapin ang bawat araw ng walang takot!"
       ],
-      "styleClass": "SW",
+      "styleClass": "NW-PAGE-20",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 20.wav", 
       "comment": "23",
-      "choiceStyle": "SE",
+      "choiceStyle": "SW",
       "choiceQuestion": "Pagisipan natin ang storya ni Sarah!",
       "choices": [
         {

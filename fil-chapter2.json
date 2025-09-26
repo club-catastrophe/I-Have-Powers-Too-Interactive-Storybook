@@ -101,7 +101,7 @@
           "styleClass": "ADJ4SW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-2-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 2.wav",
       "comment": "1"
     },
 
@@ -114,7 +114,7 @@
           "styleClass": "NW"
         }
       ],
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-3-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 3.wav",
       "comment": "2"
     },
 
@@ -142,7 +142,7 @@
         "\"Nag-aalala ako na hindi kami magiging masaya na pamilya. Natatakot din akong humindi. Tatay ko siya. Mahirap na hindi ako sumunod sa kanya…\" Kaya't nanahimik na lang si Bea at hinayaan niya na lang na gawin ng kanyang tatay ang gusto niyang gawin."
       ],
       "styleClass": "SW",
-      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-4-UPDATED.wav",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 4.wav",
       "comment": "4"
     },
 
@@ -418,7 +418,7 @@
       "video": "beas_bubbles/Pages/Page 23.mp4",
       "image": "beas_bubbles/Pages/pg 23 (FLATTENED).png",
       "dialogue": [
-        "Ito na! Sa wakas, pwede na siyang mag kwento tungkol sa lahat! Naisip niya kung sino ang pwede niyang sabihan bago bumalik ang tatay niya. Sino and dapat sabihan ni Bea?"
+        "Ito na! Sa wakas, pwede na siyang mag kwento tungkol sa lahat! Naisip niya kung sino ang pwede niyang sabihan bago bumalik ang tatay niya. Sinabihan niya si..."
       ],
       "styleClass": "NE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.wav",
@@ -580,7 +580,7 @@
       "video": "beas_bubbles/Pages/Page 31.mp4",
       "image": "beas_bubbles/Pages/pg 31 (FLATTENED).png",
       "dialogue": [
-        "Nagtaka siya kung bakit hindi siya tinulungan ni Aling Inday, pagkatapos ay naalala niya ang mga sinabi ng kanyang lola, \"Magkakaroon ng mga taong hindi maniniwala sa'yo, ang iba ay maaring pipigilan ka sa pagsasalita, pero kailanagn mong magpatuloy hanggang sa may isang taong maniwala.\""
+        "Nagtaka siya kung bakit hindi siya tinulungan ni Aling Inday, pagkatapos ay naalala niya ang mga sinabi ng kanyang lola, \"Magkakaroon ng mga taong hindi maniniwala sa'yo, ang iba ay maaring pipigilan ka sa pagsasalita, pero kailangan mong magpatuloy hanggang sa may isang taong maniwala.\""
       ],
       "styleClass": "NN",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31.wav",

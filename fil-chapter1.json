@@ -57,7 +57,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 1.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.png",
       "dialogue": [
-        "Si Lukas ay isang siyam na taong gulang na lalaki na mahilig sa matematika. Puro numero at hugis lang ang lagi niyang naiisip. Sobrang gusto niya ang math na gusto niyang magustuhan ito ng kanyang mga kaklase."
+        "Si Lukas ay isang siyam na taong gulang na lalaki na mahilig sa math. Puro numero at hugis lang ang lagi niyang naiisip. Sobrang gusto niya ang math na gusto niyang magustuhan ito ng kanyang mga kaklase."
       ],
       "styleClass": "SW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 1.wav",
@@ -67,7 +67,7 @@
        "video": "lukas_lightbulb/Pages/PAGE-1-1.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.1.png",
       "dialogue": [
-        "Hindi lang mahilig si Lukas sa math. Gusto niya rin ang kanyang guro, si Sir Gino. Siya ay ang pinaka-astig na guro sa kanilang baitang, at may nakakaakit siyang ngiti na gustong-gusto ng mga bata. Pero higit sa lahat, si Sir Gino ay may isang espesyal na badge, na para lang sa pinakamatalino at pinakamabait na bata sa kanyang klase."
+        "Hindi lang mahilig si Lukas sa math. Gusto niya rin ang kanyang guro, si Sir Gino. Siya ay ang pinaka-astig na guro sa kanilang baitang, at may nakakaakit siyang ngiti na gustong-gusto ng mga bata."
       ],
       "styleClass": "ADJ2NW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 1.1.wav",
@@ -173,10 +173,10 @@
         }
       ],
       "dialogue": [
-        "Ngumiti si Sir Gino. “Tuturuan kita ng mas advanced na teknik… mag-isa. Sama ka sa akin mamaya, bibigyan kita ng espesyal na badge! Ano sa tingin mo?” alok ni Sir Gino, na ngumingiti kay Lukas. “Magiging munting sikreto natin ‘to.” Naging maalinlangan si Lukas. “Hindi ‘to tama. Bakit sikreto ‘to?” iniisip niya sa sarili niya."
+        "Ngumiti si Sir Gino. “Tuturuan kita ng mas advanced na teknik… nang mag-isa. Sama ka sa akin mamaya, bibigyan kita ng espesyal na badge! Ano sa tingin mo?” alok ni Sir Gino, na ngumingiti kay Lukas. “Magiging munting sikreto natin ‘to.” Naging maalinlangan si Lukas."
       ],
       "styleClass": "SE",
-      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE-10-UPDATED.wav",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 10.wav",
       "comment": "10"
     },
     {
@@ -186,7 +186,7 @@
         "“Ito na… ang espesyal na badge!” Nasasabik na si Lukas, pero… may nararamdaman siyang kakaiba. Bigla siyang nakaramdam ng kaba sa tiyan, pero dahil sa espesyal na badge, nahihirapan siyang tumanggi. “Okay po,” sabi ni Lukas ng mahinhin. Mayroon pa ring pakiramdam ng pagkabahala sa paligid niya."
       ],
       "styleClass": "ADJWW",
-      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE-11-UPDATED.wav",
+      "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 11.wav",
       "comment": "11"
     },
     {
