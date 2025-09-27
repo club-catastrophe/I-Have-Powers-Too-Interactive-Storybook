@@ -27,8 +27,8 @@ pageAudio.volume = 1;
 
 let isPlaying = false;
 
-let originalBgVolume = 0.2;
-let originalNarrationVolume = 0.9;
+let originalBgVolume = 0.04;
+let originalNarrationVolume = 1.0;
 let currentNarrationSpeed = 1.0; 
 let originalSfxVolume = 0.9;
 
@@ -124,7 +124,7 @@ const translations = {
     tutorialSampleText: "Maligayang pagdating sa interaktibong aklat na nagngangalang 'May Kapangyarihan din Ako!'. Dito makakakilala tayo ng mga kahanga-hangang mga tauhan at matutuklasan natin ang kanilang napakagandang mga kuwento.<br></br>Upang gabayan kayo sa inyong pagbabasa, maaari ninyong i-hover ang mga may kulay na salita upang matuto at maintindihan ang<span class='glossary-word-highlight type-character' data-word='mga tauhan' data-definition='Ang mga taong makikilala niyo sa mga storya ay may kaniya-kaniyang ugali. Dito mo malalaman ang kanilang personalidad'>mga tauhan</span>, <span class='glossary-word-highlight type-location' data-word='mga lugar' data-definition='Ang mga lugar na makikita niyo sa mga storya ay may iba’t ibang itsura. Dito mo malalaman ang mga ito.'>mga lugar</span>, at <span class='glossary-word-highlight type-concept' data-word='mga konsepto' data-definition='May mga konsepto o salita kayong makikita sa mga storya ay may iba’t ibang kahulugan na maaaring mahirap intindihin. Dito mo malalaman kung ano ang kahulugan ng mga ito.'>mga konsepto</span>! Hayaan ang mga markang ito na gabayan kayo sa inyong pagbabasa!",
     tutorialHint: "✨ Subukang Itapat ang mouse sa mga salitang may kulay sa itaas!✨",
     navigationTitle: "Paggamit ng Aklat",
-    navigationInstruction: "Ilaagay ang cursor o mouse sa mga icon para malaman ano ginagawa nila!",
+    navigationInstruction: "Ilaagay ang cursor o mouse sa mga button sa ibaba para malaman ano ginagawa nila!",
     tutorialIconsHint: "✨ Subukan itapat ang mouse sa mga button ✨",
     tutorialContinue: "Tara Na!",
 

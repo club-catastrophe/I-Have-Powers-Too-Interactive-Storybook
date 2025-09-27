@@ -57,7 +57,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 1.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.png",
       "dialogue": [
-        "Si Lukas ay isang siyam na taong gulang na lalaki na mahilig sa math. Puro numero at hugis lang ang lagi niyang naiisip. Sobrang gusto niya ang math na gusto niyang magustuhan ito ng kanyang mga kaklase."
+        "Si Lukas ay isang siyam na taong gulang na lalaki na mahilig sa math. Pero numero at hugis lang ang lagi niyang naiisip. Sobrang gusto niya ang math na gusto niyang magustuhan ito ng kanyang mga kaklase."
       ],
       "styleClass": "SW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 1.ogg",
@@ -77,7 +77,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 2.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 2.png",
       "dialogue": [
-        "Matalino si Lukas, pero may isang problema lang. Masyado rin siyang mahiyain. Kahit na gusto niyang ipakita ang pagmamahal niya sa pag-aaral, nahihirapan siyang makipag-usap sa mga kaklase niya tuwing recess. Tuwing tumatakbo at naghahabulan ang mga bata, uupo lang si Lukas at papanoorin sila sa may gilid."
+        "Matalino si Lukas, pero may isang problema lang. Masyado rin siyang mahiyain. Kahit na gusto niyang ipakita ang pagmamahal niya sa pag-aaral, nahihirapan siyang makipag-usap sa mga kaklase tuwing recess. Tuwing tumatakbo at naghahabulan ang mga bata, uupo lang si Lukas at papanoorin sila sa may gilid."
       ],
       "styleClass": "ADJSE",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 2.ogg",
@@ -86,10 +86,15 @@
     {
        "video": "lukas_lightbulb/Pages/PAGE 3.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 3.png",
-      "dialogue": [
-        "Isang araw, nakita siya ni Sir Gino na nakaupo ng mag-isa sa kanyang mesa. “Uy, Lukas,” sabi ni Sir Gino na may kaakit-akit na ngiti. “Bat’ di ka nakikipaglaro sa iba?” Tumingin si Lukas kay Sir Gino na parang nahihiya bago niya binaba ang kanyang ulo. “Hindi ko po alam kung paano ko po sila kakausapin. Masyado po akong nahihiya.”"
+     "dialogueBoxes": [ {
+        "text":"Isang araw, nakita siya ni Sir Gino na nakaupo ng mag-isa sa kanyang mesa. “Uy, Lukas,” sabi ni Sir Gino na may kaakit-akit na ngiti. “Bat’ di ka nakikipaglaro sa iba?”",
+        "styleClass": "NE"
+        },
+        {
+        "text":"Tumingin si Lukas kay Sir Gino na parang nahihiya bago niya binaba ang kanyang ulo. “Hindi ko po alam kung paano ko po sila kakausapin. Masyado po akong nahihiya.”",
+        "styleClass": "SW"
+        }
       ],
-      "styleClass": "ADJ5NE",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 3.ogg",
       "comment": "3"
     },
@@ -156,26 +161,10 @@
     {
        "video": "lukas_lightbulb/Pages/PAGE 10.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 10.png",
-      "choiceQuestion": "Dapat bang sumama si Lukas kay Sir Gino?",
-      "choiceStyle": "NW",
-      "choices": [
-        {
-          "text": "Oo",
-          "jumpTo": 11,
-          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
-          "isNeutral": true
-        },
-        {
-          "text": "Hindi – Sabihan siya kung bakit mali iyan",
-          "jumpTo": 19,
-          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
-          "isNeutral": true
-        }
-      ],
       "dialogue": [
-        "Ngumiti si Sir Gino. “Tuturuan kita ng mas advanced na teknik… nang mag-isa. Sama ka sa akin mamaya, bibigyan kita ng espesyal na badge! Ano sa tingin mo?” alok ni Sir Gino, na ngumingiti kay Lukas. “Magiging munting sikreto natin ‘to.” Naging maalinlangan si Lukas."
+        "Ngumiti si Sir Gino. “Tuturuan kita ng mas advanced na teknik… nang mag-isa. Sama ka sa akin mamaya, bibigyan kita ng espesyal na badge! Ano sa tingin mo? Magiging munting sikreto natin ‘to.” Naging maalinlangan si Lukas."
       ],
-      "styleClass": "SE",
+      "styleClass": "LUKAS-PG10-PH",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 10.ogg",
       "comment": "10"
     },
@@ -321,7 +310,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 20.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 20.png",
       "dialogue": [
-        "Nagpasya si Lukas na umupo mag-isa sa lamesa. Napansin ng kaklase niya na hindi na kasama si Sir Gino. “Hi, Lukas!” bati ng kanyang kaklase. “Nasaan si Sir Gino? Hindi ba lagi kayong magkasama?”\n“Hindi na. Ayoko na sa kanya,” malungkot na sabi ni Lukas.\n“Bakit? Ano ang nangyari?” tanong ng kanyang kaklase."
+        "Nagpasya si Lukas na umupo mag-isa sa lamesa. Napansin ng kaklase niya na hindi na kasama si Sir Gino. “Hi, Lukas!” bati ng kanyang kaklase. “Nasaan si Sir Gino? Hindi ba lagi kayong magkasama?”\n“'Di na. Ayoko na sa kanya,” malungkot na sabi ni Lukas.\n“Bakit? Ano ang nangyari?” tanong ng kanyang kaklase."
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 20.ogg",
@@ -370,7 +359,7 @@
         "“Uy, Lukas. Okay ka lang ba? Anong nangyari sa paaralan?” mahinahong tanong ng kanyang tatay. Dumating ang kanyang nanay at umupo sa tabi niya. “Kung may problema ka, pwede mo kaming sabihan. Makikinig kami.” sabi niya. Tumingin si Lukas sa kanyang mga magulang at nagsimulang umiyak."
       ],
       "styleClass": "ADJ6NE",
-      "choiceQuestion": "Naging hindi komprtable ba si Lukas sa ginawa ni Sir Gino?",
+      "choiceQuestion": "Hindi komprtable ba si Lukas sa ginawa ni Sir Gino?",
       "choiceStyle": "ADJSE",
       "choices": [
         {
@@ -485,7 +474,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 30.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 30.png",
       "dialogue": [
-        "“Mahal ka namin, anak. Ginawa mo ang tama sa pagsabi sa amin.” sabi ng kanyang tatay at niyakap siya nang buong pagmamahal. Ngumiti si Lukas at niyakap ang kanyang mga magulang. Ang kanilang pagtanggap ay nagpaalis sa kanyang lungkot. Sa halip, ngayon ay nakakaramdam siya ng kaligtasan, kaligayahan, at pagmamahal."
+        "“Mahal ka namin, anak. Ginawa mo ang tama sa pagsasabi sa amin.” sabi ng kanyang tatay at niyakap siya nang buong pagmamahal. Ngumiti si Lukas at niyakap ang kanyang mga magulang. Ang kanilang pagtanggap ay nagpaalis sa kanyang lungkot. Sa halip, ngayon ay nakakaramdam siya ng kaligtasan, kaligayahan, at pagmamahal."
       ],
       "styleClass": "ADJSW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 30.ogg",

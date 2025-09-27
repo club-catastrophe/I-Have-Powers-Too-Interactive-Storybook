@@ -86,10 +86,15 @@
     {
        "video": "lukas_lightbulb/Pages/PAGE 3.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 3.png",
-      "dialogue": [
-        "One day, Sir Gino finds Lukas sitting alone at the lunch table. “Hey, Lukas.” Sir Gino says with his charming smile. <br><br>“Why aren’t you playing with the others?” <br><br>Lukas gives Sir Gino a meek look. “I don’t know how to talk to them, it feels scary…”"
+     "dialogueBoxes": [ {
+        "text":"One day, Sir Gino sees Lukas sitting alone at the lunch table. “Hey, Lukas.” Sir Gino says with his charming smile. <br><br>“Why aren’t you playing with the others?”",
+        "styleClass": "NE"
+        },
+        {
+        "text":"Lukas gives Sir Gino a meek look. “I don’t know how to talk to them, it feels scary…”",
+        "styleClass": "SW"
+        }
       ],
-      "styleClass": "NE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 3.ogg",
       "comment": "3"
     },
@@ -97,7 +102,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 4.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 4.png",
       "dialogue": [
-        "Sir Gino smiles and sits next to Lukas. “Is that so? If you want, I can be your friend.” He says while putting a hand on Lukas’ shoulder. Lukas’ eyes shine brightly as he smiles. Finally! He had found himself a good friend!"
+        "Sir Gino smiles and sits next to Lukas. “Is that so? If you want, I can be your friend.” He says while putting a hand on Lukas’ shoulder. Lukas’ eyes shine brightly as he smiles. Finally! He had found a good friend!"
       ],
       "styleClass": "NE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 4.ogg",
@@ -107,7 +112,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 5.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 5.png",
       "dialogue": [
-        "Would you like some food? I can give you half of my sandwich, if you like?” Sir Gino offered. Lukas accepted and ate the sandwich gleefully. He can’t help but feel accepted and comforted by Sir Gino’s presence."
+        "\"Would you like some food? I can give you half of my sandwich, if you like?” Sir Gino offered. Lukas accepted and ate the sandwich gleefully. He can’t help but feel accepted and comforted by Sir Gino’s presence."
       ],
       "styleClass": "ADJSW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 5.ogg",
@@ -156,26 +161,16 @@
     {
       "video": "lukas_lightbulb/Pages/PAGE 10.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 10.png",
-      "choiceQuestion": "Should Lukas go with Sir Gino?",
-      "choiceStyle": "NW",
-      "choices": [
+      "dialogueBoxes": [
         {
-          "text": "Yes",
-          "jumpTo": 11,
-          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
-          "isNeutral":true
+          "text": "Sir Gino gave a gentle smile, “You should come and join me later. I will teach you a more advanced technique on Math. Besides that, I will give a special badge, just for you! What do you think?”",
+          "styleClass": "LUKAS-PG10-1"
         },
         {
-          "text": "No - Tell Sir Gino how that's wrong",
-          "jumpTo": 19,
-          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
-          "isNeutral":true
+          "text": "“Oh! Okay.” said Lukas. “However, I want you to promise me that this will be our little secret between the two of us.” <br><br><i>‘A secret?’</i> Lukas gave it much thought. <i>‘Why keep it a secret?’</i> Lukas wondered what Sir Gino said and it made him feel too uncomfortable to admit that this is not right.",
+          "styleClass": "LUKAS-PG10-2"
         }
       ],
-      "dialogue": [
-        "Sir Gino gave a gentle smile, “You should come and join me later. I will teach you a more advanced technique on Math. Besides that, I will give a special badge, just for you! What do you think?” <br><br>“Oh! Okay.” said Lukas. “However, I want you to promise me that this will be our little secret between the two of us.” <br><br><i>‘A secret?’</i> Lukas gave it much thought. <i>‘Why keep it a secret?’</i> Lukas wondered what Sir Gino said and it made him feel too uncomfortable to admit that this is not right."
-      ],
-      "styleClass": "SE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 10.ogg",
       "comment": "10"
     },
@@ -515,7 +510,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 33.mp4",
   "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 33.png",
   "dialogue": [
-    "Lukas nods with enthusiasm before ogging goodbye to his mom and dad. He enters the school with a bright smile. He is safe, knowing that his parents will always have his back. Having loved ones listen and protect helps fear turn into courage."
+    "Lukas nods with enthusiasm before waving goodbye to his mom and dad. He enters the school with a bright smile. He is safe, knowing that his parents will always have his back. Having loved ones listen and protect helps fear turn into courage."
   ],
   "styleClass": "ADJ2SW",
   "bgAudio": "lukas_lightbulb/Audio/English/PAGE 33 END 1.ogg",
@@ -577,7 +572,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 37.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 37.png",
       "dialogue": [
-        "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling well recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
+        "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling alright recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
       ],
       "styleClass": "ADJSW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 37.ogg",

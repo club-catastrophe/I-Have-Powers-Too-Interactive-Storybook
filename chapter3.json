@@ -164,7 +164,7 @@
     {
       "video": "sarahs_super_strength/Pages/PAGE 4 IDLE.mp4",
       "dialogue": [
-        "Because Sarah remembered what her parents taught her, She stands up for herself. \"No, I don’t want to!\" The ground starts to shake, and she tells Pearl that she doesn’t want to watch anymore and suggests they should play a different game instead."
+        " Because she remembered what her parents taught her, Sarah stands up for herself. “No, I don’t want to!” The ground started to shake, and she told Pearl that she didn't want to watch anymore and suggested playing a different game instead. Pearl towered over her, warning that if she didn't agree, they wouldn't be friends anymore. Instead, they’ll be enemies. Sarah felt pressured… "
       ],
       "styleClass": "SW",
       "bgAudio": "sarahs_super_strength/Audio/English/PAGE 4.ogg", 
@@ -217,13 +217,13 @@
 {
       "video": "sarahs_super_strength/Pages/PAGE 8 IDLE.mp4",
        "dialogue": [
-        "The next day, Sarah avoided Pearl and her friends as she feels UNEASY. But they went up to her and invite her to do something different.\"This time, I’ll be taking pictures of your private parts!\" Pearl says. <br><br>Sarah feels upset because they were trying to do bad things again. \"NO! STOP IT!\" Sarah yells and the ground rumbles as she stands her ground. The three remain unbothered. They whisper threats, saying they’ll ignore Sarah and tell Teacher Lydia that she was doing something bad. "
+        "The next day, Sarah avoided Pearl and her friends as she feels UNEASY. But they went up to her and invite her to do something different.\"This time, I’ll be taking pictures of your private parts!\" Pearl says. <br><br>Sarah feels upset because they were trying to do bad things again. \"NO! STOP IT! NO!\" Sarah yells and the ground rumbles as she stands her ground. The three remain unbothered. They whisper threats, saying they’ll ignore Sarah and tell Teacher Lydia that she was doing something bad. "
       ],
-      "styleClass": "ADJWW",
+      "styleClass": "SARAH-PG8",
       "bgAudio": "sarahs_super_strength/Audio/English/PAGE 8.ogg", 
       "comment": "10",
       "choiceQuestion": "What Should Sarah do?",
-      "choiceStyle": "ADJSE",
+      "choiceStyle": "SARAH-PG8",
       "choices": [
         {
           "text": "Stand her ground and say \"NO!\"",
@@ -276,7 +276,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 11.mp4",
         "image": "sarahs_super_strength/Pages/pg 11.png",
       "dialogue": [
-        "Sarah drops her head low and stays silent, so Bea sits beside her and speaks up \"You know, sometimes, even our best friends and the ones we love the most can hurt us and make us feel sad and uncomfortable, but if we don’t speak and stand up for ourselves, They will keep on hurting us and make us feel sad. That’s why we need courage and trust in ourselves.\""
+        "Sarah drops her head low and stays silent, so Bea sits beside her and speaks up \"You know, sometimes, even our best friends and the ones we love the most can hurt us and make us feel sad and uncomfortable, but if we don’t speak and stand up for ourselves, They will keep hurting us and make us feel sad. That’s why we need courage and trust in ourselves.\""
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "sarahs_super_strength/Audio/English/PAGE 11.ogg", 
@@ -454,7 +454,7 @@
        "image": "sarahs_super_strength/Pages/pg 23.png",
       "dialogueBoxes": [
         {
-          "text": "Teacher Lydia, I won’t be going to school anymore.\" Sarah says, sniffling while handing her a piece of paper. Teacher Lydia takes the paper and reads the reason for her absence. ",
+          "text": "\"Teacher Lydia, I won’t be going to school anymore.\" Sarah says, sniffling while handing her a piece of paper. Teacher Lydia takes the paper and reads the reason for her absence. ",
           "styleClass": "ADJ3NE"
         },
         {
