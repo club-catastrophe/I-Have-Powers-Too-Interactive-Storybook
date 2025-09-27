@@ -19,6 +19,10 @@
     "definition": "Taong nahihirapang makipag-usap o makipagkaibigan sa iba",
     "type": "concept"
   },
+   "sandwich": {
+    "definition": " isang uri ng tinapay na nilalahukan ng mga ibang klaseng pagkain. Gaya ng mayonaise, ham, gulay, at iba pa.",
+    "type": "concept"
+  },
   "kaklase": {
     "definition": "Mga estudyanteng nasa parehong klase",
     "type": "character"

@@ -122,7 +122,7 @@
     {
       "image": "sarahs_super_strength/Pages/PAGE 3.1.png",
       "dialogue": [
-        "\"Kapag may nagpapakita sayo ng litrato o video ng mga matatandang naghahalikan o hinahawakan ang ari at pribadong parte ng katawan ng isa't isa, huwag mong tignan. Sabihin mo sa kanila \"HUWAG!\" at iwasan mo sila. <br><br>Kapag may nagsabi sa'yo na ipakita ang mo ang puwet, dibdib, o ari mo, sabihin mo \"AYOKO!\" at gamitin mo mga kamay mo para ipakita na ayaw mo.\""
+        "\"Kapag may nagpapakita sayo ng litrato o video ng mga matatandang naghahalikan o hinahawakan ang ari at pribadong parte ng katawan ng isa't isa, huwag mong tignan. Sabihin mo sa kanila \"HUWAG!\" at iwasan mo sila. <br><br>kapag may nagsabi sa'yo na ipakita ang mo ang puwet, dibdib, o ari mo, sabihin mo \"AYOKO!\" at gamitin mo mga kamay mo para ipakita na ayaw mo.\""
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 3.1.wav", 
@@ -141,24 +141,24 @@
           "styleClass": "SE"
         }
       ],
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE-3-2-UPDATED.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 3.2.wav", 
       "comment": "4"
     },
 
     {
       "image": "sarahs_super_strength/Pages/PAGE 3.3.png",
       "dialogue": [
-        "\"Kapag nalilito o natatakot ka sa taong kumakausap sayo o sa taong pinipilit ka na gumawa ng bagay na ayaw mo, sabihin mo ang mga salitang \"AYOKO!\" \"HINDI!\" at \"HUWAG!\" at tumakbo ka papunta sa isang matanda na pinagkakatiwalaan mo.\""
+        "\"Kapag nalilito o natatakot ka sa taong kumakausap sayo o sa taong pinipilit ka na gumawa ng bagay na ayaw mo, sabihin mo ang mga salitang \"AYOKO!\" \"HINDI!\" at \"HUWAG!\" at tumakbo ka papunta sa isang matanda na pinagkakatiwalaan mo.\" "
       ],
       "styleClass": "ADJSW",
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE-3-3-UPDATED.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 3.3.wav", 
       "comment": "5"
     },
 
     {
       "video": "sarahs_super_strength/Pages/PAGE 4 IDLE.mp4",
       "dialogue": [
-        "Dahil naalala ni Sarah ang turo ng kanyang magulang, sumigaw siya ng \"Ayoko!\" At Nagsimulang yumanig ang lupa. Sinabi ni Sarah kay Pearl na gusto niyang maglaro at hindi gawin ang kung ano mang gustong gawin ni Pearl gawin. Pero nagalit si Pearl at binantaan siya na kung hindi siya papayag, hindi na sila magiging magkaibigan. Napipilitan si Sarah, mabigat ang kanyang pakiramdam!"
+        "Dahil naalala ni Sarah ang turo ng kanyang magulang, sumigaw siya ng \"Ayoko!\" At Nagsimulang yumanig ang lupa. Sinabi ni Sarah kay Pearl na gusto niyang maglaro at hindi gawin ang kung ano mang gustong gawin ni Pearl. Pero nagalit si Pearl at binantaan siya na kung hindi siya papayag, hindi na sila magiging magkaibigan. Napilitan si Sarah, mabigat ang kanyang pakiramdam..."
       ],
       "styleClass": "SW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 4.wav", 
@@ -167,7 +167,7 @@
 
     {
       "video": "sarahs_super_strength/Pages/PAGE 5 IDLE.mp4",
-      "choiceQuestion": "Ano dapat gawin ni Sarah?",
+      "choiceQuestion": "Ano ang dapat gawin ni Sarah?",
       "choiceStyle": "SE",
       "choices": [
         {
@@ -200,7 +200,7 @@
     {
       "video": "sarahs_super_strength/Pages/PAGE 7 IDLE.mp4",
       "dialogue": [
-        "Kinabukasan, pumasok si Sarah sa paaralan at binati siya ni Teacher Lydia. <br><br>\"Magandang umaga, Sarah!\" sabi ni Teacher Lydia. Tinanong niya kung kumusta ang mga bago niyang \"kaibigan.\" Gusto sanang sabihin ni Sarah lahat ng mga nangyari, pero nahiya at takot siya, kaya nanahimik na lang siya."
+        "Kinabukasan, pumasok si Sarah sa paaralan at binati siya ni Teacher Lydia. <br><br>\"Magandang umaga, Sarah!\" sabi ni Teacher Lydia. Tinanong niya kung kumusta ang mga bago niyang \"kaibigan.\" Gusto sanang sabihin ni Sarah lahat ng mga nangyari, pero nahiya at natakot siya, kaya nanahimik na lang siya."
       ],
       "styleClass": "ADJNE",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 7.wav", 
@@ -210,13 +210,13 @@
     {
       "video": "sarahs_super_strength/Pages/PAGE 8 IDLE.mp4",
        "dialogue": [
-        "Kinabukasan, sinubukan niyang iwasan sila Pearl dahil ayaw na niyang mangyari ulit yung mga nangyari nung isang araw. Pero nilapitan parin siya at niyaya siyang \"maglaro\" ulit.\"Ngayon, kukuhaan ako ng litrato katawan mo!\"<br><br>Naiinis ulit si Sarah kasi gumagawa na naman sila ng masama. Sumigaw siya, \"AYOKO!\" at yumanig muli ang lupa parang noon pero ngayon mas malakas na! Ngunit hindi parin sila natakot. Bumulong sila at sinabi nila kapag hindi sumunod si Sarah, magsusumbong sila kay Teacher Lydia at sasabihin nila na gumagawa si Sarah ng masama na bagay."
+        "Kinabukasan, sinubukan niyang iwasan sila Pearl dahil ayaw na niyang mangyari ulit yung mga nangyari nung isang araw. Pero nilapitan parin siya at niyaya siyang \"maglaro\" ulit. \"Ngayon, Kukuhanan ko ng litrato ang katawan mo!\"<br><br>Naiinis ulit si Sarah kasi gumagawa na naman sila ng masama. Sumigaw siya, \"AYOKO!\" at yumanig muli ang lupa parang noon pero ngayon mas malakas na! Ngunit hindi parin sila natakot. Bumulong sila at sinabi nila kapag hindi sumunod si Sarah, magsusumbong sila kay Teacher Lydia at sasabihin nila na gumagawa si Sarah ng masama na bagay."
       ],
-      "styleClass": "ADJWW",
+      "styleClass": "SARAH-PG8-PH",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 8.wav", 
       "comment": "10",
       "choiceQuestion": "Ano ang dapat gawin ni Sarah?",
-      "choiceStyle": "SE",
+      "choiceStyle": "SARAH-PG8-PH",
       "choices": [
         {
           "text": "Protektahan ang sarili at magsabi ng \"AYOKO!\"",
@@ -244,17 +244,17 @@
       "video": "sarahs_super_strength/Pages/PAGE 9.mp4",
       "image": "sarahs_super_strength/Pages/Page 9.png",
       "dialogue": [
-        "Naging matapang si Sarah. \"HINDI!\" ang sigaw ni Sarah sa kanila. Muling yumanig ang lupa ng napakalakas, natumba sila Pearl at sila'y natakot. \"Ang KJ mo! Ayoko na sa'yo! Tara, iwan na natin siya!\" sigaw ni Pearl kay Sarah."
+        "Naging matapang si Sarah. \"AYOKO!\" ang sigaw ni Sarah sa kanila. Muling yumanig ang lupa ng napakalakas, natumba sila Pearl at sila'y natakot. \"Ang KJ mo! Ayoko na sa'yo! Tara, iwan na natin siya!\""
       ],
       "styleClass": "ADJSE",
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 9.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 9-2.wav", 
       "comment": "11"
     },
 
     {
       "video": "sarahs_super_strength/Pages/Page10.mp4",
       "dialogue": [
-        "Nahiya siya sa sarili niya. Si Sarah ay natirang mag-isa sa palaruan na umiiyak. Nilapitan siya ng isang Ate na nakapangalang Bea. Tinanong siya ni Ate Bea, \"Hala! Bakit ka umiiyak? May nangyari ba sayo?\""
+        "Nahihiya siya sa sarili niya. Si Sarah ay natirang mag-isa sa palaruan na umiiyak. Nilapitan siya ng isang Ate na nakapangalang Bea. Tinanong siya ni Ate Bea, \"Hala! Bakit ka umiiyak? May nangyari ba sayo?\""
       ],
       "styleClass": "ADJNN",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 10.wav", 
@@ -298,7 +298,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 14.mp4",
       "image": "sarahs_super_strength/Pages/pg 14.png",
       "dialogue": [
-        "Ngumiti sila. \"Meron ka rin, Sarah! Naniniwala kami sa'yo! Kailangan mo lang siyang hanapin sa iyong sarili.\""
+        "Ngumiti sila. \"Meron ka rin, Sarah! Naniniwala kami sa'yo! Kailangan mo lang magtiwala sa sarili mo.\""
       ],
       "styleClass": "SS",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 14.wav", 
@@ -331,7 +331,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 17.mp4",
       "image": "sarahs_super_strength/Pages/pg 17.png",
       "dialogue": [
-        "Nagulat at natauhan sila Pearl sa mga sinabi ni Sarah, at napagtanto nilang mali ang ginawa nila. Humingi agad ng tawad sina Ashley at Yani. Umamin sila na sumusunod lamang daw sila sa mga utos ni Pearl."
+        "Nagulat at natauhan sila Pearl sa mga sinabi ni Sarah, at napagtanto nilang mali ang ginawa nila. Humingi agad ng tawad sina Ashley at Yani. Umamin sila na sumusunod lamang daw sila sa mga utos ni Pearl. Nanahimik si Pearl."
       ],
       "styleClass": "ADJNN",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 17.wav", 
@@ -342,7 +342,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 18.mp4",
       "image": "sarahs_super_strength/Pages/pg 18.png",
       "dialogue": [
-        "Napatahimik si Pearl sa gulat at takot, pero umamin din siya sa pagkakamali niya. Sinabi ni Pearl na akala niya astig yung mga ginagawa nila, dahil natutunan niya ang mga yon sa kuya niya.Sinabi ni Pearl na inutusan siya ng Kuya niya na kuhaan ng litrato ang mga kaibigan niya, dahil kapag ginawa niya yun binigyan siya ng magandang manika ng kuya niya."
+        "Pero umamin din siya sa mga pagkakamali niya. Sinabi ni Pearl na akala niya astig yung mga ginagawa nila, dahil natutunan niya ang mga iyon sa kuya niya. Sinabi ni Pearl na inutusan siya ng Kuya niya na kuhaan ng litrato ang mga kaibigan niya, dahil kapag ginawa niya yun bibigyan siya ng magandang manika ng kuya niya."
       ],
       "styleClass": "ADJ4NW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 18.wav", 
@@ -353,7 +353,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 19.mp4",
       "image": "sarahs_super_strength/Pages/pg 19.png",
       "dialogue": [
-        "Narinig ni Teacher Lydia ang gulo at tinanong kung ano nangyari. Inamin ni Pearl ang totoo. Humingi ng tawad ang tatlong bata. Kahit medyo galit siya, naintindihan ni Teacher Lydia ang mga dahilan ng mga bata."
+        "Narinig ni Teacher Lydia ang gulo at tinanong kung ano nangyari. Inamin ni Pearl ang totoo. Humingi ng tawad ang tatlong bata. Kahit medyo galit siya, naintindihan ni Teacher Lydia ang mga dahilan ng mga bata. “Kailangan niyo pa rin kausapin ang principal at guidance counselor dahil mali ang ginawa niyo kay Sarah.” Sabi ni Teacher Lydia"
       ],
       "styleClass": "ADJ2NW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19.wav", 
@@ -367,7 +367,7 @@
         "Nalungkot at natakot sila ng bahagya, pero alam nilang kailangan nilang itama ang kanilang mga mali."
       ],
       "styleClass": "ADJ3NW",
-      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19.2.wav", 
+      "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 19-2.wav", 
       "comment": "22"
     },
 
@@ -377,10 +377,10 @@
       "dialogue": [
         "Bumalik si Sarah sa palaruan at kinuwento niya kay Ate Bea at Kuya Lukas ang mga nangyari. Tuwang-tuwa sila at pinuri nila ang tapang ni Sarah. Nagtawanan sila, nagkwentuhan, at pinakita ang kani-kanilang mga kapangyarihan sa isat-isa. Mula noon, nagsama-sama ang tatlong batang may kapangyarihan, at iyon na ang simula ng kanilang pagkakaibigan na may tapang na harapin ang bawat araw ng walang takot!"
       ],
-      "styleClass": "SW",
+      "styleClass": "NW-PAGE-20",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 20.wav", 
       "comment": "23",
-      "choiceStyle": "SE",
+      "choiceStyle": "SW",
       "choiceQuestion": "Pagisipan natin ang storya ni Sarah!",
       "choices": [
         {
@@ -418,7 +418,7 @@
       "video": "sarahs_super_strength/Pages/PAGE 21.mp4",
       "image": "sarahs_super_strength/Pages/pg 21.png",
       "dialogue": [
-        "Nung araw na iyon, nanatili si Sarah sa bahay dahil natatakot siya sa maaaring ipagawa sa kanya ni Pearl. Ang mga araw ay lumipas at naging linggo na hindi siya pumapasok sa paaralan dahil sa takot at hiya."
+        "Ang mga araw ay lumipas at naging linggo na hindi siya pumapasok sa paaralan dahil sa takot at hiya."
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "sarahs_super_strength/Audio/Tagalog/PAGE 21.wav", 
@@ -445,7 +445,7 @@
           "styleClass": "ADJ3NE"
         },
         {
-          "text": "Lumalabas na ililipat na ng paaralan si Sarah dahil sa ginawa ni Pearl at mga kaibigan niya. \"Sarah… Kung nalaman ko lang agad, sana ay natulungan kita.\"",
+          "text": "Lumalabas na ililipat na ng paaralan si Sarah dahil sa ginawa ni Pearl at mga kaibigan niya. \"Sarah… Kung nalaman ko lang agad, sana ay natulungan kita.\" Sabi ni Guro Lydia, habang lumuluhod sa harapan niya at yinayakap siya.",
           "styleClass": "SW"
         }
       ],

@@ -57,7 +57,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 1.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 1.png",
       "dialogue": [
-        "Lukas is a nine-year-old boy who loves math. Numbers and shapes are all he could think about. His passion for math is so strong that he wants his classmates to like it too."
+        "Lukas is a nine-year-old boy who loves Math. He really loves counting numbers and solving a lot of math problems."
       ],
       "styleClass": "SW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 1.wav",
@@ -86,10 +86,15 @@
     {
        "video": "lukas_lightbulb/Pages/PAGE 3.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 3.png",
-      "dialogue": [
-        "One day, Sir Gino sees Lukas all alone at the lunch table. \"Hey, Lukas.\" Sir Gino says with his charming smile. \"Why aren't you playing with the others?\" Lukas looks at Sir Gino with a meek look before he lowers his head. \"I don't know how to talk to them. I feel too shy.\""
+     "dialogueBoxes": [ {
+        "text":"One day, Sir Gino sees Lukas sitting alone at the lunch table. “Hey, Lukas.” Sir Gino says with his charming smile. <br><br>“Why aren’t you playing with the others?”",
+        "styleClass": "NE"
+        },
+        {
+        "text":"Lukas gives Sir Gino a meek look. “I don’t know how to talk to them, it feels scary…”",
+        "styleClass": "SW"
+        }
       ],
-      "styleClass": "NE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 3.wav",
       "comment": "3"
     },
@@ -97,7 +102,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 4.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 4.png",
       "dialogue": [
-        "Sir Gino smiles and sits next to him. \"That's okay. If you want, I can be your friend.\" He says, putting a hand on Lukas's shoulder. His frown transforms to a bright smile. Finally, a friend!"
+        "Sir Gino smiles and sits next to Lukas. “Is that so? If you want, I can be your friend.” He says while putting a hand on Lukas’ shoulder. Lukas’ eyes shine brightly as he smiles. Finally! He had found a good friend!"
       ],
       "styleClass": "NE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 4.wav",
@@ -107,7 +112,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 5.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 5.png",
       "dialogue": [
-        "\"Would you like some of my food?\" Sir Gino says. He offers Lukas half of his sandwich. The hungry Lukas accepts his small gift and eats it with delight. As they eat together, Lukas finds himself being more relaxed in Sir Gino's presence."
+        "\"Would you like some food? I can give you half of my sandwich, if you like?” Sir Gino offered. Lukas accepted and ate the sandwich gleefully. He can’t help but feel accepted and comforted by Sir Gino’s presence."
       ],
       "styleClass": "ADJSW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 5.wav",
@@ -147,7 +152,7 @@
       "video": "lukas_lightbulb/Pages/PAGE 9.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 9.png",
       "dialogue": [
-        "During recess, Sir Gino approaches Lukas at their usual table, friendly as ever. \"Lukas, I just want to say, you're a very special boy,\" Sir Gino says with a smile. \"Since we're best friends, how about you play with me later?\" Lukas looks at him with a confused look. \"Play what? Where?\""
+        "Sir Gino approached Lukas on their usual table. They were laughing and happily telling stories to each other, when Sir Gino suddenly told Lukas, “Hey, Lukas, you are an incredibly bright student in Math! Since you’re special, would you like to join me later after class?” <br><br>Lukas gave a curious look and said, “Where are we going?”"
       ],
       "styleClass": "WW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 9.wav",
@@ -156,26 +161,16 @@
     {
       "video": "lukas_lightbulb/Pages/PAGE 10.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 10.png",
-      "choiceQuestion": "Should Lukas go with Sir Gino?",
-      "choiceStyle": "NW",
-      "choices": [
+      "dialogueBoxes": [
         {
-          "text": "Yes",
-          "jumpTo": 11,
-          "soundEffect": "MUSIC/SOUND EFFECTS/NEUTRAL.mp3",
-          "isNeutral":true
+          "text": "Sir Gino gave a gentle smile, “You should come and join me later. I will teach you a more advanced technique on Math. Besides that, I will give a special badge, just for you! What do you think?”",
+          "styleClass": "LUKAS-PG10-1"
         },
         {
-          "text": "No - Tell Sir Gino how that's wrong",
-          "jumpTo": 19,
-          "soundEffect": "MUSIC/SOUND EFFECTS/CORRECT.mp3",
-          "isNeutral":true
+          "text": "“Oh! Okay.” said Lukas. “However, I want you to promise me that this will be our little secret between the two of us.” <br><br><i>‘A secret?’</i> Lukas gave it much thought. <i>‘Why keep it a secret?’</i> Lukas wondered what Sir Gino said and it made him feel too uncomfortable to admit that this is not right.",
+          "styleClass": "LUKAS-PG10-2"
         }
       ],
-      "dialogue": [
-        "Sir Gino grins. \"I'll teach you advanced techniques…alone. Come with me later, I'll give you a special badge! What do you think?\" Sir Gino offers, smiling at Lukas. \"It will be our little secret.\" Lukas hesitates. \"That's not right. Why is this a secret?\" He thinks to himself."
-      ],
-      "styleClass": "SE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 10.wav",
       "comment": "10"
     },
@@ -183,7 +178,7 @@
       "video": "lukas_lightbulb/Pages/PAGE 11.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 11.png",
       "dialogue": [
-        "\"This is it…the special badge!\" Lukas is excited, but… he finds this weird. His tummy suddenly churns inside him, but the special badge makes it hard to say no. \"Okay,\" Lukas says in a quiet voice. There is still a feeling of unease around him."
+        "“Here you go! Your special badge!” Lukas excitedly gazed upon the badge, but he felt nervous, his heart beating loudly within his chest. However, he keeps on ignoring it as he focuses on this special badge. <br><br>“Wow… It… looks cool…”Lukas said nervously."
       ],
       "styleClass": "ADJWW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 11.wav",
@@ -193,7 +188,7 @@
       "video": "lukas_lightbulb/Pages/PAGE 12.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 12.png",
       "dialogue": [
-        "Sir Gino leads Lukas to a quiet part of the school. The corridors are eerily empty and dark. \"Why are we here in this part of the school? This is weird.\" Lukas thinks to himself again. It feels strange to walk in these parts alone with his teacher. Lukas is starting to suspect that Sir Gino is going to do something bad."
+        "Sir Gino brings Lukas to a dark and quiet room where not a single person passes by. <i>'Why are we in this room? It feels weird…'</i> Lukas wondered. While walking to a nearby corner, Lukas felt fearful, his knees buckled and his heart began to race. He thinks that Sir Gino may do something terrible."
       ],
       "styleClass": "ADJEE",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 12.wav",
@@ -577,7 +572,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 37.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 37.png",
       "dialogue": [
-        "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling well recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
+        "Lukas hesitates at first, but eventually agrees to follow her. The guidance counselor tells him about his parents' concerns once they are inside her office. \"Your parents told me that you haven't been feeling alright recently. Has anything been happening in school?\" She asks. Lukas continues to stay quiet, fearing judgment."
       ],
       "styleClass": "ADJSW",
       "bgAudio": "lukas_lightbulb/Audio/English/PAGE 37.wav",
