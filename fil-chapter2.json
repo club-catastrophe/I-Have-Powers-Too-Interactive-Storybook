@@ -82,27 +82,27 @@
     {
       "video": "beas_bubbles/Pages/pg 1 (FLATTENED).mp4",
       "dialogue": [
-        "Lumipat si Bea at ang kanyang pamilya sa barangay ng lola niya noong siya ay 12 taong gulang pa lang. Nang makita niya ang bago nilang bahay, tuwang-tuwa siya! \"Sa sala, narito ang aking malaking palasyo, at isang mabangis na dragon ang magbabantay sa bahay natin,\" masaya niyang sabi."
+        "Lumipat si Bea at ang kanyang pamilya sa barangay ng lola niya noong 12 taong gulang pa lang. \"Sa sala, narito ang aking malaking palasyo, at isang mabangis na dragon ang magbabantay sa bahay natin,\" masaya niyang sabi."
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 1.ogg",
-      "comment": "0"
+      "comment": "0" 
     },
 
     {
       "video": "beas_bubbles/Pages/pg 2 (FLATTENED).mp4",
       "dialogueBoxes": [
         {
-          "text": "Palaging nasa bahay si Bea. Gabi na kung umuwi ang nanay niya dahil nagtatrabaho ito sa call center, kaya madalas, kasama niya ang tatay niya sa gabi. Gustung-gusto niya ang bahay, maliban lang sa kanilang kuwarto.",
+          "text": "Si Bea ay madalas na naiiwan sa kanilang bahay kasama ag kanyang Tatay. Ang kayang Nanay ay nagtatrabaho sa call center kaya't madalas itong tulog sa umaga at wala tuwing gabi.",
           "styleClass": "ADJNW"
         },
         {
-          "text": "Ang tawag niya sa kwarto na iyon ay ang \"pinaka-kadiring kuwarto!\". Sa tuwing papasok siya, naiisip niya na may parang uhog sa sahig, sa dingding, at sa kanyang kama! Dahil doon, pakiramdam niya'y malagkit at marumi siya, dahil dito siya hinahawakan ng kanyang ama sa kanyang mga pribadong parte habang ang kanyang nanay ay nasa trabaho.",
+          "text": "May isang kuwarto na kinatatakutan si Bea. Ang tawag niya sa kwarto na iyon ay ang \"pinaka-kadiring kuwarto!\" Sa tuwing papasok siya, naiisip niya na may parang uhog sa buong kwarto! Dahil doon, pakiramdam niya'y malagkit at marumi siya, dahil dito siya hinahawakan ng kanyang ama sa kanyang mga pribadong parte habang ang kanyang nanay ay nasa trabaho.",
           "styleClass": "BEA-SW-PG2"
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 2.ogg",
-      "comment": "1"
+      "comment": "1" 
     },
 
     {
@@ -110,20 +110,21 @@
       "image": "beas_bubbles/Pages/pg 3 (FLATTENED).png",
       "dialogueBoxes": [
         {
-          "text": "Mula noon, laging puno ng katanungan ang kanyang isip. Palagi siyang nalulungkot at nalilito. Gusto niyang huminto na ito, pero hindi siya makatanggi dahil…",
+          "text": "Mula noon, puno ng takot, lungkot at pagkalito ang isip ni Bea. Gusto niyang matigil na ang ginagawa sa kanya ng kanyang tatay pero hindi siya makatanggi dahil,...",
           "styleClass": "NW"
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 3.ogg",
-      "comment": "2"
+      "comment": "2" 
     },
 
     {
        "video": "beas_bubbles/Pages/PAGE 4.mp4",
       "image": "beas_bubbles/Pages/pg 4 (FLATTENED).png",
       "styleClass": "SE",
-      "comment": "3",
+      "comment": "3", 
       "choiceQuestion": "Bakit hindi makatanggi si Bea?",
+      "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 4Q.ogg",
       "choiceStyle": "SW",
       "choices": [
         {
@@ -143,7 +144,7 @@
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 4.ogg",
-      "comment": "4"
+      "comment": "4" 
     },
 
     {
@@ -154,7 +155,7 @@
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 5.ogg",
-      "comment": "5"
+      "comment": "5" 
     },
 
     {
@@ -162,7 +163,7 @@
       "image": "beas_bubbles/Pages/pg 6 (FLATTENED).png",
       "dialogueBoxes": [
         {
-          "text": "May biglang kumatok sa pintuan nila Bea. Si Lola! \"Na-miss kita palangga! Kamusta ka?\" Tanong ni Lola.",
+          "text": "Lumipas ang ilang araw, ang Lola ni Bea ay bumisita. \"Na-miss kita palangga! Kamusta ka?\" Tanong ni Lola.",
           "styleClass": "ADJNW"
         },
         {
@@ -171,7 +172,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-6-UPDATED.ogg",
-      "comment": "6"
+      "comment": "6" 
     },
 
     {
@@ -183,7 +184,7 @@
       ],
       "styleClass": "BEA-NE-PG8",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 8.ogg",
-      "comment": "7"
+      "comment": "7" 
     },
 
     {
@@ -195,7 +196,7 @@
       ],
       "styleClass": "NW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 9.ogg",
-      "comment": "8"
+      "comment": "8" 
     },
 
     {
@@ -208,12 +209,12 @@
           "styleClass": "BEA-NE-PG10"
         },
         {
-          "text": "\"Parang nakikipaglaban sa isang malaki at nakakatakot na dragon. Kung ikaw ay maliit pa, hindi mo kayang labanan ito nang mag-isa. Pero pwede kang humingi ng tulong! May mga mandirigma na handang tumulong, na may mas malalaking kalasag at mas malalakas na kamay.\" Hinawakan ng Lola niya ang mukha ni Bea.",
+          "text": "\"Parang nakikipaglaban sa isang malaki at nakakatakot na dragon. Kung ikaw ay maliit pa, hindi mo kayang labanan ito nang mag-isa. Pero pwede kang humingi ng tulong! May mga mandirigma na handang tumulong, na may mas malalaking kalasag at mas malalakas na kamay.\"",
           "styleClass": "BEA-SW-PG10"
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 10.ogg",
-      "comment": "9"
+      "comment": "9" 
     },
 
     {
@@ -226,7 +227,7 @@
       ],
       "styleClass": "BEA-NE-PG11",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 11.ogg",
-      "comment": "10"
+      "comment": "10" 
     },
 
     {
@@ -243,7 +244,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 12.ogg",
-      "comment": "11"
+      "comment": "11" 
     },
 
     {
@@ -256,18 +257,18 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 13.ogg",
-      "comment": "12"
+      "comment": "12" 
     },
 
     {
       "video": "beas_bubbles/Pages/Page 14.mp4",
       "image": "beas_bubbles/Pages/pg 14 (FLATTENED).png",
       "dialogue": [
-        "Tanda ni Bea na mayroong mga tao na parang mandirigma; mga taong kaya siyang tulungan at protektahan. \"Sabi ni Lola, kapag nasa panganib ako, pwede akong magsabi sa isang nakakatanda. Siguro sasabihin ko kay Lola pagbalik niya... o kaya kay Nanay? Ay! Baka pwede kong sabihin kay Aling Inday na kapitbahay namin!\" bulong niya sa sarili niya."
+        "Tanda ni Bea na mayroong mga tao na parang mandirigma; mga taong kaya siyang tulungan at protektahan. \"Sabi ni Lola, kapag nasa panganib ako, pwede akong magsabi sa isang nakakatanda. Siguro sasabihin ko kay Lola pagbalik niya... o kaya kay Nanay? Ay! Baka pwede kong sabihin kay Aling Inday na kapitbahay namin!\""
       ],
       "styleClass": "WW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 14.ogg",
-      "comment": "13"
+      "comment": "13" 
     },
 
     {
@@ -279,7 +280,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 15.ogg",
-      "comment": "14"
+      "comment": "14" 
     },
 
     {
@@ -318,7 +319,7 @@
       ],
       "styleClass": "ADJSW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 17.ogg",
-      "comment": "16"
+      "comment": "16" 
     },
 
     {
@@ -329,7 +330,7 @@
       ],
       "styleClass": "BEA-NE-PG18",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-UPDATED.ogg",
-      "comment": "17"
+      "comment": "17" 
     },
 
     {
@@ -337,7 +338,7 @@
       "image": "beas_bubbles/Pages/pg 18.1 (FLATTENED).png",
       "styleClass": "ADJ2SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-18-1-Q-UPDATED.ogg",
-      "comment": "18",
+      "comment": "18", 
       "choiceQuestion": "Magsusumbong ba si Bea?",
       "choiceStyle": "ADJSE",
       "choices": [
@@ -364,7 +365,7 @@
       ],
       "styleClass": "ADJ4SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 19.ogg",
-      "comment": "19"
+      "comment": "19" 
     },
 
     {
@@ -375,7 +376,7 @@
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 20.ogg",
-      "comment": "20"
+      "comment": "20" 
     },
 
     {
@@ -397,7 +398,7 @@
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 22.ogg",
-      "comment": "22"
+      "comment": "22" 
     },
 
     {
@@ -429,7 +430,7 @@
       ],
       "styleClass": "EE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 23.1.ogg",
-      "comment": "24"
+      "comment": "24" 
     },
 
     {
@@ -446,7 +447,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 24.ogg",
-      "comment": "25"
+      "comment": "25" 
     },
 
     {
@@ -457,7 +458,7 @@
       ],
       "styleClass": "NW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 25.ogg",
-      "comment": "26",
+      "comment": "26", 
       "choiceQuestion": "Lalabas ba si Bea upang magsabi sa ibang tao o makikinig siya sa kanyang Tatay at mananatili na lamang sa bahay",
       "choiceStyle": "ADJSW",
       "choices": [
@@ -484,7 +485,7 @@
       ],
       "styleClass": "SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-26-UPDATED.ogg",
-      "comment": "27"
+      "comment": "27" 
     },
 
     {
@@ -518,7 +519,7 @@
       ],
       "styleClass": "EE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 27.ogg",
-      "comment": "29"
+      "comment": "29" 
     },
 
     {
@@ -546,7 +547,7 @@
       ],
       "styleClass": "BEA-SW-PG29",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 29.ogg",
-      "comment": "31"
+      "comment": "31" 
     },
 
     {
@@ -557,7 +558,7 @@
       ],
       "styleClass": "NE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 30.ogg",
-      "comment": "32"
+      "comment": "32" 
     },
 
     {
@@ -568,7 +569,7 @@
       ],
       "styleClass": "BEA-NN-CL-PG31",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 31.ogg",
-      "comment": "33"
+      "comment": "33" 
     },
 
     {
@@ -579,7 +580,7 @@
       ],
       "styleClass": "EE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 32.ogg",
-      "comment": "34"
+      "comment": "34" 
     },
 
     {
@@ -596,7 +597,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 33.ogg",
-      "comment": "35"
+      "comment": "35" 
     },
 
     {
@@ -608,12 +609,12 @@
           "styleClass": "ADJ3NE"
         },
         {
-          "text": "“Hinahawakan ng aking tatay ang aking dede at pepe kapag natutulog ako at pinapa kandong niya din ako sa kanyang hita. Nandidiri ako at natatakot na para bang gusto ko pong umiyak! Tulungan niyo po ako!” Sinabi ni Bea.",
+          "text": "“Hinahawakan ng aking tatay ang aking dede at pepe kapag natutulog ako at pinapa kandong niya din ako sa kanyang hita. Nandidiri ako at natatakot na para bang gusto ko na pong umiyak! Tulungan niyo po ako!” Sinabi ni Bea.",
           "styleClass": "SW"
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE-34-UPDATE.ogg",
-      "comment": "36"
+      "comment": "36" 
     },
 
     {
@@ -630,7 +631,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 35.ogg",
-      "comment": "37"
+      "comment": "37" 
     },
 
     {
@@ -647,7 +648,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 36.ogg",
-      "comment": "38"
+      "comment": "38" 
     },
 
     {
@@ -664,7 +665,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 37.ogg",
-      "comment": "39"
+      "comment": "39" 
     },
 
     {
@@ -681,7 +682,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 38.ogg",
-      "comment": "40"
+      "comment": "40" 
     },
 
     {
@@ -698,7 +699,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 39.ogg",
-      "comment": "41"
+      "comment": "41" 
     },
 
     {
@@ -715,7 +716,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 40.ogg",
-      "comment": "42"
+      "comment": "42" 
     },
 
     {
@@ -732,14 +733,14 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 41.ogg",
-      "comment": "43"
+      "comment": "43" 
     },
 
     {
       "video": "beas_bubbles/Pages/PAGE 27B.mp4",
       "image": "beas_bubbles/Pages/pg 42 (FLATTENED).png",
       "dialogue": [
-        "\"Tulad kapag pinaliliguan ka ng nanay mo, o kapag kinikilatis ng doktor ang katawan mo para sa sugat. Iyon lang ang mga pagkakataong dapat hinahawakan ang mga bahagi ng katawan mo ha?\" pagturo ni Lola kay Bea. <br><br>“Ang mga pribadong parte ng iyong katawan ay ang iyong suso, pwet, at pepe. Tama lang na mandiri ka dahil wala dapat humahawak at nakakakita ng pribado mong parte sa ganong paningin.”"
+        "\"Tulad kapag pinaliliguan ka ng nanay mo, o kapag kinikilatis ng doktor ang katawan mo para sa sugat. Iyon lang ang mga pagkakataong dapat hinahawakan ang mga bahagi ng katawan mo ha?\" Pagturo ni Lola kay Bea. <br><br>“Ang mga pribadong parte ng iyong katawan ay ang iyong suso, pwet, at pepe. Tama lang na mandiri ka dahil wala dapat humahawak at nakakakita ng pribado mong parte sa ganong paningin.”"
       ],
       "styleClass": "BEA-NW-PG42-PG27B-PH",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 42.ogg",
@@ -760,7 +761,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 43.ogg",
-      "comment": "45"
+      "comment": "45" 
     },
 
     {
@@ -771,7 +772,7 @@
       ],
       "styleClass": "SE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 44.ogg",
-      "comment": "46"
+      "comment": "46" 
     },
 
     {
@@ -782,7 +783,7 @@
       ],
       "styleClass": "SE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 45.ogg",
-      "comment": "47"
+      "comment": "47" 
     },
 
     {
@@ -793,7 +794,7 @@
       ],
       "styleClass": "SE",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 46.ogg",
-      "comment": "48"
+      "comment": "48" 
     },
 
     {
@@ -804,7 +805,7 @@
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 47.ogg",
-      "comment": "49"
+      "comment": "49" 
     },
 
     {
@@ -821,7 +822,7 @@
         }
       ],
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 48.ogg",
-      "comment": "50"
+      "comment": "50" 
     },
 
     {
@@ -832,7 +833,7 @@
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 49.ogg",
-      "comment": "51"
+      "comment": "51" 
     },
 
     {
@@ -843,7 +844,7 @@
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 50.ogg",
-      "comment": "52"
+      "comment": "52" 
     },
 
     {
@@ -854,7 +855,7 @@
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 51.ogg",
-      "comment": "53"
+      "comment": "53" 
     },
 
     {
@@ -865,7 +866,7 @@
       ],
       "styleClass": "BEA-PG51",
       "bgAudio": "beas_bubbles/Audio/Tagalog/PAGE 52.ogg",
-      "comment": "54",
+      "comment": "54", 
       "choiceStyle": "SW",
       "choiceQuestion": "Pagisipan natin ang storya ni Bea!",
       "choices": [
