@@ -320,7 +320,7 @@
        "video": "lukas_lightbulb/Pages/PAGE 21.mp4",
       "image": "lukas_lightbulb/Pages/CHAP 1_PAGE 21.png",
       "dialogue": [
-        "“Sinabihan niya akong sumama sa kanya para makakuha ako ng STAR, pero naging kakaiba at nakakatakot siya. Tapos, sinubukan niya kong hawakan”\n“Pero bakit niya gagawin ‘yan? Paborito ka niya.”\nNasaktan ng malubha si Lukas. Hindi niya gusto ang sinabi ng kanyang kaklase, ngunit hindi niya alam kung ano ang sasabihin. Sa halip, ibinaba niya ang kanyang ulo. Hindi nagtagal, umalis ang kanyang kaklase upang makipaglaro sa kanyang mga kaibigan habang iniwan niya si Lukas mag-isa."
+        "“Sinabihan niya akong sumama sa kanya para makakuha ako ng STAR, pero naging kakaiba at nakakatakot siya. Tapos, sinubukan niya kong hawakan”\n“Pero bakit niya gagawin ‘yan? Paborito ka niya.”\nNasaktan ng malubha si Lukas. Hindi niya gusto ang sinabi ng kanyang kaklase, ngunit hindi niya alam kung ano ang sasabihin. Sa halip, ibinaba niya ang kanyang ulo. Hindi nagtagal, umalis ang kanyang kaklase upang makipaglaro sa kanyang mga kaibigan habang iniwan niya si Lukas na mag-isa."
       ],
       "styleClass": "ADJ2SW",
       "bgAudio": "lukas_lightbulb/Audio/Tagalog/PAGE 21.ogg",
@@ -359,7 +359,7 @@
         "“Uy, Lukas. Okay ka lang ba? Anong nangyari sa paaralan?” mahinahong tanong ng kanyang tatay. Dumating ang kanyang nanay at umupo sa tabi niya. “Kung may problema ka, pwede mo kaming sabihan. Makikinig kami.” sabi niya."
       ],
       "styleClass": "ADJ6NE",
-      "choiceQuestion": "Hindi komprtable ba si Lukas sa ginawa ni Sir Gino?",
+      "choiceQuestion": "Hindi ba komportable si Lukas sa ginawa ni Sir Gino?",
       "choiceStyle": "ADJSE",
       "choices": [
         {
