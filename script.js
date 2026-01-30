@@ -12,11 +12,11 @@ let currentChapterData = null;
 let fromChapterSelect = false;
 let creditsScrollTimeout;
 let creditsMusic = null; 
-let homescreenMusic = null;
-let isHomescreenMusicPlaying = false;
+//let homescreenMusic = null;
+let isHomescreenMusicPlaying = true;
 let homescreenInteractionListeners = [];
 let chapterSelectMusic = null;
-let isChapterSelectMusicPlaying = false;
+let isChapterSelectMusicPlaying = true;
 let pageViewCount = 0;
 let volumeDebugLog = [];
 
