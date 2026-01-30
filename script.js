@@ -13,10 +13,10 @@ let fromChapterSelect = false;
 let creditsScrollTimeout;
 let creditsMusic = null; 
 let homescreenMusic = null;
-let isHomescreenMusicPlaying = true;
+let isHomescreenMusicPlaying = false;
 let homescreenInteractionListeners = [];
 let chapterSelectMusic = null;
-let isChapterSelectMusicPlaying = true;
+let isChapterSelectMusicPlaying = false;
 let pageViewCount = 0;
 let volumeDebugLog = [];
 
@@ -44,11 +44,11 @@ const translations = {
     chapterSelect: "Chapter Select",
 
     introTitle: "To the little ones,",
-    introSubtitle: "seek your power and wield it,",
+    introSubtitle: "seek your power and wield it.",
     beginStory: "Begin Story",
 
     dedTitle: "Hello there, dear reader!",
-    dedSubtitle: "We courteously invite you to walk with us through the winding streets of the city, where three different children with hidden powers lived. Their strengths kept secret to themselves, unbeknownst to them. Read and choose how they go about their journeys, discovering their incredible abilities along the way and see how their stories intertwine. Who knows? Maybe in the end... You will find your superpowers too.",
+    dedSubtitle: "We courteously invite you to walk with us through the winding streets of the city, where three different children with hidden powers lived. Their strengths kept secret to themselves, unbeknownst to them. Read and choose how they go about their journeys, discovering their incredible abilities along the way and see how their stories intertwine. Who knows? Maybe in the end... You will find your superpowers too!",
     dedButton: "Continue",
 
     chapterSelectTitle: "Chapter Select",
